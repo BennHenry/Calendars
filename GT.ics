@@ -1,0 +1,12 @@
+--2022-09-16 11:35:47--  http://seminaire.univ-lille1.fr/taxonomy/term/41/export.ics
+Résolution de seminaire.univ-lille1.fr (seminaire.univ-lille1.fr)… 195.83.34.6
+Connexion à seminaire.univ-lille1.fr (seminaire.univ-lille1.fr)|195.83.34.6|:80… connecté.
+requête HTTP transmise, en attente de la réponse… 200 OK
+Taille : non indiqué [text/calendar]
+Enregistre : ‘export.ics’
+
+     0K .......... .......... .......... .......... .......... 5,17M
+    50K .......... .......... .......                          1,39M=0,03s
+
+2022-09-16 11:35:54 (2,62 MB/s) - ‘export.ics’ enregistré [79694]
+
