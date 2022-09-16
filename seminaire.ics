@@ -1,0 +1,3369 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Date iCal//NONSGML kigkonsult.se iCalcreator 2.20.2//
+METHOD:PUBLISH
+X-WR-CALNAME;VALUE=TEXT:Seminar calendar
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20161030T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+RDATE:20171029T030000,20181028T030000,20191027T030000,20201025T030000,20211
+ 031T030000
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20160327T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20170326T020000,20180325T020000,20190331T020000,20200329T020000,20210
+ 328T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:calendar.575.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20210520T141235Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nStatistics\n\n\n\n\nIn this review talk we give a quick int
+ roduction to point patterns in\nthe plane: Intensity\, higher order moment
+ s\, functional summary\nstatistics\, point process models and inference. T
+ hen we see how these\nclassical tools extend to the sphere. We will show h
+ ow to handle point\npatterns on the sphere in R. The talk is to the applie
+ d side as it\ncontains no proofs\, but has a bit of R code and software il
+ lustration.\n\n\nDates: \n\nWednesday\, June 2\, 2021 - 10:30\n\nLocation:
+  \n\nEn visio\n\nSpeaker(s): \n\nEge Rubak
+DTSTART;TZID=Europe/Paris:20210602T103000
+DTEND;TZID=Europe/Paris:20210602T103000
+LAST-MODIFIED:20210520T141235Z
+LOCATION:En visio
+SUMMARY:Point patterns on the sphere
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/575
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.558.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20210329T210708Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nThe most common model sele
+ ction approaches rely on univariate linear\nmeasures of association betwee
+ n each feature and the outcome. The\npost-selection inference framework th
+ en makes it possible to perform\nvalid statistical inference (such as eval
+ uating the association of a\njoint model built from selected variables wit
+ h the outcome) by\nconditioning on the selection event. By contrast\, kern
+ el-based\nprocedures allow to account for nonlinear effects and interactio
+ ns\nbetween features. We show how to extend the post-selection inference\n
+ framework to stepwise kernel selection procedures\, which we model as a\ns
+ uccession of constraints that are quadratic in the outcome variable.\nOur 
+ work is motivated by its application to intragenic epistasis\ndetection in
+  high-dimensional genomics data.\n\n\nSlim et al. (2019) kernelPSI: a post
+ -selection inference framework for\nnonlinear variable selection\, Proceed
+ ings of ICML 97:5857—5865.\n\n\nDates: \n\nWednesday\, May 26\, 2021 - 10:
+ 30\n\nLocation: \n\nSalle de Séminaire online\n\nSpeaker(s): \n\nChloé-Aga
+ the Azencott
+DTSTART;TZID=Europe/Paris:20210526T103000
+DTEND;TZID=Europe/Paris:20210526T103000
+LAST-MODIFIED:20210329T210745Z
+LOCATION:Salle de Séminaire online
+SUMMARY:Post-selection inference with kernels
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/558
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.568.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20210416T092630Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDe nombreux résultats perm
+ ettent d'affirmer aujourd'hui que le \ncomportement asymptotique typique d
+ es statistiques spectrales de \nmatrices de Wigner est universel : la dist
+ ribution des valeurs propres \nest asymptotiquement proche de la loi semi-
+ circulaire\, les vecteurs \npropres sont complètement délocalisés\, et les
+  fonctions de corrélation \ncoïncident asymptotiquement avec celles des en
+ sembles gaussiens. Qu'en \nest-il du comportement de grandes déviations ? 
+ Est-il universel ou bien \ndans le cas contraire\, comment les fonctionnel
+ les de taux et les \nvitesses peuvent dépendre de la distribution des coef
+ ficients ? Dans cet \nexposé\, on présentera différentes techniques qui pe
+ rmettent d'aborder \nces questions\, en particulier au travers de celle de
+ s grandes déviations \nde la plus grande valeur propre de matrices de Wign
+ er qui est l'objet \nd'un travail en collaboration avec A. Guionnet et J. 
+ Husson.\n\n\nDates: \n\nWednesday\, May 19\, 2021 - 10:30\n\nLocation: \n
+ \nSalle de Séminaire Online\n\nSpeaker(s): \n\nFanny Augeri
+DTSTART;TZID=Europe/Paris:20210519T103000
+DTEND;TZID=Europe/Paris:20210519T103000
+LAST-MODIFIED:20210416T092630Z
+LOCATION:Salle de Séminaire Online
+SUMMARY:Grandes déviations de matrices aléatoires : entre universalité et n
+ on-universalité
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/568
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.567.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20210415T093339Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nLe recuit simulé est un al
+ gorithme stochastique classique permettant de trouver le minimum d’une fon
+ ction (un potentiel) $U>0$. On fait partir une particule markovienne (inho
+ mogène) qui est poussée au fond des « trous »  de potentiel et qui est suf
+ fisamment excitée pour sortir des trous (ou puits) des minima locaux. Si l
+ a température (reliée au coefficient de diffusion) décroit à la bonne vite
+ sse alors la particule se confinera dans les puits des minima globaux et e
+ lle convergera en probabilité vers un minimum global. Ce résultat bien con
+ nu pour des chaînes de Markov à espace d’état fini a été généralisé aux di
+ ffusions à valeurs dans des variétés compactes par Holley-Kusuoka-Stroock.
+  Le cas (non compact) de R^d a été considéré par Miclo\, cependant ses hyp
+ othèses sur $U$ sont assez contraignantes : par exemple  $U$ n’est pas aut
+ orisée à avoir des minima locaux en dehors d’un compact. Je présenterai de
+ s résultats récents obtenus en collaboration avec N. Fournier et P. Monmar
+ ché qui donne des conditions sur $U$ plus naturelles pour que le recuit si
+ mulé fonctionne.\n \n\n\nDates: \n\nWednesday\, May 12\, 2021 - 10:30\n\nL
+ ocation: \n\nSalle de séminaire online\n\nSpeaker(s): \n\nCamille Tardif
+DTSTART;TZID=Europe/Paris:20210512T103000
+DTEND;TZID=Europe/Paris:20210512T103000
+LAST-MODIFIED:20210415T093357Z
+LOCATION:Salle de séminaire online
+SUMMARY:Sur le recuit simulé dans $R^d$
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/567
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.564.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20210401T095407Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nFiltering hidden Markov mo
+ dels\, or sequential Bayesian inference on the hidden state of a signal\, 
+ is analytically tractable only for a handful of models. Examples are finit
+ e-dimensional state space models and linear Gaussian systems (Baum-Welch a
+ nd Kalman filters). Recently\, Papaspiliopoulos et al. ([1]\, [2])⁠ propos
+ ed a principled approach for extending the realm of analytically tractable
+  models\, exploiting a duality relation between the hidden process and an 
+ auxiliary process. Then\, the solution of the filtering problem consists i
+ n a finite mixture of distributions. We study the computational effort req
+ uired to implement this strategy for two parametric and nonparametric mode
+ ls: the Cox-Ingersoll-Ross process\, the K-dimensional Wright-Fisher proce
+ ss\, the Dawson-Watanabe process and the Fleming-Viot process. In all case
+ s\, the number of components involved in the filtering distributions incre
+ ases rapidly with the number of observations. Although this could render t
+ he algorithm impractical for long observation sequences and undermine its 
+ practical relevance\, the mathematical form of the filtering distributions
+  suggests that the number of components which contribute most to the mixtu
+ re remains small. This suggests several efficient natural approximation st
+ rategies. We assess the performance of these strategies in terms of accura
+ cy\, speed and prediction\, benchmarked against the exact solution.\n\n\nA
+  preprint of this work is available at: https://arxiv.org/abs/2006.03452\n
+ \n\n[1] O. Papaspiliopoulos and M. Ruggiero\, “Optimal filtering and the d
+ ual process\,” Bernoulli\, vol. 20\, no. 4\, pp. 1999–2019\, 2014.\n[2] O.
+  Papaspiliopoulos\, M. Ruggiero\, and D. Spano\, “Conjugacy properties of 
+ time-evolving Dirichlet and gamma random measures\,” Electron. J. Stat.\, 
+ vol. 10\, no. 2\, pp. 3452–3489\, 2016.\n\n\n \n\n\nDates: \n\nWednesday\,
+  April 21\, 2021 - 10:30\n\nLocation: \n\nSalle de Séminaire Online\n\nSpe
+ aker(s): \n\nGuillaume Kon-Kam-King
+DTSTART;TZID=Europe/Paris:20210421T103000
+DTEND;TZID=Europe/Paris:20210421T103000
+LAST-MODIFIED:20210401T095407Z
+LOCATION:Salle de Séminaire Online
+SUMMARY:Exact inference for a class of non-linear hidden Markov models on g
+ eneral state spaces
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/564
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.556.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20210327T124626Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nLa chimiotaxie est un phén
+ omène par lequel une population de cellules se dirige sous la stimulation 
+ d’un signal chimique présent dans son environnement. Au niveau macroscopiq
+ ue\, ce phénomène est modélisé par le système de Keller-Segel dont la part
+ icularité est le fait que ses solutions peuvent exploser en temps fini. Po
+ ur étudier ce système dans sa forme parabolique\, on propose un système de
+  particules stochastique avec une interaction inhabituelle : chaque partic
+ ule interagit avec le passé de toutes les autres par l’intermédiaire d’un 
+ noyau espace-temps fortement singulier. On montrera l’existence et la prop
+ agation de chaos pour ce système dans le cas unidimensionnel. On discutera
+  les résultats numériques dans le cas bi-dimensionnel et nous énoncerons a
+ ussi un résultat d’existence et unicité pour l’EDS non-linéaire au sens de
+  McKean sous des conditions explicites sur les paramètres du modèle dans l
+ e cas bi-dimensionnel.\nCet exposé est basé sur plusieurs travaux dont un 
+ commun avec J-F. Jabir (HSE\, Moscou) et D. Talay (Inria).\n\n\nDates: \n
+ \nWednesday\, April 14\, 2021 - 10:30\n\nLocation: \n\nSalle de séminaire 
+ online\n\nSpeaker(s): \n\nTomasevic Milica
+DTSTART;TZID=Europe/Paris:20210414T103000
+DTEND;TZID=Europe/Paris:20210414T103000
+LAST-MODIFIED:20210327T124626Z
+LOCATION:Salle de séminaire online
+SUMMARY:Particules en interaction singulière et non-markovienne pour Keller
+ -Segel parabolique-parabolique
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/556
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.538.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20210208T113612Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nEn collaboration avec Abir
+  EL HAJ\, Cyril PERRET et Pierre-Yves LOUIS.\n\n\nCette présentation porte
+  sur l’analyse de réseaux pondérés\, graphes  \nfinis où chaque arête est 
+ associée à un poids représentant l'intensité  \nde sa force. Nous introdui
+ sons une extension du modèle à blocs  \nstochastiques (SBM) binaire\, appe
+ lée modèle à blocs stochastiques \nbinomial (bSBM). Cette question est mot
+ ivée par l'étude des réseaux de  \nco-citations dans un contexte de fouill
+ e de textes où les données sont  \nreprésentées par un graphe. Les noeuds 
+ sont des mots et chaque arête  \njoignant deux mots est pondérée par le no
+ mbre de documents inclus dans  \nle corpus citant simultanément cette pair
+ e de mots. Nous développons  \nune méthode d'inférence basée sur l'algorit
+ hme espérance maximisation  \nvariationnel (EMV) et une autre basée sur l'
+ algorithme espérance \nmaximisation variationnel bayésien (EMVB) pour esti
+ mer les paramètres  \ndu modèle proposé ainsi que pour classifier les mots
+  du réseau. Puis  \nnous adoptons une méthode qui repose sur la maximisati
+ on d'un critère  \nICL (en anglais integrated classification likelihood) p
+ our  \nsélectionner le modèle optimal et le nombre de clusters.\nDes appli
+ cations à des données réelles sont adoptées pour montrer \nl’efficacité de
+ s deux méthodes ainsi que pour les comparer. Enfin\,  \nnous développons u
+ n SBM avec plusieurs attributs pour traiter les \nréseaux ayant des poids 
+ associés aux noeuds. Nous motivons cette \nméthode par une application qui
+  vise au développement d'un outil \nd’aide à la spécification de différent
+ s traitements cognitifs réalisés  \npar le cerveau lors de la préparation 
+ à l'écriture.\n\n\nDates: \n\nWednesday\, March 31\, 2021 - 10:30\n\nLocat
+ ion: \n\nSalle de Séminaire Online\n\nSpeaker(s): \n\nYousri Slaoui
+DTSTART;TZID=Europe/Paris:20210331T103000
+DTEND;TZID=Europe/Paris:20210331T103000
+LAST-MODIFIED:20210208T113612Z
+LOCATION:Salle de Séminaire Online
+SUMMARY:Extension du modèle à blocs stochastiques pour traiter les réseaux 
+ ayant des noeuds pondérés avec application sur des données EEG.
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/538
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.549.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20210219T174822Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans ce travail\, nous con
+ struisons un nouvel estimateur non param ́etrique de la fonction de r ́egr
+ ession en utilisant l’erreur quadratique relative moyenne comme fonction d
+ e perte. Cette derni`ere est une approche alternative `a la r ́egression c
+ lassique qui est r ́esistante et moins influenc ́ee par la pr ́esence des 
+ valeurs aberrantes. Nous utilisons dans la construction de notre estimateu
+ r l’approche lin ́eaire locale qui a l’avantage de r ́esister aux ef- fets
+  de bord lorsque les donn ́ees sont censur ́ees al ́eatoirement a` droite.
+  Sous des hypoth`eses appropri ́ees\, la convergence uniforme presque suˆr
+ e (sur un compact) avec vitesse est ́etablie. Pour consolider notre r ́esu
+ ltat th ́eorique\, nous montrons les performances et l’efficacit ́e de la 
+ m ́ethode ́etudi ́ee au moyen d’une ́etude num ́erique.\n\n\nDates: \n\nTu
+ esday\, March 30\, 2021 - 14:30\n\nLocation: \n\nSalle de Séminaire Online
+ \n\nSpeaker(s): \n\nFeriel BOUHADJERA
+DTSTART;TZID=Europe/Paris:20210330T143000
+DTEND;TZID=Europe/Paris:20210330T143000
+LAST-MODIFIED:20210219T174822Z
+LOCATION:Salle de Séminaire Online
+SUMMARY:Estimation non paramétrique locale linéaire de la fonction de régre
+ ssion relative pour un modèle de censure
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/549
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.541.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20210209T145959Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nUn des problèmes les plus 
+ classiques dans la littérature consacrée au mouvement brownien réfléchi da
+ ns un cône bidimensionnel est l'étude de sa distribution stationnaire dans
+  le cas récurrent. Nous nous intéresserons en revanche dans cet exposé au 
+ cas transient afin d'étudier les fonctions de Green de ce processus et leu
+ r asymptotique. Cela nous mènera naturellement à considérer la frontière d
+ e Martin du processus qui permet de déterminer les fonctions harmoniques s
+ atisfaisant des conditions de Neumann obliques sur les bords. Pour certain
+ s modèles\, nous illustrerons cela en étudiant la probabilité de fuite du 
+ processus le long d'un axe ou encore sa probabilité d'absorption à l'origi
+ ne. \n\n\nPour établir nos résultats\, nous utilisons des méthodes analyti
+ ques historiquement développées en probabilités et en combinatoire pour ét
+ udier les marches dans le quadrant. Nous partons d'équations fonctionnelle
+ s que satisfont les transformées de Laplace des fonctions de Green et des 
+ probabilités de fuite ou d'absorption. La théorie des problèmes frontière 
+ (de Riemann et de Carleman) permet de déterminer des formules explicites p
+ our ces transformées impliquant des fonctions hypergéométriques. La méthod
+ e du point col et des lemmes de transfert permettent quant à eux de calcul
+ er l'asymptotique et d'établir la frontière de Martin.\n\n\nDates: \n\nWed
+ nesday\, March 24\, 2021 - 10:30\n\nLocation: \n\nSalle de Séminaire Onlin
+ e\n\nSpeaker(s): \n\nSandro Franceschi
+DTSTART;TZID=Europe/Paris:20210324T103000
+DTEND;TZID=Europe/Paris:20210324T103000
+LAST-MODIFIED:20210317T122054Z
+LOCATION:Salle de Séminaire Online
+SUMMARY:Mouvement Brownien réfléchi dans un cône: étude du cas transient. P
+ robabilité de fuite\, fonctions de Green et frontière de Martin
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/541
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.545.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20210211T113014Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nWe study three geometrical
+  characteristics for the excursion sets of a 2-dimensional standard (cente
+ red and unit variance) stationary isotropic random field X. These characte
+ ristics can be estimated without bias if the field satisfies a kinematic f
+ ormula\, such as a smooth Gaussian field or some shot noise fields. If the
+  field is Gaussian\, we show how to remove the constraining assumption tha
+ t the field is standard and adapt the previous estimators. We illustrate h
+ ow these quantities can be used to recover some parameters of X and perfor
+ m testing procedures. Finally\, we use these tools to build a test to dete
+ rmine if two images of excursion sets can be compared. This test is applie
+ d on both synthesized and real mammograms.\n\n\n(Issus de travaux joints a
+ vec Hemine Biermé\, Elena Di Bernardino et Anne Estrade)\n\n\n \n\n\nDates
+ : \n\nFriday\, March 19\, 2021 - 10:30\n\nLocation: \n\nSalle de Séminaire
+  Online\n\nSpeaker(s): \n\nCeline Duval
+DTSTART;TZID=Europe/Paris:20210319T103000
+DTEND;TZID=Europe/Paris:20210319T103000
+LAST-MODIFIED:20210211T113014Z
+LOCATION:Salle de Séminaire Online
+SUMMARY:Statistics for Gaussian Random Fields with Unknown Location and Sca
+ le using Lipschitz-Killing Curvatures
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/545
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.542.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20210209T150602Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nMany mathematical models i
+ nvolve input parameters\, which are not precisely known. Global sensitivit
+ y analysis aims to identify the parameters whose uncertainty has the large
+ st impact on the variability of a quantity of interest. One of the statist
+ ical tools used to quantify the influence of each input variable on the qu
+ antity of interest are the Sobol' sensitivity indices. In this paper\, we 
+ consider stochastic models described by stochastic differential equations 
+ (SDE). We focus the study on mean quantities\, defined as the expectation 
+ with respect to the Wiener measure of a quantity of interest related to th
+ e solution of the SDE itself. Our approach is based on a Feynman-Kac repre
+ sentation of the quantity of interest\, from which we get a parametrized p
+ artial differential equation (PDE) representation of our initial problem. 
+ We then handle the uncertainty on the parametrized PDE using polynomial ch
+ aos expansion and a stochastic Galerkin projection.\n\n\nTalk will be in F
+ rench.\n\n\nDates: \n\nWednesday\, March 17\, 2021 - 10:30\n\nLocation: \n
+ \nSalle de Séminaire Online\n\nSpeaker(s): \n\nPierre Etoré
+DTSTART;TZID=Europe/Paris:20210317T103000
+DTEND;TZID=Europe/Paris:20210317T103000
+LAST-MODIFIED:20210209T150602Z
+LOCATION:Salle de Séminaire Online
+SUMMARY:Global sensitivity analysis for models described by stochastic diff
+ erential equations
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/542
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.540.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20210209T114827Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nLa méthode de Malliavin-St
+ ein combine la méthode de Stein avec une \nintégration par parties grâce a
+ u calcul de Malliavin pour obtenir des \nbornes quantitatives entre la loi
+  d'une fonctionnelle d'un processus \nGaussien et une loi cible (typiqueme
+ nt la loi normale). Cette méthode a \nhistoriquement été développé par D. 
+ Nualart & S. Ortiz-Latorre et I.  \nNourdin & G. Peccati afin de donner un
+ e preuve alternative et \nquantitative des théorèmes du moment quatrième (
+ Nualart-Peccati et \nPeccati-Tudor).\nDepuis la méthode a été généralisée 
+ à des fonctionnelles d'autres \nprocessus pour lesquels une intégration pa
+ r partie existe. En \nparticulier pour des fonctionnelles de processus de 
+ Poisson\, méthode \ndéveloppée initialement par G. Peccati \, J-L. Solé \,
+  M. S. Taqqu & F.  \nUtzet. Depuis cette méthode a permis d'établir des ré
+ sultats \nasymptotiques importants en géométrie stochastique (par ex\, \nL
+ ast-Peccati-Schulte). Récemment un théorème du moment quatrième a été \nét
+ abli sur l'espace de Poisson par G. Peccati & C. Döbler pour \nl'approxima
+ tion gaussienne.\nDans cet exposé\, je présenterai certains développements
+  récents de la \nméthode de Malliavin-Stein sur l'espace de Poisson. J'ins
+ isterai sur un \nde mes résultats s'intéresse à l'estimation de fonctionne
+ lles de Poisson\npar des mélanges gaussiens (variable normale avec varianc
+ e aléatoire) et\npar des mélanges poissoniens (variable poissonienne avec 
+ moyenne \naléatoire). J'obtiens des conditions nécessaires et quantitative
+ s pour \nla convergence stable de loi de fonctionnelles de Poisson vers un
+  de ces\nmélanges. Cela donne en particulier une version stable du théorèm
+ e du \nmoment quatrième sur l'espace de Poisson. Je présenterai ensuite un
+ e \napplication sur un modèle jouet venu des processus stochastiques.  \nF
+ inalement\, je présenterai quelques questions ouvertes en lien avec la \ng
+ éométrie stochastique.\n\n\nDates: \n\nWednesday\, March 10\, 2021 - 10:30
+ \n\nLocation: \n\nSalle de Séminaire Online\n\nSpeaker(s): \n\nRonan Herry
+DTSTART;TZID=Europe/Paris:20210310T103000
+DTEND;TZID=Europe/Paris:20210310T103000
+LAST-MODIFIED:20210209T114827Z
+LOCATION:Salle de Séminaire Online
+SUMMARY:Estimation de fonctionnelles de Poisson par des mélanges
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/540
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.539.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20210208T174931Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nOscillatory systems of int
+ eracting Hawkes processes with Erlang memory kernels were introduced in Di
+ tlevsen & Loecherbach (2017). They are piecewise deterministic Markov proc
+ esses (PDMP) and can be approximated by a stochastic diffusion. First\, a 
+ strong error bound between the PDMP and the diffusion is proved. Second\, 
+ moment bounds for the resulting diffusion are derived. Third\, approximati
+ on schemes for the diffusion\, based on the numerical splitting approach\,
+  are proposed. These schemes are proved to converge with mean-square order
+  1 and to preserve the properties of the diffusion\, in particular the hyp
+ oellipticity\, the ergodicity and the moment bounds. Finally\, the PDMP an
+ d the diffusion are compared through numerical experiments\, where the PDM
+ P is simulated with an adapted thinning procedure.\n\n\nDates: \n\nTuesday
+ \, March 9\, 2021 - 14:30\n\nLocation: \n\nSalle de Séminaire Online\n\nSp
+ eaker(s): \n\nAnna Melnykova
+DTSTART;TZID=Europe/Paris:20210309T143000
+DTEND;TZID=Europe/Paris:20210309T143000
+LAST-MODIFIED:20210208T174931Z
+LOCATION:Salle de Séminaire Online
+SUMMARY:Diffusion approximation of multi-class Hawkes processes: theoretica
+ l and numerical analysis
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/539
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.533.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20210105T094559Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nOn se donne un processus g
+ aussien indexé par les sommets d’un graphe infini connexe G. L’ensemble de
+ s sommets où ce processus dépasse un niveau donné définit un sous-graphe d
+ e G. Ce sous-graphe a-t-il une composante infinie connexe ? Dans le cas où
+  la marche simple symétrique sur G est transiente\, de nombreux auteurs on
+ t traité cette question pour le champ libre gaussien sur G. Nous présenter
+ ons des réponses à des questions de même nature impliquant des champs libr
+ es gaussiens. \n\n\nDates: \n\nWednesday\, February 17\, 2021 - 10:30\n\nL
+ ocation: \n\nSalle de séminaire online\n\nSpeaker(s): \n\nNathalie Eisenba
+ um
+DTSTART;TZID=Europe/Paris:20210217T103000
+DTEND;TZID=Europe/Paris:20210217T103000
+LAST-MODIFIED:20210105T094559Z
+LOCATION:Salle de séminaire online
+SUMMARY:Quelques percolations impliquant les champs libres gaussiens
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/533
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.528.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20210103T204022Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nMany physical phenomena ar
+ e explained using statistical physics models with non-trivial topological 
+ properties. One of the most important models showing this type of behavior
+  is the XY model\, which in two dimensions possesses a topological phase t
+ ransition. The model discussed in this talk is the simpler one-dimensional
+  XY model\, in a low temperature regime where topological observables coul
+ d be identified. We consider the dynamics of this model\, explain over whi
+ ch time scales these observables change\, and identify a temperature regim
+ e in which the equilibrium has no topological order\, but the dynamics all
+ ows for metastable states with non-trivial topology. Based on a joint work
+  with Clément Cosco.\n\n\nDates: \n\nWednesday\, February 10\, 2021 - 10:3
+ 0\n\nLocation: \n\nSalle de Séminaire Online\n\nSpeaker(s): \n\nAssaf Shap
+ ira
+DTSTART;TZID=Europe/Paris:20210210T103000
+DTEND;TZID=Europe/Paris:20210210T103000
+LAST-MODIFIED:20210103T204022Z
+LOCATION:Salle de Séminaire Online
+SUMMARY:Topologically induced metastability in periodic XY chain
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/528
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.537.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20210121T174006Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nIn large deviation theory\
+ , we consider sequences of random variables that converge toward a limit a
+ nd we try to evaluate how the probability that they take other values deca
+ ys. Aside from Gaussian matrices for which explicit formulas are known to 
+ describe the spectrum\, little is known of the large deviations for the em
+ pirical measure or the largest eigenvalue in the general case. In this tal
+ k\, I will consider sub-Gaussian random matrix models and I will explain h
+ ow to use spherical integrals to obtain large deviation principles for the
+  largest eigenvalue of those matrices.\n\n\nDates: \n\nWednesday\, Februar
+ y 3\, 2021 - 10:30\n\nLocation: \n\nSalle de Séminaire Online\n\nSpeaker(s
+ ): \n\nJonathan Husson
+DTSTART;TZID=Europe/Paris:20210203T103000
+DTEND;TZID=Europe/Paris:20210203T103000
+LAST-MODIFIED:20210121T174006Z
+LOCATION:Salle de Séminaire Online
+SUMMARY:Large deviations for the largest eigenvalue of random matrices
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/537
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.536.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20210113T202649Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nJe vais introduire des sub
+ stituts pour la fonction distance au support d'une mesure\, dont les sous-
+ niveaux sont des unions de boules ou des unions d'ellipsoïdes. J'énoncerai
+  plusieurs résultats. En particulier\, je parlerai des vitesses d'approxim
+ ation de ces substituts par leurs versions empiriques\, construites à part
+ ir d'échantillons de points. J'expliquerai aussi comment mettre à profit d
+ e tels estimateurs pour partitionner des données qui ont une structure géo
+ métrique particulière.\n\n\nDates: \n\nWednesday\, January 27\, 2021 - 10:
+ 30\n\nLocation: \n\nSalle de Séminaire Online\n\nSpeaker(s): \n\nClaire Br
+ echeteau
+DTSTART;TZID=Europe/Paris:20210127T103000
+DTEND;TZID=Europe/Paris:20210127T103000
+LAST-MODIFIED:20210121T174136Z
+LOCATION:Salle de Séminaire Online
+SUMMARY:Approximation robuste de compacts par des unions d'ellipsoïdes. App
+ lication au partitionnement de données.
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/536
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.526.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20201230T105952Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nLes modèles de spin avec c
+ ontraintes cinétiques constituent une classe de modèles de mécanique stati
+ stique qui ont été introduits par les physiciens pour décrire le comportem
+ ent du verre. Il s’agit de modèles de configurations sur des graphes dans 
+ lesquels chaque sommet du graphe est soit à l’état 0\, soit à l’état 1\, e
+ t ne peut changer d’état que si une contrainte de la forme « il y a assez 
+ de zéros dans le voisinage du sommet » est satisfaite. Il existe une infin
+ ité de contraintes possibles\, et les propriétés d’un modèle dépendent for
+ tement du choix de sa contrainte. Une question très importante est donc ce
+ lle de l’universalité : peut-on répartir cette infinité de modèles en un n
+ ombre fini de classes selon leur comportement ? Des travaux antérieurs ont
+  montré que lorsque le graphe de base est Z²\, les modèles doivent être di
+ visées en trois familles : surcritique\, critique et sous-critique\, et qu
+ e dans chacune de ces familles\, plusieurs comportements sont possibles. D
+ ans cet exposé\, on montrera que la famille critique contient sept classes
+  d’universalité aux comportements distincts.\n\n\nDates: \n\nWednesday\, J
+ anuary 20\, 2021 - 10:30\n\nLocation: \n\nSalle de Séminaire Online\n\nSpe
+ aker(s): \n\nLaure Marêché
+DTSTART;TZID=Europe/Paris:20210120T103000
+DTEND;TZID=Europe/Paris:20210120T103000
+LAST-MODIFIED:20201230T105952Z
+LOCATION:Salle de Séminaire Online
+SUMMARY:Les sept classes d’universalité des modèles avec contraintes cinéti
+ ques critiques
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/526
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.527.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20210103T174344Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nLa solution d'une EDS réfl
+ échie est un processus contraint à rester dans un domaine D de l'espace. Q
+ uand le signal sous-jacent à l'équation est une semi-martingale\, le carac
+ tère bien posé de ces équations est bien connu depuis les années 80. Plus 
+ récemment\, la théorie des trajectoires rugueuses de Lyons permet de défin
+ ir des intégrales (le long de signaux irréguliers) de façon très robuste\,
+  ce qui permet d'avoir une notion de solution pour des EDS allant bien au-
+ delà du cadre des semi-martingales. Une question naturelle est de savoir s
+ i ces méthodes peuvent s'appliquer aux équations avec réflexion. Des résul
+ tats d'existence assez généraux ont été prouvés par Aida mais l'unicité es
+ t seulement connue dans des cas particuliers (si le bruit est assez réguli
+ er\, ou dans un cadre uni-dimensionnel).  \n\n\nDans cet exposé\, je prése
+ nterai un contre-exemple qui montre qu'en général une équation avec réflex
+ ion multi-dimensionnelle peut avoir de multiples solutions si le signal so
+ us-jacent est assez irrégulier. Dans le cadre de cet exemple\, je présente
+ rai un critère précis sur les modules de continuité pour lesquels l'unicit
+ é a lieu\, et je discuterai également le cas du mouvement brownien fractio
+ nnaire.\n\n\n \n\n\nDates: \n\nWednesday\, January 13\, 2021 - 10:30\n\nLo
+ cation: \n\nSalle de Séminaire Online\n\nSpeaker(s): \n\nPaul Gassiat
+DTSTART;TZID=Europe/Paris:20210113T103000
+DTEND;TZID=Europe/Paris:20210113T103000
+LAST-MODIFIED:20210103T174344Z
+LOCATION:Salle de Séminaire Online
+SUMMARY:Non-unicité pour les équations différentielles rugueuses avec réfle
+ xion
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/527
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.525.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20201230T105507Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nUn processus d'Ornstein-Uh
+ lenbeck avec seuil est un processus d'autoregression à temps continu. Il s
+ uit une dynamique d'Ornstein-Uhnlenbeck au dessus ou dessous d'un seuil fi
+ xé\, pourtant à ce seuil les coefficients peuvent être discontinus. Nous c
+ onsidérons l'estimation par (quasi)-maximum de vraisemblance des paramètre
+ s de dérive\, à partir d'observations à temps continu ou discret. Dans le 
+ cas ergodique\, nous montrons consistance et vitesse de convergence en tem
+ ps long et haute fréquence pour ces estimateurs. Nous concluons avec une a
+ pplication à short term US interest rates. Ceci est un travail en commun a
+ vec Paolo Pigato.\n\n\nDates: \n\nWednesday\, January 6\, 2021 - 10:30\n\n
+ Location: \n\nSalle de Séminaire Online\n\nSpeaker(s): \n\nSara Mazzonetto
+DTSTART;TZID=Europe/Paris:20210106T103000
+DTEND;TZID=Europe/Paris:20210106T103000
+LAST-MODIFIED:20201230T105608Z
+LOCATION:Salle de Séminaire Online
+SUMMARY:Processus d'Ornstein-Uhlenbeck avec seuil: estimation des paramètre
+ s
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/525
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.512.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20201102T160634Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans cet exposé\, je prése
+ nterai le modèle de polymère dirigé en dimension 1+d\, qui décrit un polym
+ ère unidimensionnel placé dans un milieu hétérogène. Une approche récente 
+ pour comprendre les effets des hétérogénéités sur la localisation du polym
+ ère consiste à considérer la limite de ‘'faible désordre’' du modèle. Je d
+ onnerai un aperçu du modèle et des résultats connus sur l’existence d'une 
+ limite d’échelle du modèle sous des hypothèses de moments suffisants. Je p
+ résenterai les résultats que nous avons obtenu avec Hubert Lacoin (IMPA\, 
+ Brésil) lorsque ces hypothèses de moments ne sont plus vérifiées.\n\n\nDat
+ es: \n\nWednesday\, December 16\, 2020 - 10:30\n\nLocation: \n\nSalle de S
+ éminaire Online\n\nSpeaker(s): \n\nQuentin Berger
+DTSTART;TZID=Europe/Paris:20201216T103000
+DTEND;TZID=Europe/Paris:20201216T103000
+LAST-MODIFIED:20201102T160634Z
+LOCATION:Salle de Séminaire Online
+SUMMARY:La limite d’échelle du modèle de polymère dirigé en environnement a
+ lpha-stable
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/512
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.516.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20201120T011316Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nWe provide a general frame
+ work for Stein’s method for multivariate continuous distributions. The app
+ roach gives a collection of Stein operators\, among which we highlight sco
+ re-Stein operators and kernel-Stein operators. We propose several new and 
+ known Stein identities and characterizations\, including multivariate Stud
+ ent distributions and Wishart distributions\, and introduce many new opera
+ tors which we call standardizations. We discuss Stein kernels\, provide a 
+ connection with mass transport as well as explicit formulas for elliptical
+  distributions. Applications include estimates for the Wasserstein distanc
+ e between nested densities as well as Stein kernel discrepancies which we 
+ illustrate on several examples.\n\n\nDates: \n\nWednesday\, December 9\, 2
+ 020 - 10:30\n\nLocation: \n\nSalle de Séminaire Online\n\nSpeaker(s): \n\n
+ Yvik Swan
+DTSTART;TZID=Europe/Paris:20201209T103000
+DTEND;TZID=Europe/Paris:20201209T103000
+LAST-MODIFIED:20201120T011316Z
+LOCATION:Salle de Séminaire Online
+SUMMARY:Stein’s density approach for multivariate continuous distributions
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/516
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.509.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20201015T063254Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nWe discuss and give two sh
+ ort proofs of the Liouville Theorem\nin a non-local setting. This talk com
+ plements earlier work done by\nNathael ALIBAUD\, Felix DEL TESO\, Jorgen E
+ NDAL and Espen JAKOBSEN.\n\n\nDates: \n\nWednesday\, December 2\, 2020 - 1
+ 0:30\n\nLocation: \n\nSalle de Séminaire Online\n\nSpeaker(s): \n\nRené Sc
+ hilling
+DTSTART;TZID=Europe/Paris:20201202T103000
+DTEND;TZID=Europe/Paris:20201202T103000
+LAST-MODIFIED:20201102T094938Z
+LOCATION:Salle de Séminaire Online
+SUMMARY:Some Remarks on the Liouville Property for Generators of Lévy Proce
+ sses
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/509
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.511.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20201102T094420Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nLes modèles de neuroscienc
+ e mathématique cherchent à comprendre  \nl'évolution du potentiel de membr
+ ane d'une population de neurones en  \ninteraction. Un modèle relativement
+  simple de dynamique individuelle  \nest celui de FitzHugh-Nagumo (ODE en 
+ dimension 2). Ce modèle a la  \nparticularité d'être excitable: un neurone
+  initialement au repos  \nsoumis à une petite perturbation va avoir tendan
+ ce à émettre un spike.  \nFaisant l'hypothèse d'une interaction selon le g
+ raphe complet\, on  \ns'intéresse dans cet exposé au comportement de systè
+ mes de neurones en  \ninteraction de type champ-moyen\, chacun soumis à un
+  bruit additif. Une  \nquestion  est alors: partant de neurones au repos\,
+  quelle quantité de  \nbruit et d'interaction faut-il mettre dans le systè
+ me pour observer  \ndes oscillations macroscopiques ? Nous répondrons à ce
+ tte question à  \nl'échelle d'une population infinie: le but de cet exposé
+  sera de  \nmontrer l'existence de solutions périodiques pour la loi du pr
+ ocessus  \nde McKean-Vlasov non-linéaire associé.\n\n\nTravail en commun a
+ vec Christophe Poquet (Lyon 1).\n\n\nDates: \n\nWednesday\, November 25\, 
+ 2020 - 10:30\n\nLocation: \n\nSalle de Séminaire Online\n\nSpeaker(s): \n
+ \nEric Lucon
+DTSTART;TZID=Europe/Paris:20201125T103000
+DTEND;TZID=Europe/Paris:20201125T103000
+LAST-MODIFIED:20201102T094509Z
+LOCATION:Salle de Séminaire Online
+SUMMARY:Oscillations macroscopiques d'une population de neurones en interac
+ tion
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/511
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.507.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20201010T062049Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nSoit α > 0 . Soient μ et ν
+  deux probabilités sur R ayant un moment d'ordre α . Le problème de Monge 
+ consiste à chercher les lois des couples ( X \, Y ) de lois marginales μ e
+ t ν qui minimisent l'espérance de | X − Y |^α . Si α > 1 \, il y a une sol
+ ution unique : le couplage croissant. Si α
+DTSTART;TZID=Europe/Paris:20201118T103000
+DTEND;TZID=Europe/Paris:20201118T103000
+LAST-MODIFIED:20201102T094611Z
+LOCATION:Salle de Séminaire Online
+SUMMARY:Résolution du problème de Monge sur la droite réelle pour des expos
+ ants compris entre 0 et 1
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/507
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.508.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20201015T062745Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nOn étudie les excursions e
+ t ensembles de niveaux de certains champs gaussiens stationnaires au nivea
+ u 0\, également qualifiés de 'nodaux'. En dimension 1\, les zéros d'un cha
+ mp gaussien réel centré sont en général dénombrables et leurs propriétés s
+ tatistiques sont étudiées depuis les années 50. On montre que ce type de p
+ rocessus a une variance toujours au moins linéaire\, et on donne une condi
+ tion nécessaire et 'presque suffisante' sur la fonction de covariance pour
+  la linéarité stricte. Cela exclut l'existence de processus hyper-uniforme
+ s\, malgré la mise en évidence de zéros maximalement rigides dans cette cl
+ asse. \n\n\nOn étudie également la variance du volume nodal de certains ch
+ amps de spectre fini symétrique\, et on montre qu'aussi bien en dimension 
+ 1 que supérieure l'ordre de grandeur dépend des propriétés diophantiennes 
+ des atomes du spectre. On peut ainsi obtenir tous les ordres de grandeur p
+ our la variance du volume nodal sur une sphère de rayon T\, de T^{d-1} (su
+ rfacique) à T^{2d} (quadratique). Ces résultats passent par l'étude de mar
+ ches aléatoires diophantienne sur le tore qui complètent la littérature ex
+ istante. Pour des excursions non-nodales\, on peut montrer que\, en écho a
+ vec d'autres phénomènes similaires (harmoniques gaussiennes sur la sphère)
+ \,  la variance est toujours quadratique\, ce qui justifie que les excursi
+ ons nodales jouissent d'un statut particulier.\n\n\nDates: \n\nWednesday\,
+  November 4\, 2020 - 10:30\n\nLocation: \n\nSalle de Séminaire Online\n\nS
+ peaker(s): \n\nRaphaël Lachieze-Rey
+DTSTART;TZID=Europe/Paris:20201104T103000
+DTEND;TZID=Europe/Paris:20201104T103000
+LAST-MODIFIED:20201102T094539Z
+LOCATION:Salle de Séminaire Online
+SUMMARY:Ensembles nodaux de processus gaussiens stationnaires
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/508
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.501.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20200921T170707Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nNous étudions les propriét
+ és de taille (au sens des mesures et dimension de Hausdorff) d’ensembles d
+ e type limsup obtenus à partir de systèmes de points aléatoires (uniforme\
+ , Poisson…)\, et de leurs intersections avec des ensembles déterministes f
+ ixés. Quand les points proviennent d’une mesure aléatoire de Poisson\, ces
+  ensembles limsup sont liés aux singularités des processus de Lévy. De mêm
+ e\, si les points sont distribués uniformément\, les ensembles limsup appa
+ raissent dans l’analyse multifractale de séries aléatoires d'ondelettes. N
+ os résultats peuvent s’appliquer à l’analyse multifractale “multivariée'\,
+  dont le but est d’étudier le spectre de singularités joint de plusieurs f
+ onctions. Nous ferons également le lien avec la propriété de grande inters
+ ection pour les ensembles fractals.\n\n\nDates: \n\nWednesday\, October 14
+ \, 2020 - 11:30\n\nLocation: \n\nSalle de Séminaire Online et Salle de réu
+ nion du M2\n\nSpeaker(s): \n\nArnaud Durand
+DTSTART;TZID=Europe/Paris:20201014T113000
+DTEND;TZID=Europe/Paris:20201014T113000
+LAST-MODIFIED:20200921T170707Z
+LOCATION:Salle de Séminaire Online et Salle de réunion du M2
+SUMMARY:Ensembles limsup aléatoires et analyse multifractale multivariée
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/501
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.488.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20200916T175803Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\n(Joint work with Thomas Ve
+ rdebout)\n\n\nWe consider the problem of testing the null hypothesis that 
+ the direction theta of a skewed single-spiked high-dimensional distributio
+ n coincides with a given direction theta_0. For robustness purposes\, we r
+ estrict to spatial sign tests\, that is\, to tests that involve the observ
+ ations only through their projections onto the unit sphere. This reduces t
+ he problem to a classical problem in directional statistics\, namely to th
+ e spherical location testing problem\, for which the Watson test is the st
+ andard procedure. We study the asymptotic null and non-null behaviours of 
+ this test\, in a general asymptotic framework where the dimension converge
+ s to infinity in an arbitrary way as a function of the sample size n. We a
+ lso allow the strength of the signal to behave in a completely free way wi
+ th n\, which provides a complete spectrum of problems ranging from arbitra
+ rily challenging to arbitrarily easy problems. Our results identify severa
+ l asymptotic regimes leading to different limiting asymptotic experiments.
+  Asymptotically optimal tests are obtained in each regime. Monte Carlo stu
+ dies support our theoretical results.\n\n\nDates: \n\nWednesday\, October 
+ 7\, 2020 - 10:30\n\nLocation: \n\nSalle de Séminaire Online et Salle de ré
+ union du M2\n\nSpeaker(s): \n\nDavy Paindaveine
+DTSTART;TZID=Europe/Paris:20201007T103000
+DTEND;TZID=Europe/Paris:20201007T103000
+LAST-MODIFIED:20200916T180234Z
+LOCATION:Salle de Séminaire Online et Salle de réunion du M2
+SUMMARY:High-dimensional sign tests for the direction of a skewed single-sp
+ iked distribution
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/488
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.487.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20200916T175341Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nLe critère d'indépendance 
+ de Hilbert-Schmidt (HSIC) est largement répandu dans la littérature statis
+ tique pour tester l'indépendance. Différents tests asymptotiques ont été d
+ éveloppés. Cependant\, ils nécessitent le choix de la fenêtre des noyaux q
+ ui est à ce jour heuristique\, sans garantie théorique. Nous étudions les 
+ performances non-asymptotiques de tests théoriques basés sur le HSIC\, en 
+ termes de vitesse de séparation uniforme. Par ailleurs\, nous proposons un
+ e procédure de tests agrégés permettant d'éviter le choix arbitraire de la
+  fenêtre\, et montrons qu'elle est adaptative au sens du minimax.\n\n\nDat
+ es: \n\nWednesday\, September 30\, 2020 - 10:30\n\nLocation: \n\nSalle de 
+ séminaire en ligne et Salle de réunion du M2\n\nSpeaker(s): \n\nMélisande 
+ Albert
+DTSTART;TZID=Europe/Paris:20200930T103000
+DTEND;TZID=Europe/Paris:20200930T103000
+LAST-MODIFIED:20200916T180156Z
+LOCATION:Salle de séminaire en ligne et Salle de réunion du M2
+SUMMARY:Tests d’indépendance adaptatifs basés sur des noyaux
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/487
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.486.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20200907T185408Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nComment une colonie de fou
+ rmis trouve-t-elle le chemin le plus court entre son nid et une source de 
+ nourriture sans autre forme de communication que les traces de phéromones 
+ que chaque fourmi dépose derrière elle ? Une réponse proposée dans la lité
+ rature de biologie est que les fourmis suivent un algorithme d’apprentissa
+ ge par renforcement. \n\n\nDans ce travail en commun avec Daniel Kious (Ba
+ th) et Bruno Schapira (Marseille)\, nous proposons un nouveau modèle proba
+ biliste pour ce phénomène dans lequel le nid et la nourriture sont deux no
+ euds marqués dans un graphe fini. Les fourmis effectuent des marches aléat
+ oires successives du noeud ``nid’’ au noeud ``nourriture’’\, et la distrib
+ ution de la n-ième marche dépend des trajectoires des (n-1) marches précéd
+ entes par un procédé de renforcement linéaire. \n\n\nEn utilisant des méth
+ odes d’approximation stochastique\, des couplage avec des processus d’urne
+ s\, et la méthode des circuits éléctriques pour les marches aléatoires\, n
+ ous montrons que dans ce modèle\, les fourmis finissent en effet par trouv
+ er le chemin le plus court entre leur nid et la nourriture.\n\n\nDates: \n
+ \nWednesday\, September 23\, 2020 - 10:30\n\nLocation: \n\nSalle de Sémina
+ ire Online et Salle de réunion du M2\n\nSpeaker(s): \n\nCécile Mailler
+DTSTART;TZID=Europe/Paris:20200923T103000
+DTEND;TZID=Europe/Paris:20200923T103000
+LAST-MODIFIED:20200916T180133Z
+LOCATION:Salle de Séminaire Online et Salle de réunion du M2
+SUMMARY:Trouver les chemins les plus courts dans un graphe en utilisant l'a
+ pprentissage par renforcement.
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/486
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.485.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20200904T093126Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nThis work investigates the
+  problem of signal recovery from undersampled noisy sub-Gaussian measureme
+ nts under the assumption of a synthesis-based sparsity model. Solving the 
+ l1-synthesis basis pursuit allows to simultaneously estimate a coefficient
+  representation as well as the sought-for signal. However\, due to linear 
+ dependencies within redundant dictionary atoms it might be impossible to i
+ dentify a specific representation vector\, although the actual signal is s
+ till successfully recovered. We study both estimation problems from a non-
+ uniform\, signal-dependent perspective. By utilizing results from linear i
+ nverse problems and convex geometry\, we identify the sampling rate descri
+ bing the phase transition of both formulations\, and propose a 'tight' est
+ imated upper-bound.\n\n\nThis is a joint work with Maximilian März (TU Ber
+ lin)\, Jonas Kahn and Pierre Weiss (CNRS\, Toulouse).\n\n\nDates: \n\nWedn
+ esday\, September 16\, 2020 - 10:30\n\nLocation: \n\nSalle de Séminaire On
+ line\n\nSpeaker(s): \n\nClaire Boyer
+DTSTART;TZID=Europe/Paris:20200916T103000
+DTEND;TZID=Europe/Paris:20200916T103000
+LAST-MODIFIED:20200904T111432Z
+LOCATION:Salle de Séminaire Online
+SUMMARY:Sampling Rates for ℓ1-Synthesis ou 'Combien de projections sous-gau
+ ssiennes doit-on faire pour reconstruire un objet parcimonieux dans un dic
+ tionnaire redondant ?'
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/485
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.481.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20200430T164856Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans cet exposé\, je prése
+ nterai une méthode d'estimation de courbe dans un modèle avec un bruit add
+ itif.\n\n\nNous nous intéresserons aux propriétés de convergence d'estimat
+ eurs basés sur une formule liée à la définition de courbe principale intro
+ duite par Kégl et al. (2000). Il s'agit d'un travail en cours\, en collabo
+ ration avec Sylvain Delattre.\n\n\nKégl\, B.\, Krzyzak\, A.\, Linder\, T.\
+ , Zeger\, K\, Learning and Design of Principal Curves. IEEE Transactions o
+ n Pattern Analysis and Machine Intelligence. Vol. 22\, pp. 281-297\, 2000.
+ \n\n\nDates: \n\nWednesday\, May 27\, 2020 - 13:30\n\nLocation: \n\nEn Vis
+ io\n\nSpeaker(s): \n\nAurélie Fischer
+DTSTART;TZID=Europe/Paris:20200527T133000
+DTEND;TZID=Europe/Paris:20200527T133000
+LAST-MODIFIED:20200430T164856Z
+LOCATION:En Visio
+SUMMARY:Sur une procédure d'estimation de courbes
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/481
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.483.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20200509T161631Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nIn modern applications of 
+ statistics and machine learning\, the urge to collect large data sets ofte
+ n leads to relaxing acquisition procedures\, and compounding diverse sourc
+ es. As a result\, analysts are confronted to many data imperfections. In p
+ articular\, data are often heterogeneous\, i.e. combine quantitative and q
+ ualitative information\, incomplete\, with missing values caused by machin
+ e failures or by the nonresponse phenomenon\, and multi-source\, when the 
+ data result from the aggregation of several data sets.  \n\n\nIn this talk
+ \, I will present a general framework based on heterogeneous exponential f
+ amily low-rank models\, to analyse heterogeneous\, multi-source and incomp
+ lete data sets. The theoretical results demonstrate that the method is sim
+ ultaneously statistically sound—with minimax optimal estimation properties
+ —and computationally efficient. I will illustrate the empirical behaviour 
+ of the method with the analysis of a North-African waterbirds monitoring d
+ ata set.\n\n\nDates: \n\nWednesday\, May 13\, 2020 - 13:30\n\nLocation: \n
+ \nSalle de Séminaire Visio\n\nSpeaker(s): \n\nGeneviève Robin
+DTSTART;TZID=Europe/Paris:20200513T133000
+DTEND;TZID=Europe/Paris:20200513T133000
+LAST-MODIFIED:20200509T161631Z
+LOCATION:Salle de Séminaire Visio
+SUMMARY:Low-rank methods for multi-source\, heterogeneous and incomplete da
+ ta
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/483
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.482.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20200430T171458Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nÉtant donnée une mesure de
+  probabilité cible mu\, une méthode\nMCMC consiste à simuler un processus 
+ de Markov X de mesure invariante mu\net à approximer les intégrales sous l
+ a loi mu par des moyennes\nergodiques le long de la trajectoire de X. Il e
+ xiste toute une zoologie\nde tels processus de Markov pour une même loi mu
+ \, et la question du\nchoix de la dynamique n'est pas évidente\, le but ét
+ ant in fine que\nl'approximation soit le plus vite possible la meilleure p
+ ossible. Je\nprésenterai une classe de processus qui s'est beaucoup dévelo
+ ppée ces\ndernières années dans cette optique\, les processus cinétiques à
+  saut\,\nqui présentent plusieurs avantages : comportement balistique\, si
+ mulation\nexacte\, factorisation.\n\n\nDates: \n\nWednesday\, May 6\, 2020
+  - 13:30\n\nLocation: \n\nen Visio\n\nSpeaker(s): \n\nPierre Monmarché
+DTSTART;TZID=Europe/Paris:20200506T133000
+DTEND;TZID=Europe/Paris:20200506T133000
+LAST-MODIFIED:20200430T171458Z
+LOCATION:en Visio
+SUMMARY:Processus cinétiques à saut pour méthodes de Monte-Carlo
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/482
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.460.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20200211T161551Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans un premier temps\, je
+  ferai un survol des différentes méthodes d’échantillonnage de mesures log
+ -concaves de grande dimension. Dans un deuxième temps je me concentrerai s
+ ur un algorithme particulier appelé Langevin Monte Carlo. Je montrerai not
+ amment qu’il permet d’approcher la mesure cible en temps polynomial en la 
+ dimension sous des hypothèses minimales\, en particulier sans supposer que
+  la densité cible est régulière. L’exposé est en partie basé sur un travai
+ l en commun avec S.Bubeck et R. Eldan.\n\n\nDates: \n\nWednesday\, April 2
+ 9\, 2020 - 13:30\n\nLocation: \n\nSalle de Séminaire en Ligne\n\nSpeaker(s
+ ): \n\nJoseph Lehec
+DTSTART;TZID=Europe/Paris:20200429T133000
+DTEND;TZID=Europe/Paris:20200429T133000
+LAST-MODIFIED:20200416T140541Z
+LOCATION:Salle de Séminaire en Ligne
+SUMMARY:Échantillonnage de mesures log-concaves
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/460
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.424.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20191016T113616Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nOn se donne un processus g
+ aussien indexé par les sommets d’un graphe infini connexe G. L’ensemble de
+ s sommets où ce processus dépasse un niveau donné est-il un sous-graphe in
+ fini connexe de G ? Dans le cas où la marche simple symétrique sur G est t
+ ransiente\, de nombreux auteurs ont traité cette question pour le champ li
+ bre gaussien sur G. Nous présenterons des réponses à des questions de même
+  nature impliquant des champs libres gaussiens. \n\n\nDates: \n\nWednesday
+ \, April 8\, 2020 - 10:30\n\nLocation: \n\nSalle de séminaire du M3\n\nSpe
+ aker(s): \n\nNathalie Eisenbaum
+DTSTART;TZID=Europe/Paris:20200408T103000
+DTEND;TZID=Europe/Paris:20200408T103000
+LAST-MODIFIED:20191218T134141Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Quelques percolations impliquant des champs libres gaussiens
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/424
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.474.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20200222T062839Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nLe théorème de contraction
+  de Caffarelli indique que le transport optimal entre une mesure Gaussienn
+ e et une mesure uniformément \nlog-concave est globalement lipschitz\, ave
+ c une borne indépendante de la dimension. Je présenterai une preuve altern
+ ative de ce résultat\, via la régularisation entropique du transport optim
+ al et une caractérisation variationnelle des transports lipschitz. Travail
+  en collaboration avec Nathael Gozlan et Maxime Prod'homme.\n\n\nDates: \n
+ \nWednesday\, March 11\, 2020 - 10:30\n\nLocation: \n\nLaboratoire Paul Pa
+ inlevé\, Bâtiment M3\, Salle séminaire M3-324\n\nSpeaker(s): \n\nMax Fathi
+DTSTART;TZID=Europe/Paris:20200311T103000
+DTEND;TZID=Europe/Paris:20200311T103000
+LAST-MODIFIED:20200222T062839Z
+LOCATION:Laboratoire Paul Painlevé\, Bâtiment M3\, Salle séminaire M3-324
+SUMMARY:Une preuve par régularisation entropique du théorème de contraction
+  de Caffarelli
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/474
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.462.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20200211T181646Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans cet exposé\, on s'int
+ éressera essentiellement à l'étude de la \nversion fonctionnelle du TCL po
+ ur des sommes partielles associées à des\nprocessus dépendants et non néce
+ ssairement stationnaires. Les conditions \nimposées seront de type project
+ if. Des applications aux processus \nrho-mélangeants ou à des suites stati
+ onnaires observées à des instants \naléatoires seront exhibées. Ce travail
+  est le fruit d'une collaboration\navec M. Peligrad et S. Utev.\n\n\nDates
+ : \n\nWednesday\, March 4\, 2020 - 10:30\n\nLocation: \n\nSalle séminaire 
+ M3-324\n\nSpeaker(s): \n\nFlorence Merlevède
+DTSTART;TZID=Europe/Paris:20200304T103000
+DTEND;TZID=Europe/Paris:20200304T103000
+LAST-MODIFIED:20200211T181646Z
+LOCATION:Salle séminaire M3-324
+SUMMARY:Théorème Central Limite Fonctionnel dans le cadre dépendant: du sta
+ tionnaire ou non stationnaire
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/462
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.459.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20200204T152306Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nThis talks studies the rec
+ overy of graphons when they are convolution kernels on compact (symmetric)
+  metric spaces. This case is of particular interest since it covers the si
+ tuation where the probability of an edge depends only on some unknown nonp
+ arametric function of the distance between latent points\, referred to as 
+ Nonparametric Geometric Graphs (NGG). \nIn this setting\, adaptive estimat
+ ion of NGG is possible using a spectral procedure combined with a Goldensh
+ luger-Lepski adaptation method. The latent spaces covered by our framework
+  encompass (among others) compact symmetric spaces of rank one\, namely re
+ al spheres and projective spaces. For these latter\, explicit computations
+  of the eigen-basis and of the model complexity can be achieved\, leading 
+ to quantitative non-asymptotic results. The time complexity of our method 
+ scales cubicly in the size of the graph and exponentially in the regularit
+ y of the graphon. Hence\, this paper offers an algorithmically and theoret
+ ically efficient procedure to estimate smooth NGG. As a by product\, this 
+ paper shows a non-asymptotic concentration result on the spectrum of integ
+ ral operators defined by symmetric kernels (not necessarily positive).\n\n
+ \nDates: \n\nWednesday\, February 19\, 2020 - 10:30\n\nLocation: \n\nSalle
+  de Séminaire du M3-324\n\nSpeaker(s): \n\nThanh Mai Pham Ngoc
+DTSTART;TZID=Europe/Paris:20200219T103000
+DTEND;TZID=Europe/Paris:20200219T103000
+LAST-MODIFIED:20200204T152306Z
+LOCATION:Salle de Séminaire du M3-324
+SUMMARY:Adaptive estimation of nonparametric geometric graphs
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/459
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.458.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20200203T205109Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans cet exposé\, je prése
+ nterai une technique de pénalisation pour résoudre des équations différent
+ ielles rugueuses (EDR) conditionnées à rester au-dessus d'une barrière irr
+ égulière. Cela requiert notamment de résoudre des EDR avec drift non borné
+ \, pour lesquelles nous avons obtenu une représentation de type Doss-Sussm
+ ann. L'unicité au problème de réflection sera également présentée. Enfin\,
+  lorsque l'EDR est dirigée par un bruit gaussien\, l'existence d'une densi
+ té pour l'EDR réfléchie est obtenue grâce à l'approximation par pénalisati
+ on et au calcul de Malliavin. Travail en collaboration avec E. Tanré (Inri
+ a) et S. Torres (Valparaiso).\n\n\nDates: \n\nWednesday\, February 12\, 20
+ 20 - 10:30\n\nLocation: \n\nSalle séminaire M3-324\n\nSpeaker(s): \n\nAlex
+ andre Richard
+DTSTART;TZID=Europe/Paris:20200212T103000
+DTEND;TZID=Europe/Paris:20200212T103000
+LAST-MODIFIED:20200203T205109Z
+LOCATION:Salle séminaire M3-324
+SUMMARY:Equations différentielles rugueuses réfléchies\, en dimension 1
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/458
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.457.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20200203T204908Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nJoint work with Boualem Dj
+ ehiche (KTH\, Stockholm) and Romuald Elie\, UMLV\, Marne La Vallée\, Franc
+ e\n\n\nIn this talk\, we study a class of reflected backward stochastic di
+ fferential equations (BSDEs) of mean-field type\, where the mean-field int
+ eraction in terms of the expected value \E[Y] of the Y-component of the so
+ lution enters both the driver and the lower obstacle. We consider the case
+  where the lower obstacle is a deterministic function of (Y\,\E[Y]). Under
+  mild Lipschitz and integrability conditions on the coefficients\, we obta
+ in the well-posedness  of such a class of equations.  Under further monoto
+ nicity conditions we show convergence of the  standard penalization scheme
+  to the  solution of the equation. This class of models is motivated by ap
+ plications in pricing life insurance contracts with surrender options.\n\n
+ \nDates: \n\nWednesday\, February 5\, 2020 - 10:30\n\nLocation: \n\nSalle 
+ de Séminaire du M3-324\n\nSpeaker(s): \n\nSaïd Hamadene
+DTSTART;TZID=Europe/Paris:20200205T103000
+DTEND;TZID=Europe/Paris:20200205T103000
+LAST-MODIFIED:20200203T204908Z
+LOCATION:Salle de Séminaire du M3-324
+SUMMARY:Mean-field reflected backward stochastic differential equations
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/457
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.449.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20191218T101752Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans une première partie o
+ n s’intéresse au cas où les mots sont des permutations\, c.à.d. le mot ne 
+ contient aucune répétition de lettres. Bukh et Zhou ont conjecturé que pou
+ r deux permutations i.i.d l'espérance de la plus longue sous-suite commune
+  est minorée par $\sqrt{n}$. Ce problème peut se ramener à la compréhensio
+ n de la plus longue sous-suite croissante de permutations aléatoires. On d
+ étaillera le cas où la loi de la permutation est stable sous conjugaison q
+ ui peut être traité à l'aide de la structure en cycle de la composée de de
+ ux permutations indépendantes. Dans une deuxième partie\, on s’intéresse a
+ u cas où les mots utilisent un vocabulaire fini. Dans ce cas\, l'espérance
+  de la plus longue sous-suite commune croît linéairement mais le taux de c
+ roissance et les fluctuations restent un mystère. On présente quelques con
+ jectures dans cette direction.\n\n\nDates: \n\nWednesday\, January 29\, 20
+ 20 - 10:30\n\nLocation: \n\nSalle de séminaire du M3\n\nSpeaker(s): \n\nSl
+ im Kammoun
+DTSTART;TZID=Europe/Paris:20200129T103000
+DTEND;TZID=Europe/Paris:20200129T103000
+LAST-MODIFIED:20191218T134809Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Plus longue sous-suite commune de mots aléatoires\, plusieurs conje
+ ctures et quelques réponses.
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/449
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.448.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20191218T101631Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans ce travail\, réalisé 
+ en collaboration avec Charline Smadi\, nous considérons une classe de proc
+ essus de Markov branchants pour la modélisation de populations structurées
+  et en particulier\, pour le cas de l'infection d'une population de bactér
+ ies par des parasites. Chaque cellule contient une certaine quantité de pa
+ rasites\, qui évolue suivant une diffusion avec sauts. On suppose que le t
+ aux de division d'une cellule dépend de la quantité de parasites qu'elle c
+ ontient. À la division\, les parasites sont répartis (possiblement inégale
+ ment) entre les cellules filles. Dans ce cadre\, je présenterai des résult
+ ats sur le comportement en temps long du processus le long d'une lignée (e
+ xtinction ou prolifération de l'infection) ainsi qu'à l'échelle de la popu
+ lation.\n\n\nDates: \n\nWednesday\, January 22\, 2020 - 10:30\n\nLocation:
+  \n\nSalle de séminaire du M3\n\nSpeaker(s): \n\nAline Marguet
+DTSTART;TZID=Europe/Paris:20200122T103000
+DTEND;TZID=Europe/Paris:20200122T103000
+LAST-MODIFIED:20200106T191650Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Comportement en temps long d'une classe générale de processus de Ma
+ rkov branchants
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/448
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.447.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20191218T101512Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nWe consider building predi
+ ctors when the data have missing values. We study the seemingly-simple cas
+ e where the target to predict is a linear function of the fully observed d
+ ata and we show that\, in the presence of missing values\, the optimal pre
+ dictor is not linear in general. In the particular Gaussian case\, it can 
+ be written as a linear function of multiway interactions between the obser
+ ved data and the various missing value indicators. Due to its intrinsic co
+ mplexity\, we study a simple approximation and prove generalization bounds
+  with finite samples\, highlighting regimes for which each method performs
+  best. We then show that multilayer perceptrons with ReLU activation funct
+ ions can be consistent\, and can explore good trade-offs between the true 
+ model and approximations. Our study highlights the interesting family of m
+ odels that are beneficial to fit with missing values depending on the amou
+ nt of data available.\n\n\nDates: \n\nWednesday\, January 15\, 2020 - 10:3
+ 0\n\nLocation: \n\nSalle de séminaire du M3\n\nSpeaker(s): \n\nMarine Le M
+ orvan
+DTSTART;TZID=Europe/Paris:20200115T103000
+DTEND;TZID=Europe/Paris:20200115T103000
+LAST-MODIFIED:20191218T101512Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Linear predictor on linearly-generated data with missing values: no
+ n consistency and solutions.
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/447
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.443.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20191130T140823Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nConsidérons la marche aléa
+ toire simple sur Z\, que se passe-t-il si les probabilités de transition s
+ ont elles-mêmes aléatoires et iid en temps et espace ? En utilisant un mod
+ èle intégrable\, nous verrons que le comportement extrême d'un grand nombr
+ e de marches aléatoires dans le même environnement n'est pas gouverné par 
+ la théorie classique des valeurs extrêmes\, mais par la classe d'universal
+ ité KPZ. Nous considérerons aussi une limite continue de ces marches aléat
+ oires: N diffusions en milieu aléatoire se comportent alors comme des mouv
+ ement Browniens collants (sticky Brownian motions en anglais) et asymptoti
+ quement\, la particule extrême a la même loi que la plus grande valeur pro
+ pre de grandes matrices aléatoires Hermitiennes. Basé sur des travaux en c
+ ommun avec Ivan Corwin et Mark Rychnosky.\n\n\nDates: \n\nWednesday\, Janu
+ ary 8\, 2020 - 10:30\n\nLocation: \n\nSalle de séminaire du M3\n\nSpeaker(
+ s): \n\nGuillaume Barraquand
+DTSTART;TZID=Europe/Paris:20200108T103000
+DTEND;TZID=Europe/Paris:20200108T103000
+LAST-MODIFIED:20191130T140823Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Marches aléatoires et diffusions en environnement aléatoire
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/443
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.423.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20191016T113544Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans un premier temps je f
+ erai un survol des différentes méthodes d’échantillonnage de mesures log-c
+ oncaves de grande dimension. Dans un deuxième temps je me concentrerai sur
+  un algorithme particulier appelé Langevin Monte Carlo. Je montrerai notam
+ ment qu’il permet d’approcher la mesure cible en temps polynomial en la di
+ mension sous des hypothèses minimales\, en particulier sans supposer que l
+ a densité cible est régulière. L’exposé est en partie basé sur un travail 
+ en commun avec S.Bubeck et R. Eldan.\n\n\nDates: \n\nWednesday\, December 
+ 11\, 2019 - 10:30\n\nLocation: \n\nSalle de séminaire du M3\n\nSpeaker(s):
+  \n\nJoseph Lehec
+DTSTART;TZID=Europe/Paris:20191211T103000
+DTEND;TZID=Europe/Paris:20191211T103000
+LAST-MODIFIED:20191210T091721Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Annulé (grève SNCF)
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/423
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.422.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20191016T113508Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nNous considérons un modèle
+  stochastique de dynamique des populations où chaque individu est caractér
+ isé par un trait dans {0\,1\,…\, L} et possède un taux de reproduction nat
+ urel\, un taux de mortalité logistique dû à l'âge ou la compétition et une
+  probabilité de mutation vers des traits voisins à chaque événement de rep
+ roduction. \nNous choisissons les paramètres pour créer une vallée de fitn
+ ess : des mutations délétères doivent être créées avant d'atteindre la pre
+ mière mutation avantageuse. \nNous étudions la limite des grandes populati
+ ons et des mutations rares selon plusieurs échelles. En particulier\, lors
+ que le taux de mutation est suffisamment faible\, on observe un comporteme
+ nt métastable : le temps de sortie de la vallée est aléatoire\, à distribu
+ tion exponentielle.\nTravail en collaboration avec Anton Bovier et Charlin
+ e Smadi.\n\n\nDates: \n\nWednesday\, December 4\, 2019 - 10:30\n\nLocation
+ : \n\nSalle de séminaire du M3\n\nSpeaker(s): \n\nLoren Coquille
+DTSTART;TZID=Europe/Paris:20191204T103000
+DTEND;TZID=Europe/Paris:20191204T103000
+LAST-MODIFIED:20191129T094559Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Métastabilité en dynamique des populations
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/422
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.421.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20191016T113427Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nWednesday\, November 
+ 27\, 2019 - 10:30\n\nLocation: \n\nSalle de séminaire du M3\n\nSpeaker(s):
+  \n\nMagali Champion
+DTSTART;TZID=Europe/Paris:20191127T103000
+DTEND;TZID=Europe/Paris:20191127T103000
+LAST-MODIFIED:20191016T113427Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:TBA
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/421
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.420.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20191016T113348Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nWednesday\, November 
+ 20\, 2019 - 10:30\n\nLocation: \n\nSalle de séminaire du M3\n\nSpeaker(s):
+  \n\nSteffen Winter
+DTSTART;TZID=Europe/Paris:20191120T103000
+DTEND;TZID=Europe/Paris:20191120T103000
+LAST-MODIFIED:20191016T113348Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:TBA
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/420
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.419.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20191016T113318Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nMulticlass classification 
+ problems such as image annotation can involve a large number of classes.\n
+ \n\nIn this context\, confusion between classes can occur\, and a single l
+ abel classification may fail. In this talk\, I will present a general devi
+ ce to build a confidence set classifier\, instead of a single label classi
+ fier. \n\n\nIn our framework the goal is to build the best confidence set 
+ classifier having a given expected size and the attractive feature of our 
+ approach is its semi-supervised nature - the construction of the confidenc
+ e set classifier takes advantage of unlabeled data. \n\n\nOur study of the
+  minimax rates of convergence under the combination of the margin and non 
+ parametric assumptions reveals that there is no supervised method that out
+ performs the semi-supervised estimator proposed in this work.\n\n\nTo furt
+ her highlight the fundamental difference of supervised and semi-supervised
+  methods\, we establish that the best achievable rate for any supervised m
+ ethod is n^{-1/2}\, even if the margin assumption is extremely favourable.
+ \n\n\nOn the contrary\, by using a sufficiently large unlabelled sample we
+  are able to significantly improve this rate.\n\n\nDates: \n\nWednesday\, 
+ November 13\, 2019 - 10:30\n\nLocation: \n\nSalle de séminaire du M3\n\nSp
+ eaker(s): \n\nChristophe Denis
+DTSTART;TZID=Europe/Paris:20191113T103000
+DTEND;TZID=Europe/Paris:20191113T103000
+LAST-MODIFIED:20191031T153430Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Minimax semi-supervised confidence set for multi-class classificati
+ on
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/419
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.418.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20191016T113215Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nWednesday\, November 
+ 6\, 2019 - 10:30\n\nLocation: \n\nSalle de séminaire du M3\n\nSpeaker(s): 
+ \n\nAdrien Mazoyer
+DTSTART;TZID=Europe/Paris:20191106T103000
+DTEND;TZID=Europe/Paris:20191106T103000
+LAST-MODIFIED:20191105T195132Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Projection of determinantal point processes with application to Mon
+ te-Carlo integration
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/418
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.402.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20190906T124346Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans un cadre non-Lipschit
+ zien\, le théorème de Cauchy-Peano n'assure pas l'unicité d'une solution r
+ égulière à une Équation Différentielle Ordinaire.\nNous nous intéressons à
+  l'impact d'un bruit auto-similaire additif dans ce type d'EDO.\nPlus préc
+ isément\, nous étudions la régularisation de la solution de l'Équation Dif
+ férentielle Stochastique et la restauration de l'unicité par la présence d
+ 'un bruit.\nA l'aide d'une heuristique fondée sur l'exemple de Peano\, nou
+ s voyons apparaître des seuils de régularité pour les coefficients.\n\n\nA
+ vec P.-E. Chaudru de Raynal et S. Menozzi\, nous avons développé une métho
+ de de type perturbative dépendant fortement des propriétés de dualité des 
+ espaces Besov.\nCelle-ci permet d'obtenir des estimées de Schauder pour un
+  système parabolique dégénéré à coefficients Hölder et de considérer des E
+ DP/EDS associés à des $\alpha$-stables.\n\n\nDans le cas non-dégénéré\, l'
+ heuristique précédente nous suggère que la dérive de l'EDS doit être au mo
+ ins '-1 Hölder'. Considérer une dérive qui soit une distribution de l'espa
+ ce Besov $\dot B_{\infty\,\infty}^{-1+\gamma}$\, $\gamma \in (0\,1)$ reste
+  encore un problème ouvert.\n\n\nEn guise d'application\, nous utilisons l
+ 'équation de Kolmogorov via la transformation de Zvonkin Veretennikov pour
+  montrer l’unicité forte d'un système stochastique dégénéré à coefficients
+  Hölder.\n\n\nDates: \n\nWednesday\, October 16\, 2019 - 10:30\n\nLocation
+ : \n\nSalle de séminaire du M3\n\nSpeaker(s): \n\nigor Honoré
+DTSTART;TZID=Europe/Paris:20191016T103000
+DTEND;TZID=Europe/Paris:20191016T103000
+LAST-MODIFIED:20191003T104954Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Régularisation par le bruit dans les espaces Hölder et Besov
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/402
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.401.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20190906T123729Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nLes techniques expérimenta
+ les modernes permettent de suivre les dynamiques individuelles d'expressio
+ n génique et de quantifier leur variabilité dans des populations microbien
+ nes isogéniques. L'une des sources de cette variabilité est la stochastici
+ té affectant l'héritabilité des facteurs d'expression génique lors de la d
+ ivision cellulaire. Les relations de parenté entre les différentes cellule
+ s\, qui peuvent être récupérées grâce à l'observation des cellules individ
+ uelles\, constituent des informations précieuses pour la caractérisation d
+ e cette source extrinsèque de bruit dans l'expression génique.\n\n\nÀ part
+ ir d'un modèle pour les mécanismes de transcription et translation\, je pr
+ oposerai un modèle stochastique pour l'évolution de la dynamique d'express
+ ion génique dans une population de cellules et présenterai une méthode pou
+ r l'estimation de l'héritabilité et de la variabilité des paramètres d'exp
+ ression génique à partir de données individuelles d'expression génique cou
+ plées aux informations de lignées. Je montrerai que notre approche fournit
+  des estimateurs sans biais de l'héritabilité alors que les techniques ind
+ irectes ont tendance à la sous-estimer. Enfin\, je présenterai l'applicati
+ on de notre méthode à des données de réponse de la levure à des chocs osmo
+ tiques et les conclusions biologiques associées.\n\n\nCe travail est issu 
+ d'une collaboration avec Eugenio Cinquemani et Marc Lavielle.\n\n\nDates: 
+ \n\nWednesday\, October 9\, 2019 - 10:30\n\nLocation: \n\nSalle de séminai
+ re du M3\n\nSpeaker(s): \n\nAline Marguet
+DTSTART;TZID=Europe/Paris:20191009T103000
+DTEND;TZID=Europe/Paris:20191009T103000
+LAST-MODIFIED:20190906T123800Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Héritabilité et variabilité des paramètres d'expression génique dan
+ s les populations de cellules
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/401
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.400.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20190906T123638Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nWednesday\, October 2
+ \, 2019 - 10:30\n\nLocation: \n\nSalle de séminaire du M3\n\nSpeaker(s): 
+ \n\nOdalric-Ambrym Maillard
+DTSTART;TZID=Europe/Paris:20191002T103000
+DTEND;TZID=Europe/Paris:20191002T103000
+LAST-MODIFIED:20190906T123922Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:TBA
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/400
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.399.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20190906T123545Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nNous étudions un système d
+ e N neurones en interactions. Chaque neurone émet des décharges éléctrique
+ s ('spikes'') avec un taux dépendant de son potential de membrane. Au mome
+ nt du spike\, son potentiel est remis à 0 tandis que tous les autres neuro
+ nes dans le système reçoivent une quantité supplémentaire de potentiel. Ce
+ tte quantité est aléatoire\, centrée et de l'ordre de 1/(√N). De plus\, en
+ tre deux spikes successifs\, le potentiel de membrane de chaque neurone su
+ it un flot déterministe. Nous démontrons que le système converge\, lorsque
+  N tend vers l'infini\, vers une EDS limite non-linéaire\, dirigée par une
+  mesure de Poisson et un mouvement Brownien supplémentaire qui est créé pa
+ r le théorème central limite. Ce mouvement Brownien est sous-jacent à l'ev
+ olution de chaque neurone dans le système limite et engendre ainsi un fact
+ eur de bruit commun à tous les neurones. Par conséquent\, pour le système 
+ limite\, les différents neurones sont conditionnellement indépendants\, sa
+ chant le mouvement Brownien - ce qui peut être exprimé comme propriété de 
+ 'propagation du chaos conditionnelle'. Nous obtenons un taux de convergenc
+ e explicit. L'ingrédient principal de notre preuve est le célèbre couplage
+  de Komlos\, Major et Tusnady qui permet de coupler le processus des petit
+ s sauts du système fini avec le mouvement brownien limite.\n\n\nDates: \n
+ \nWednesday\, September 25\, 2019 - 10:30\n\nLocation: \n\nSalle de sémina
+ ire du M3\n\nSpeaker(s): \n\nEva Löcherbach
+DTSTART;TZID=Europe/Paris:20190925T103000
+DTEND;TZID=Europe/Paris:20190925T103000
+LAST-MODIFIED:20190906T123900Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Propagation du chaos conditionnelle pour des systèmes de neurones e
+ n interactions.
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/399
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.398.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20190906T123449Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nWe introduce a principled 
+ and theoretically sound spectral method for k-way clustering in signed gra
+ phs\, where the affinity measure between nodes takes either positive or ne
+ gative values.\n\n\nOur approach is motivated by social balance theory\, w
+ here the task of clustering aims to decompose the network into disjoint gr
+ oups\, such that individuals within the same group are connected by as man
+ y positive edges as possible\, while individuals from different groups are
+  connected by as many negative edges as possible. Our algorithm relies on 
+ a generalized eigenproblem formulation inspired by recent work on constrai
+ ned clustering. We provide theoretical guarantees for our approach in the 
+ setting of a signed stochastic block model\, by leveraging tools from matr
+ ix perturbation theory and random matrix theory. An extensive set of numer
+ ical experiments on both synthetic and real data shows that our approach c
+ ompares favorably with state-of-the-art methods for signed clustering\, es
+ pecially for large number of clusters and sparse measurement graphs. This 
+ is joint work with Mihai Cucuringu\, Peter Davies and Aldo Glielmo.\n\n\nD
+ ates: \n\nWednesday\, September 18\, 2019 - 10:30\n\nLocation: \n\nSalle d
+ e séminaire du M3\n\nSpeaker(s): \n\nHemant Tyagi
+DTSTART;TZID=Europe/Paris:20190918T103000
+DTEND;TZID=Europe/Paris:20190918T103000
+LAST-MODIFIED:20190906T123839Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:SPONGE: A generalized eigenproblem for clustering signed networks
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/398
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.397.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20190906T123345Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\n(travail en commun avec Vi
+ ncent Beffara)\n\n\nOn considère le modèle de percolation par arête sur Zd
+  où chaque arête est ouverte avec proba p. Les arêtes sont indépendantes e
+ ntre elles. On conditionne le processus a avoir une unique composante conn
+ exe d'arêtes ouvertes. Cet événement ayant une probabilité nulle\, une déf
+ inition par limite thermodynamique est considérée. On discute alors l'exis
+ tence et l'unicité du modèle. Nous montrons également un phénomène de tran
+ sition de phase où la densité d'arêtes ouvertes chute brutalement pour une
+  valeur critique du paramètre p.\n\n\nDates: \n\nWednesday\, September 11\
+ , 2019 - 10:30\n\nLocation: \n\nSalle de séminaire du M3\n\nSpeaker(s): \n
+ \nDavid Dereudre
+DTSTART;TZID=Europe/Paris:20190911T103000
+DTEND;TZID=Europe/Paris:20190911T103000
+LAST-MODIFIED:20190906T123819Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Percolation par arête sur Z^d complètement connectée.
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/397
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.383.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20190503T092900Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nWednesday\, June 19\,
+  2019 - 10:30\n\nLocation: \n\nSalle de séminaire du M3\n\nSpeaker(s): \n
+ \nFredj Jawadi
+DTSTART;TZID=Europe/Paris:20190619T103000
+DTEND;TZID=Europe/Paris:20190619T103000
+LAST-MODIFIED:20190503T092900Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:TBA
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/383
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.382.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20190503T092827Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nSignal processing\nStatistics\n\nDates: \n\nWe
+ dnesday\, June 12\, 2019 - 10:30\n\nLocation: \n\nSalle de séminaire du M3
+ \n\nSpeaker(s): \n\nAdrien Saumard
+DTSTART;TZID=Europe/Paris:20190612T103000
+DTEND;TZID=Europe/Paris:20190612T103000
+LAST-MODIFIED:20190503T092827Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:TBA
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/382
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.381.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20190503T092750Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nStatistics\n\nDates: \n\nWednesday\, May 29\, 2019 - 10:30
+ \n\nLocation: \n\nSalle de séminaire du M3\n\nSpeaker(s): \n\nMaud Delattr
+ e
+DTSTART;TZID=Europe/Paris:20190529T103000
+DTEND;TZID=Europe/Paris:20190529T103000
+LAST-MODIFIED:20190503T092750Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:TBA
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/381
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.380.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20190503T092713Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\nDates: \n\nWednesday\, May 22\, 2019 - 10:30
+ \n\nLocation: \n\nSalle de séminaire du M3\n\nSpeaker(s): \n\nCyril Labbé
+DTSTART;TZID=Europe/Paris:20190522T103000
+DTEND;TZID=Europe/Paris:20190522T103000
+LAST-MODIFIED:20190503T092713Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:TBA
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/380
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.379.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20190503T092643Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\nDates: \n\nWednesday\, May 15\, 2019 - 10:30
+ \n\nLocation: \n\nSalle de séminaire du M3\n\nSpeaker(s): \n\nAdrien Hardy
+DTSTART;TZID=Europe/Paris:20190515T103000
+DTEND;TZID=Europe/Paris:20190515T103000
+LAST-MODIFIED:20190503T092643Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:TBA
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/379
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.376.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20190318T130432Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nL’algorithme SMC^2 de N. C
+ hopin\, P. Jacob et O. Papaspiliopoulos permet d’échantillonner la loi a p
+ osteriori des paramètres d’un modèle à espace d’état\, aussi appelé chaîne
+  de Markov caché. Cet algorithme nécessite de savoir évaluer numériquement
+  la densité loi de transition des états latents\, et la loi d’émission des
+  observations. Lorsque ce n’est plus possible\, nous devons recourir à une
+  stratégie semblable à celle des algorithmes ABC\, qui reposent uniquement
+  sur notre capacité à simuler de nouveaux jeux de données\, et à les compa
+ rer aux données observées.\n\n\nCet algorithme peut être vu comme une mise
+  à jour progressive de la loi a priori\, qui inclut progressivement le jeu
+  de données. Dans une certaine mesure\, il permet de lutter contre le fléa
+ u de la dimension lorsque l’on compare des jeux de données dans les méthod
+ es ABC. \n\n\nEnfin\, nous illustrerons cet algorithme par un problème d’i
+ nférence sur le processus de Hawkes.\n\n\nIl s’agit d’un travail joint ave
+ c Anthony Ebert et Kerrie Mengersen (QUT\, Brisbane\, Australia)\n\n\nDate
+ s: \n\nWednesday\, March 20\, 2019 - 10:30\n\nLocation: \n\nSalle de sémin
+ aire du M3\n\nSpeaker(s): \n\nPierre Pudlo
+DTSTART;TZID=Europe/Paris:20190320T103000
+DTEND;TZID=Europe/Paris:20190320T103000
+LAST-MODIFIED:20190318T130432Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Approximate Bayesian Compution with SMC^2
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/376
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.373.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20190305T141224Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nNous considérons un arbre 
+ de Galton-Watson surcritique\, à chaque arête duquel nous associons une va
+ riable aléatoire positive (qui pourra être vue comme un poids). L'objet qu
+ i nous intéresse est la marche aléatoire aux plus proches voisins sur cet 
+ arbre\, dont les probabilités de transition dépendent de ces poids.\nNous 
+ verrons dans cet exposé que l'on observe différents régimes selon la loi d
+ es poids : le premier régime correspond à un cas 'gaussien'\, le second à 
+ un cas 'stable'. En particulier\, nous nous intéresserons au sommet ayant 
+ le temps local maximal à un temps fixé n\, c'est-à-dire au sommet ayant ét
+ é le plus visité par la marche aléatoire à un temps donné n. Nous énoncero
+ ns un théorème de convergence en loi pour ce temps local maximal au temps 
+ n.\nCet exposé s'appuiera sur un travail en collaboration avec Xinxin Chen
+  (ICJ\, Université Lyon 1)\n\n\nDates: \n\nWednesday\, March 13\, 2019 - 1
+ 0:30\n\nLocation: \n\nSalle de séminaire du M3\n\nSpeaker(s): \n\nLoïc de 
+ Raphélis
+DTSTART;TZID=Europe/Paris:20190313T103000
+DTEND;TZID=Europe/Paris:20190313T103000
+LAST-MODIFIED:20190305T141224Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Marche aléatoire sur un arbre de Galton-Watson : convergence en loi
+  du temps local des sites favoris.
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/373
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.372.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20190301T092447Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nThis talk will revolve aro
+ und recent joint work with Alexandre Stauffer in which we give the first p
+ olynomial upper bound for the relaxation time of the edge flip Markov chai
+ n on rooted quadrangulations. A quadrangulation of size n is a connected p
+ lanar graph endowed with a cellular embedding in the sphere such that all 
+ of its n faces have degree 4\, considered up to orientation-preserving hom
+ eomorphisms of the sphere itself\; we call it rooted when it is endowed wi
+ th a distinguished oriented edge. Given a (rooted) quadrangulation of size
+  n\, a step of the Markov chain we are interested in – a so-called “edge f
+ lip” – consists in choosing an edge uniformly at random\, deleting it and 
+ replacing it with one of the three possible edges (two when the original e
+ dge is adjacent to only one face) which\, if drawn\, recreate a quadrangul
+ ation. We will see how one can relate the edge flip chain on quadrangulati
+ ons to a “leaf translation” chain on plane trees (which has a natural inte
+ rpretation as a chain on the set of Dyck paths\, and on other Catalan stru
+ ctures as well). Having discussed how to set up a successful comparison be
+ tween the two chains which exploits the well-known bijection by Schaeffer 
+ and a specific construction of leaf translations as sequences of edge flip
+ s\, we shall estimate the relaxation time of the leaf translation chain by
+  improving on a result by Movassagh and Shor\n\n\nDates: \n\nWednesday\, M
+ arch 6\, 2019 - 10:30\n\nLocation: \n\nSalle de séminaire du M3\n\nSpeaker
+ (s): \n\nAlessandra Caraceni
+DTSTART;TZID=Europe/Paris:20190306T103000
+DTEND;TZID=Europe/Paris:20190306T103000
+LAST-MODIFIED:20190301T092447Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Polynomial mixing time for edge flips on quadrangulations
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/372
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.367.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20190131T132911Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nStatistics\n\n\n\n\nDans cet exposé\, je présenterai un est
+ imateur adaptatif non-paramétrique d’une fonction de régression multivarié
+ e. L' idée est de s'affranchir d'une hypothèse classique en estimation de 
+ la régression : la compacité du support du design.  Un estimateur à noyau 
+ déformé adaptatif est tout d’abord défini dans le cas où la loi du design 
+ est connue. Dans un second temps\, nous proposons d'estimer également cell
+ e-ci: les marginales sont estimées via les fonctions de répartition empiri
+ ques et structure de dépendance via une estimation de la densité de copule
+ . Le plug-in de ces estimateurs dans celui de la fonction de régression pe
+ rmet ensuite d’obtenir un estimateur dans le cas général. Enfin j'introdui
+ rai une mesure de risque : la CCTE qui est la valeur moyenne d'une fonctio
+ n de coût sachant que l'on se trouve dans les queues de la distribution du
+  design.\n\n\nDates: \n\nWednesday\, February 27\, 2019 - 10:30\n\nLocatio
+ n: \n\nSalle de séminaire du M3\n\nSpeaker(s): \n\nThomas Laloë
+DTSTART;TZID=Europe/Paris:20190227T103000
+DTEND;TZID=Europe/Paris:20190227T103000
+LAST-MODIFIED:20190131T132911Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Estimation adaptative d'une fonction de régression multivariée et a
+ pplication à la théorie du risque
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/367
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.366.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20190125T125152Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\n\n\n\nLe temps local d’un processus stochast
+ ique forme un champ aléatoire indexé par le temps et l’espace.  À l'instan
+ t $t$ fixé\, le temps local\, vu comme un processus spatial\, atteint son 
+ maximum à certains points\, dit points favoris jusqu’au temps $t$.   Dans 
+ cet exposé\, je vais discuter l’asymptotique des points favoris de certain
+ s processus de Lévy symétriques. L’outil fondamental est le théorème de Ra
+ y-Knight généralisé prouvé par Eisenbaum-Marcus-Rosen-Shi en 2000.    Basé
+  sur in travail en collaboration avec B. Li (Wuhan) et Y. Xiao (East Lansi
+ ng).\n\n\nDates: \n\nWednesday\, February 13\, 2019 - 10:30\n\nLocation: 
+ \n\nSalle de séminaire du M3\n\nSpeaker(s): \n\nXiaochuan Yang
+DTSTART;TZID=Europe/Paris:20190213T103000
+DTEND;TZID=Europe/Paris:20190213T103000
+LAST-MODIFIED:20190125T125152Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Points favoris de processus de Lévy symétriques.
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/366
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.365.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20190125T085121Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nUn système de $n$ particul
+ es chargés en dimension deux sera modélisé par une mesure de Boltzmann-Gib
+ bs. Plus précisément\, les particules interagiront deux à deux de façon lo
+ garithmique et elles seront confinées par un potentiel radial fixé. Ce gaz
+  de particules devient un processus déterminantal quand on choisit la temp
+ érature du système correctement. On exploitera cela pour décrire le compor
+ tement de la particule la plus éloignée du centre quand le nombre de parti
+ cules $n$ tend vers l’infini. Parmi les comportements limites on va trouve
+ r des lois de Gumbel\,  exponentielles et de Fréchet mais aussi des généra
+ lisations de ces lois. On choisira des potentiels\ndont la mesure d’équili
+ bre est la mesure uniforme sur le cercle unité. En ce faisant\, on verra\,
+  en particulier\, que ces comportements limites ne sont pas déterminés par
+  la limite des mesures empiriques du système.\n\n\nDates: \n\nWednesday\, 
+ February 6\, 2019 - 10:30\n\nLocation: \n\nSalle de séminaire du M3\n\nSpe
+ aker(s): \n\nDavid Garcia-Zelada
+DTSTART;TZID=Europe/Paris:20190206T103000
+DTEND;TZID=Europe/Paris:20190206T103000
+LAST-MODIFIED:20190125T085121Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:La particule la plus éloignée du centre dans un gaz de Coulomb déte
+ rminantal
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/365
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.360.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20190111T090423Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans ce travail\, nous pro
+ posons un modèle de régression fonctionnel pénalisé en présence de classes
+  latentes et adapté à la prédiction d'une variable réponse binaire. Ce tra
+ vail est essentiellement motivé par une application à des données réelles 
+ : le diagnostic d'une maladie chronique du foie à l'aide de spectres issus
+  de la spectrométrie dans le moyen infrarouge.\nLa loi jointe des prédicte
+ urs et de la variable à prédire est modélisée par un mélange permettant d'
+ obtenir une règle de prédiction naturelle lors de l'obtention d'un nouveau
+  spectre et une interprétabilité biologique des paramètres du modèle.\nEn 
+ présence de données spectrales de grande dimension\, une approche fonction
+ nelle est adoptée et une sélection de variables est effectuée à l'aide de 
+ techniques de vraisemblances pénalisées.\nLes performances de notre modèle
+  sont évaluées sur données simulées et les résultats sur nos données de ma
+ ladie chronique du foie seront discutés.\n\n\nDates: \n\nWednesday\, Janua
+ ry 30\, 2019 - 10:30\n\nLocation: \n\nSalle de séminaire du M3\n\nSpeaker(
+ s): \n\nMadison Giacofci
+DTSTART;TZID=Europe/Paris:20190130T103000
+DTEND;TZID=Europe/Paris:20190130T103000
+LAST-MODIFIED:20190125T084934Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Mélange de régressions pénalisées pour données fonctionnelles. Appl
+ ication à la prédiction d'une maladie du foie
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/360
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.359.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20190111T090241Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nWednesday\, January 2
+ 3\, 2019 - 10:30\n\nLocation: \n\nSalle de séminaire du M3\n\nSpeaker(s): 
+ \n\nOlivier Bouaziz
+DTSTART;TZID=Europe/Paris:20190123T103000
+DTEND;TZID=Europe/Paris:20190123T103000
+LAST-MODIFIED:20190111T090241Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Penalized estimation methods for time to event data based on the ad
+ aptive-ridge procedure
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/359
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.358.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20190111T090137Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nWednesday\, January 1
+ 6\, 2019 - 10:30\n\nLocation: \n\nSalle de séminaire du M3\n\nSpeaker(s): 
+ \n\nErwan Scornet
+DTSTART;TZID=Europe/Paris:20190116T103000
+DTEND;TZID=Europe/Paris:20190116T103000
+LAST-MODIFIED:20190111T090303Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:The art of data science via Mondrian Forests
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/358
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.355.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20181204T214828Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans cet exposé nous étudi
+ erons quelques propriétés de la loi du volume des zéros d'un champ Gaussie
+ n stationnaire sur un compact de Rd. Dès que la dimension est supérieure o
+ u égale à 3\, nous démontrerons que la loi possède une partie absolument c
+ ontinue et éventuellement un dirac en zéro. Les outils utilisés tournent a
+ utour du calcul de Malliavin et de la propriété de Bouleau-Hirsch qui donn
+ e un critère simple d'absolue continuité ainsi que de nouvelles formules d
+ e Kac fermées.\n\n\nDates: \n\nWednesday\, December 19\, 2018 - 10:30\n\nL
+ ocation: \n\nSalle de séminaire du M3\n\nSpeaker(s): \n\nGuillaume Poly
+DTSTART;TZID=Europe/Paris:20181219T103000
+DTEND;TZID=Europe/Paris:20181219T103000
+LAST-MODIFIED:20181204T214828Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Autour de l'absolue continuité du volume nodal d'un champ Gaussien
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/355
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.354.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20181204T214730Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nPour trouver les variables
+  intéressantes dans des données volumineuses\, l'utilisateur aime 'fouille
+ r' dans les données à la recherche de l'information pertinente\, en utilis
+ ant les données plusieurs fois. L'inconvénient est que l'étape de sélectio
+ n invalide les garanties des procédures statistiques classiques. Nous prés
+ enterons un cadre formel qui contourne cette difficulté\, en proposant des
+  bornes de confiances sur le nombre de faux positifs valides simultanément
+  sur tous les ensembles sélectionnés.\n\n\nCe travail est joint avec Gille
+ s Blanchard\, Guillermo Durand and Pierre Neuvial.\n\n\nDates: \n\nWednesd
+ ay\, December 12\, 2018 - 10:30\n\nLocation: \n\nSalle de séminaire du M3
+ \n\nSpeaker(s): \n\nEtienne Roquain
+DTSTART;TZID=Europe/Paris:20181212T103000
+DTEND;TZID=Europe/Paris:20181212T103000
+LAST-MODIFIED:20181204T214730Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Bornes 'post hoc' : combien de faux positifs parmi les variables sé
+ lectionnées ?
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/354
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.353.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20181204T214608Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nWe consider the problem of
+  detecting abrupt changes in the distribution of a multi-dimensional time 
+ series\, with limited computing power and memory. In this paper\, we propo
+ se a new method for model-free online change-point detection that relies o
+ nly on fast and light recursive statistics\, inspired by the classical Exp
+ onential Weighted Moving Average algorithm (EWMA). The proposed idea is to
+  compute two EWMA statistics on the stream of data with different forgetti
+ ng factors\, and to compare them. By doing so\, we show that we implicitly
+  compare recent samples with older ones\, without the need to explicitly s
+ tore them. Additionally\, we leverage Random Features to efficiently use t
+ he Maximum Mean Discrepancy as a distance between distributions\, and expl
+ oit a recently proposed optical device to compute these features with almo
+ st no computational cost\, in any dimension. We show that our method is or
+ ders of magnitude faster than usual non-parametric methods for a given acc
+ uracy.\n\n\nDates: \n\nWednesday\, December 5\, 2018 - 10:30\n\nLocation: 
+ \n\nSalle de séminaire du M3\n\nSpeaker(s): \n\nNicolas Keriven
+DTSTART;TZID=Europe/Paris:20181205T103000
+DTEND;TZID=Europe/Paris:20181205T103000
+LAST-MODIFIED:20181204T214608Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Scalable model-free online change-point detection with NEWMA
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/353
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.343.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20181102T115534Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nRecent years have seen a g
+ reat deal of progress in understanding the behavior of bootstrap percolati
+ on models\, a particular class of monotone cellular automata. In the two d
+ imensional lattice there is now a quite complete understanding of their ev
+ olution starting from a random initial condition\, with a universality pic
+ ture for their critical behavior. Much less is known for their non-monoton
+ e stochastic counterpart\, namely kinetically constrained models (KCM). In
+  KCM each vertex is resampled (independently) at rate one by tossing a p-c
+ oin iff it can be infected in the next step by the bootstrap model. In par
+ ticular infection can also heal\, hence the non-monotonicity. Besides the 
+ connection with bootstrap percolation\, KCM have an interest in their own 
+ : when p -> 0 they display some of the most striking features of the liqui
+ d/glass transition\, a major and still largely open problem in condensed m
+ atter physics. I will discuss some recent results on the characteristic ti
+ me scales of KCM as p -> 0 and the connection with the critical behavior o
+ f the corresponding bootstrap models.\n\n\nDates: \n\nWednesday\, November
+  21\, 2018 - 10:30\n\nLocation: \n\nSalle de séminaire du M3\n\nSpeaker(s)
+ : \n\nCristina Toninelli
+DTSTART;TZID=Europe/Paris:20181121T103000
+DTEND;TZID=Europe/Paris:20181121T103000
+LAST-MODIFIED:20181102T115534Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Bootstrap percolation and kinetically constrained spin models: crit
+ ical time scales
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/343
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.342.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20181102T115405Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nIn neurosciences\, two kin
+ ds of data are available: a continuous signal coming from the action poten
+ tial of one single neuron along time\, and several discrete signals which 
+ are the spike train of several neurons (the occurring times when the actio
+ n potential overcomes a threshold). Usually these two kinds of data are in
+ vestigated separately using either diffusion processes to describe the dyn
+ amic of the action potential or counting processes to describe the graph o
+ f connectivity between neurons (see [3]). We propose a new model which all
+ ows to deal with both type of signals in a single procedure to take into a
+ ccounts the whole information. This new approach can be applied to neurosc
+ iences issues but also to other fields as in finance to model financial as
+ sets. Our model is a jump-diffusion model driven by a multidimensional Haw
+ kes process (see [1]). More precisely he dynamic along time of a process X
+  is described by the following equation\n\n\ndXt=b(Xt)dt+σ(Xt)dWt−+ΣMj=1a(
+ Xt−)dNjt\,∀t≥0\n\n\nwith (Nj)\,j=1\,...\,M a multivariate Hawkes process w
+ ith conditional intensity functions (λj)\,j=1\,...\,M.Assuming that we hav
+ e high frequencies observations of the process together with observations 
+ of the multidi-mensionnal Hawkes process\, we focus first on the nonparame
+ tric estimation of the drift function b\, when the other coefficients are 
+ assumed to be known (see [2]) and then we consider a simultaneous estimati
+ on of both parameters a and b\, assuming that σ is known. The proposed met
+ hod is based on a mean squared regression approach. The novelty here lies 
+ in the contrast function which takes into account the multidimensional Haw
+ kes process. We will also discuss about the existence of a stationary meas
+ ure for our process and ergodicity results that we need to obtain oracle i
+ nequalities for our estimators. Finally\, a numerical study illustrates ou
+ r purpose.\n\n\nJoint work with Charlotte Dion.\n\n\n[1] P. Brémaud and L.
+  Massoulié. Stability of nonlinear Hawkes processes. The Annals of Probabi
+ lity 24\, 1996\, 1563-1588.\n[2] F. Comte and V. Genon-Catalot and Y. Roze
+ nholc. Penalized nonparametric mean square estimation of the coefficients 
+ of diffusion processes. Bernoulli\, 13\, 2007\, 514-543\n[3] P. Reynaud-Bo
+ uret and V. Rivoirard and C. Tuleau-Malot. Inference of functional connect
+ ivity in neurosciences via Hawkes processes. Global Conference on Signal a
+ nd Information Processing (GlobalSIP)\, 2013 IEEE 317- 320\n\n\nDates: \n
+ \nWednesday\, November 14\, 2018 - 10:30\n\nLocation: \n\nSalle de séminai
+ re du M3\n\nSpeaker(s): \n\nSarah Lemler
+DTSTART;TZID=Europe/Paris:20181114T103000
+DTEND;TZID=Europe/Paris:20181114T103000
+LAST-MODIFIED:20181102T115423Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Estimation on a jump diffusion process with jumps driven by a Hawke
+ s process
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/342
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.341.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20181102T115300Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nOn considère une populatio
+ n où les individus diffèrent de part leur âge a∈R+ et un trait phénotypiqu
+ e x∈S⊂Rd (compact). Un individu (x\,a) meurt à taux D(x\,a) et se reprodui
+ t à taux B(x\,a). Lors de la reproduction\, des mutations peuvent apparait
+ re (avec une probabilité p∈]0\,1[) et modifier le trait du parent suivant 
+ une densité k(x\,a\,y)dy.\nLa dynamique d'une telle population (finie) est
+  décrite par un processus à valeurs mesures (Zt(dx\,da)\,t≥0) approché en 
+ grande population par une solution (vt(x\,a)\,t≥0) de l'équation aux dériv
+ ées partielles linéaire (cf. [4]):\n\n\n{∂tvt(x\,a)+∂avt(x\,a)=−D(x\,a)vt(
+ x\,a)\,(t\,x\,a)R+×S×R+\,vt(x\,0)=(1−p)∫R+B(x\,α)vt(x\,α)dα+p∫S×R+B(y\,α)k
+ (y\,α\,x)dydα.\n\n\n\nLe comportement en temps long de ces deux modèles es
+ t lié aux éléments propres principaux (λ∗\,N(x\,a)\,ϕ(x\,a)) du générateur
+  de l'équation aux dérivées partielles linéaire. En étudiant les propriété
+ s spectrales d'une famille d'opérateurs positifs sur un espace de mesures 
+ (cf [2]\, [3])\, nous montrons l'existence d'une valeur propre principale 
+ (parfois nommée paramètre de Malthus) et de mesures propres associées  pou
+ vant admettre des singularités aux traits maximisant la 'fitness'. Lorsque
+  ces mesures admettent une densité continue et bornée\, nous en déduisons 
+ des résulats de convergence des solutions vers la distribution stable. Ces
+  résultats étendent notamment [1] à des populations structurées en âge.\n
+ \n\n \n\n\n \n\n\nRéférences\n[1] Olivier Bonnefon\, Jérôme Coville\, and 
+ Guillaume Legendre. Concentration phenomenon in some non-local equation. a
+ rXiv preprint arXiv:1510.01971\, 2015.\n[2] Jérôme Coville. On a simple cr
+ iterion for the existence of a principal eigenfunction of some nonlocal op
+ erators. Journal of Differential Equations\, 249(11) :2921–2953\, 2010.\n[
+ 3] Jérôme Coville. Singular measure as principal eigenfunction of some non
+ local operators. Applied Mathematics Letters\, 26(8) :831–835\, 2013.\n[4]
+  Regis Ferriere and Viet Chi Tran. Stochastic and deterministic models for
+  age-structured populations with genetically variable traits. In ESAIM : P
+ roceedings\, volume 27\, pages 289–310. EDP Sciences\, 2009.\n\n\nDates: 
+ \n\nWednesday\, November 7\, 2018 - 10:30\n\nLocation: \n\nSalle de sémina
+ ire du M3\n\nSpeaker(s): \n\nTristan Roget
+DTSTART;TZID=Europe/Paris:20181107T103000
+DTEND;TZID=Europe/Paris:20181107T103000
+LAST-MODIFIED:20181102T115300Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Sur le comportement en temps long d'une population structurée en tr
+ ait et en âge
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/341
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.340.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20181019T080140Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nStatistics\n\n\n\n\nLa matrice d'information de Fisher (FIM
+ ) joue un rôle fondamental en statistiques. Elle est très largement utilis
+ ée\, pour évaluer la précision d'estimateurs\, mettre en oeuvre certains t
+ ests statistiques ou encore planifier des expériences. Dans la plupart des
+  modèles à variables latentes\, les variables non observées rendent diffic
+ ile l'évaluation de la FIM. Plusieurs méthodes ont été proposées pour éval
+ uer la FIM observée\, parmi lesquelles des approches de type Monte-Carlo o
+ u des algorithmes itératifs basés sur le 'missing information principle'. 
+ Celles-ci requièrent l'existence et le calcul des dérivées secondes de la 
+ log-vraisemblance complète. Cependant\, ces dérivées n'existent pas toujou
+ rs et les calculer peut présenter de nombreux désavantages computationnels
+ . Nous considérons la matrice de covariance empirique du score comme estim
+ ateur de la FIM observée. Cet estimateur\, très peu utilisé en pratique\, 
+ a l'avantage de ne nécessiter que le calcul des dérivées premières de la l
+ og-vraisemblance complète. Lorsque celui-ci n'admet pas d'expression expli
+ cite\, nous proposons un algorithme d'approximation stochastique afin de l
+ 'évaluer. Nous étudions les propriétés asymptotiques de cet estimateur et 
+ celles de l'algorithme stochastique proposé. Nous évaluons les propriétés 
+ de convergence de l'estimateur à distance finie sur des données simulées s
+ elon un modèle linéaire à effets mixtes d'une part\, et selon un modèle de
+  mélange d'autre part. Dans ces deux modèles\, l'estimateur peut être calc
+ ulé explicitement\, ainsi que la FIM observée. Nous illustrons les proprié
+ tés de convergence de l'algorithme d'estimation via des données simulées s
+ elon un modèle non linéaire à effets mixtes. Nous calculons également la F
+ IM observée pour un jeu de données de théophylline ajusté avec ce modèle.
+ \n\n\nTravail en collaboration avec Maud Delattre (AgroParisTech)\n\n\nDat
+ es: \n\nWednesday\, October 24\, 2018 - 10:30\n\nLocation: \n\nSalle de sé
+ minaire du M3\n\nSpeaker(s): \n\nEstelle Kuhn
+DTSTART;TZID=Europe/Paris:20181024T103000
+DTEND;TZID=Europe/Paris:20181024T103000
+LAST-MODIFIED:20181019T080140Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Une nouvelle méthode d'estimation de la matrice d'information de Fi
+ sher dans les modèles à variables latentes
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/340
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.329.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20180925T145801Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nPopular machine learning e
+ stimators involve regularization parameters that can be challenging to tun
+ e. Standard strategies consist in computing by grid search\, a discretized
+  approximation of the entire solution path. Unfortunately\, the size of th
+ e discretized grid can be exponential in the dimension of the problem (cf 
+ complexity of Lars). We revisit the techniques of approximating the regula
+ rization  path up to predefined tolerance in a unified framework and show 
+ that its complexity is O(1/ϵ√d) for uniformly convex loss of order d>0 and
+  O(1/ϵ√) for Generalized Self-Concordant functions. This includes examples
+  such as least-squares and logistic loss. Finally\, we leverage our techni
+ que to provide refined bounds on the validation error and provide practica
+ l algorithms for hyperparameter tuning with global convergence guarantee a
+ t any desired accuracy ϵv on the validation set.\n\n\nDates: \n\nWednesday
+ \, October 17\, 2018 - 10:30\n\nLocation: \n\nSalle de séminaire du M3\n\n
+ Speaker(s): \n\nEugène Ndiaye
+DTSTART;TZID=Europe/Paris:20181017T103000
+DTEND;TZID=Europe/Paris:20181017T103000
+LAST-MODIFIED:20180925T145801Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Safe Grid Search with Optimal Complexity
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/329
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.326.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20180914T135735Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\n\n\n\nDans cet exposé\, je m’intéresserai au
+ x polynômes aléatoires\, dits polynômes de Kac\, de degré n et dont les co
+ efficients sont des variables aléatoires réelles et Gaussiennes indépendan
+ tes. Je montrerai comment obtenir la statistique complète du nombre de rac
+ ines réelles\, dans la limite où le degré n est grand. En particulier\, la
+  probabilité pour que ces polynômes n’aient aucune racine\nréelle (la prob
+ abilité de 'persistence') décroît algébriquement avec n avec un exposant 3
+ /16. Ce résultat est obtenu en établissant une succession de relations ent
+ re ces racines réelles et différents processus ponctuels Pfaffiens issus d
+ e la physique statistique et de de la\nthéorie des matrices aléatoires.\n
+ \n\nTravail en collaboration avec M. Poplavskyi (King’s College\, Londres)
+ \, https://arxiv.org/abs/1806.11275\n\n\nDates: \n\nWednesday\, October 10
+ \, 2018 - 10:30\n\nLocation: \n\nSalle de séminaire du M3\n\nSpeaker(s): 
+ \n\nGrégory Schehr
+DTSTART;TZID=Europe/Paris:20181010T103000
+DTEND;TZID=Europe/Paris:20181010T103000
+LAST-MODIFIED:20180914T135745Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Statistique de racines réelles de polynômes aléatoires et processus
+  ponctuels Pfaffiens
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/326
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.325.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20180914T135607Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\n\n\n\nLa déconvolution classique est un impo
+ rtant problème qui consiste à retrouver la distribution d'une variable alé
+ atoire perturbée par un bruit. Dans cet exposé\, je vais expliquer une ver
+ sion non-commutative du problème : l'objectif est de retrouver la distribu
+ tion spectrale d'une matrice modifiée par un bruit matriciel. Contrairemen
+ t au cas classique\, il n'existe pas de noyau intégral similaire à la  tra
+ nsformée de Fourier\, ce qui rend le problème en général impossible à réso
+ udre. Je vais présenter une approche possible par  l'analyse complexe qui 
+ fonctionne dans le régime 'libre'\, c'est à dire dans le cas où la taille 
+ des matrices tend vers l'infini.\n\n\nCet exposé s'appuie sur des résultat
+ s obtenus en collaboration avec Octavio Arizmendi (CIMAT) et Carlos Vargas
+  (CIMAT).\n\n\nDates: \n\nWednesday\, September 26\, 2018 - 10:30\n\nLocat
+ ion: \n\nSalle de séminaire du M3\n\nSpeaker(s): \n\nPierre Tarrago
+DTSTART;TZID=Europe/Paris:20180926T103000
+DTEND;TZID=Europe/Paris:20180926T103000
+LAST-MODIFIED:20180914T135624Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Méthode de subordination pour la déconvolution libre
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/325
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.324.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20180914T135424Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\n\n\n\nDans cet exposé\, on présentera des ré
+ sultats récents autour de la méthode de Stein dans un contexte multivarié.
+ Essentiellement développée pour la loi normale multi-variée\, la méthode d
+ e Stein peut être implémentée pour une classe générale de lois\, à savoir 
+ les lois auto-décomposables. On verra comment des techniques variationnell
+ es récemment développées pour la loi normale\, peuvent être importées dans
+  ce contexte infiniment divisible. En particulier\, celles-ci permettent d
+ 'obtenir des bornes quantitatives explicites sur des métriques classiques 
+ de probabilité.\n\n\nCes résultats sont issus de travaux en collaboration 
+ avec Christian Houdré (Georgia Tech).\n\n\nDates: \n\nWednesday\, Septembe
+ r 19\, 2018 - 10:30\n\nLocation: \n\nSalle de séminaire du M3\n\nSpeaker(s
+ ): \n\nBenjamin Arras
+DTSTART;TZID=Europe/Paris:20180919T103000
+DTEND;TZID=Europe/Paris:20180919T103000
+LAST-MODIFIED:20180914T135424Z
+LOCATION:Salle de séminaire du M3
+SUMMARY:Méthode de Stein pour les lois auto-décomposables multi-variées à p
+ remier moment fini
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/324
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.307.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20180502T123934Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nMachine learning\nStatistics\n\n\n\n\nEn apprentissage auto
+ matique\, l’approche PAC-bayésienne permet d’obtenir des garanties statis
+ tiques sur la perte d'agrégation de plusieurs prédicteurs (par exemple\, c
+ ette agrégation peut prendre la forme d'un vote de majorité pondéré). L
+ a théorie PAC-bayésienne «classique»\, initiée par McAllester (1999)\, 
+ étudie le cadre d’apprentissage inductif\, sous l’hypothèse que les exem
+ ples d’apprentissage sont générés de manière indépendante et qu’ils s
+ ont identiquement distribués (i.i.d.) selon une distribution de probabili
+ té inconnue\, mais fixe.\nJ'introduirai une démonstration simplifiée mena
+ nt à un théorème PAC-bayésien général. Ce théorème permet de retrouver plu
+ sieurs résultats existants pour le cadre d’apprentissage inductif\, ainsi
+  que de les relier entre eux. De plus\, l'aspect modulaire de notre démons
+ tration permet de l'adapter aisément à d'autres cadres d'apprentissage. No
+ tamment\, je présenterai la spécialisation de la théorie PAC-bayésienne à 
+ l'apprentissage semi-supervisé et transductif. Enfin\, une paramétrisation
+  particulière du théorème PAC-bayésien permet de jeter un nouveau regard s
+ ur les critères de sélection de modèles «purement» bayésiens\, comme le ma
+ ximum de vraisemblance.\n\n\nDates: \n\nWednesday\, May 9\, 2018 - 10:30\n
+ \nLocation: \n\nSalle de séminaire M3\n\nSpeaker(s): \n\nPascal Germain
+DTSTART;TZID=Europe/Paris:20180509T103000
+DTEND;TZID=Europe/Paris:20180509T103000
+LAST-MODIFIED:20180502T123934Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Variations sur la borne PAC-bayésienne
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/307
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.288.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20180131T221522Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\n\n\n\nNous allons nous intéresser à une limi
+ te d'échelle d'une équation aux dérivées partielles modélisant la dynamiqu
+ e d'une population structurée par un trait quantitatif et sujette à mutati
+ ons.  Dans la limite d'échelle des petites mutations et du temps long\, ce
+  type d'équation donne lieu à des équations de Hamilton-Jacobi avec contra
+ intes (Dieckmann et al\, 2005).\n\n\nDans ce travail\, nous donnons une re
+ présentation de la solution de cette EDP comme  l'espérance d'une fonction
+ nelle  d'un processus stochastique (mouvement Brownien si l'opérateur de m
+ utation est un Laplacien). La limite d'échelle peut alors être étudiée grâ
+ ce à des estimées de grandes déviations\, et nous obtenons ainsi une carac
+ térisation variationnelle du problème de Hamilton-Jacobi limite. Dans cert
+ ain cas simples\, nous sommes alors en mesure de démontrer l'unicité de la
+  solution du problème variationnel.\n\n\n \n\n\nDates: \n\nWednesday\, Mar
+ ch 21\, 2018 - 10:30\n\nLocation: \n\nSalle de séminaire M3 \n\nSpeaker(s)
+ : \n\nBenoît Henry
+DTSTART;TZID=Europe/Paris:20180321T103000
+DTEND;TZID=Europe/Paris:20180321T103000
+LAST-MODIFIED:20180131T221522Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Grandes déviations pour l'étude de limites d'échelle de modèles dét
+ erministes de la dynamique adaptative
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/288
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.290.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20180202T140836Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\n\n\n\nJean-François Le Gall et Grégory Mierm
+ ont ont (chacun) montré qu’une quadrangulation aléatoire uniforme de la sp
+ hère à n faces converge après mise à l’échelle vers un objet limite appelé
+  carte brownienne. Le Gall montre de plus que cet objet est universel\, au
+  sens où il apparaît également à la limite d’autres modèles de cartes disc
+ rètes\, comme les q-angulations uniformes pour tout entier pair q. Je prés
+ enterai un résultat plus général de convergence de grandes cartes vers cet
+ te limite\, en autorisant notamment des faces de différents degrés. En cor
+ ollaire\, on obtient la convergence de cartes de Boltzmann conditionnées à
+  être grandes sous une hypothèse de moment d'ordre deux sur le degré des f
+ aces. La preuve repose essentiellement sur l’étude de grands arbres aléato
+ ires dont chaque nœud possède une position spatiale\, et qui convergent ve
+ rs le serpent brownien.\n\n\nDates: \n\nWednesday\, March 7\, 2018 - 10:30
+ \n\nLocation: \n\nSalle de séminaire M3 \n\nSpeaker(s): \n\nCyril Marzouk
+DTSTART;TZID=Europe/Paris:20180307T103000
+DTEND;TZID=Europe/Paris:20180307T103000
+LAST-MODIFIED:20180202T140836Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Universalité de la carte Brownienne
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/290
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.273.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20171217T112453Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nStatistics\n\nDates: \n\nWednesday\, February 21\, 2018 - 1
+ 0:30\n\nLocation: \n\nSalle de séminaire M3 \n\nSpeaker(s): \n\nRobin Ryde
+ r
+DTSTART;TZID=Europe/Paris:20180221T103000
+DTEND;TZID=Europe/Paris:20180221T103000
+LAST-MODIFIED:20171217T112453Z
+LOCATION:Salle de séminaire M3
+SUMMARY:TBA
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/273
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.272.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20171217T112333Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nStatistics\n\n\n\n\nIn this talk\, I propose to present a g
+ eneric hierarchical spatiotemporal model for longitudinal manifold-valued 
+ data\, which consist in repeated measurements over time for a group of ind
+ ividuals. This model allows us to estimate a group-average trajectory of p
+ rogression\, considered as a geodesic of a given Riemannian manifold. Indi
+ vidual trajectories of progression are obtained as random variations\, whi
+ ch consist in parallel shifting and time reparametrization\, of the averag
+ e trajectory. These spatiotemporal transformations allow us to characteriz
+ e changes in the direction and in the pace at which trajectories are follo
+ wed. We propose to estimate the parameters of the model using a stochastic
+  version of the expectation-maximization (EM) algorithm\, the Monte Carlo 
+ Markov Chain Stochastic Approximation EM (MCMC SAEM) algorithm. \n\n\nThis
+  generic spatiotemporal model is used to analyze the temporal progression 
+ of a family of biomarkers. This progression model estimates a normative sc
+ enario of the progressive impairments of several cognitive functions\, con
+ sidered here as biomarkers\, during the course of Alzheimer’s disease. The
+  estimated average trajectory provides a normative scenario of disease pro
+ gression. Random effects provide unique insights into the variations in th
+ e ordering and timing of the succession of cognitive impairments across di
+ fferent individuals.\n\n\nDates: \n\nWednesday\, February 14\, 2018 - 10:3
+ 0\n\nLocation: \n\nSalle de séminaire M3 \n\nSpeaker(s): \n\nStéphanie All
+ assonnière
+DTSTART;TZID=Europe/Paris:20180214T103000
+DTEND;TZID=Europe/Paris:20180214T103000
+LAST-MODIFIED:20180129T102100Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Mixed-effect model for the spatiotemporal analysis of longitudinal 
+ manifold-valued data
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/272
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.271.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20171217T112058Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\nDates: \n\nWednesday\, February 7\, 2018 - 1
+ 0:30\n\nLocation: \n\nSalle de séminaire M3 \n\nSpeaker(s): \n\nKei Noba
+DTSTART;TZID=Europe/Paris:20180207T103000
+DTEND;TZID=Europe/Paris:20180207T103000
+LAST-MODIFIED:20171217T112058Z
+LOCATION:Salle de séminaire M3
+SUMMARY:TBA
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/271
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.286.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20180127T120745Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nStatistics\n\n\n\n\nModéliser les relations entre entités (
+ individus\, insectes\, plantes...) est une problématique classique en scie
+ nces sociales et en écologie et regrouper les entités étudiées en fonction
+  des motifs observés dans le réseau permet de comprendre la topologie du r
+ éseau. Les modèle à blocs stochastiques ou latents sont une approche répan
+ due pour regrouper les individus partageant le même comportement d'interac
+ tion.\n\n\nDans ce travail\, nous nous intéressons au cas où nous cherchon
+ s à modéliser plusieurs réseaux d'interactions définis sur les même groupe
+ s d'individus\, ces réseaux pouvant être dépendants.\n\n\nLes modèles à bl
+ ocs stochastiques ou latents reposent sur l'introduction des variables lat
+ entes\, rendant leur vraisemblance incalculable de façon explicite dès que
+  la taille des réseaux augmente. Nous utilisons alors une version stochast
+ ique de l'algorithme EM. La pertinence de notre modèle et de notre méthode
+  d'inférence est illustrée sur données simulées et réelles.\n\n\nDates: \n
+ \nWednesday\, January 31\, 2018 - 10:30\n\nLocation: \n\nSalle de séminair
+ e M3 \n\nSpeaker(s): \n\nSophie Donnet
+DTSTART;TZID=Europe/Paris:20180131T103000
+DTEND;TZID=Europe/Paris:20180131T103000
+LAST-MODIFIED:20180127T121028Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Inférence de données de réseaux multipartite par modèles à blocs la
+ tents et stochastiques. Application en écologie et ethnobiologie
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/286
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.287.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20180127T121412Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\n\n\n\nUsing excursion theory\, we construct 
+ a Markov process with no positive jumps whose positive and negative motion
+ s are given by different standard processes. The resulting process is a ge
+ neralization of Kyprianou--Loeffen's refracted L\'evy processes. We discus
+ s approximation problem for our generalized refracted L\'evy processes by 
+ removing small jumps and taking the limit as the removal level tends to ze
+ ro. We also discuss conditions for refracted processes to have dual proces
+ ses.\n\n\nDates: \n\nSaturday\, January 27\, 2018 - 13:15\n\nLocation: \n
+ \nSalle de séminaire M3 \n\nSpeaker(s): \n\nKei Noba
+DTSTART;TZID=Europe/Paris:20180127T131500
+DTEND;TZID=Europe/Paris:20180127T131500
+LAST-MODIFIED:20180127T121412Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Approximation and duality problems of refracted processes
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/287
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.281.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20180115T133501Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\n\n\n\nJe présenterai un modèle décrivant l'é
+ volution de la composition \ngénétique d'une population structurée en espa
+ ce dans le cas où la \ndispersion des individus est plus forte dans une ré
+ gion de l'espace que \ndans l'autre. On s'intéressera aux limites d'échell
+ es de ce processus\, \nque l'on étudie via le processus dual décrivant la 
+ généalogie d'un \néchantillon aléatoire d'individus dans la population. On
+  verra que les \nlignées ancestrales suivent asymptotiquement une famille 
+ de mouvements \nBrowniens biaisés (skew Brownian motions) qui coalescent d
+ ès qu'ils se \nrencontrent et on en déduira le comportement à grande échel
+ le de la \ncomposition génétique de la population. Je présenterai ensuite 
+ une \napplication à l'estimation de paramètres démographiques dans des \np
+ opulations humaines en Europe.\n\n\nDates: \n\nWednesday\, January 24\, 20
+ 18 - 10:30\n\nLocation: \n\nSalle de séminaire M3 \n\nSpeaker(s): \n\nRaph
+ ael Forien
+DTSTART;TZID=Europe/Paris:20180124T103000
+DTEND;TZID=Europe/Paris:20180124T103000
+LAST-MODIFIED:20180115T133501Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Évolution de la diversité génétique en présence de dispersion hétér
+ ogène  - modélisation et inférence
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/281
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.270.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20171217T111741Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\nDates: \n\nWednesday\, January 24\, 2018 - 1
+ 0:30\n\nLocation: \n\nSalle de séminaire M3 \n\nSpeaker(s): \n\nRaphael Fo
+ rien
+DTSTART;TZID=Europe/Paris:20180124T103000
+DTEND;TZID=Europe/Paris:20180124T103000
+LAST-MODIFIED:20171217T111741Z
+LOCATION:Salle de séminaire M3
+SUMMARY:TBA
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/270
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.269.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20171217T110626Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\nDates: \n\nWednesday\, January 17\, 2018 - 1
+ 0:30\n\nLocation: \n\nSalle de séminaire M3 \n\nSpeaker(s): \n\nThierry Go
+ bron
+DTSTART;TZID=Europe/Paris:20180117T103000
+DTEND;TZID=Europe/Paris:20180117T103000
+LAST-MODIFIED:20171217T110640Z
+LOCATION:Salle de séminaire M3
+SUMMARY:TBA
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/269
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.280.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20180112T114805Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\n\n\n\nLa théorie de van der Waals (1873) a é
+ té la première description qualitativement satisfaisante\n\n\nd'une transi
+ tion de phase liquide-gas. Kac (1959) a initié une série de travaux permet
+ tant de donner des bases\n\n\nrigoureuses à cette théorie\, dans le cadre 
+ de la physique statistique. Ce programme\, poursuivi notamment par\n\n\nLe
+ bowitz et Penrose (1966) puis par Cassandro et Presutti (1996)\, a conduit
+  à l'établissement de preuves \n\n\nrigoureuses d'existence de transitions
+  de phase dans différents systèmes\, sur réseau et dans le continu.\n\n\nC
+ es systèmes ont en commun des interactions entre particules de type Kac\, 
+ e.g. un potentiel de paire de la forme\n\n\n \n\n\n             $ V(x\,y) 
+ =  \gamma^d J( \gamma |x-y| )  $\n\n\n \n\n\noù $J$ est à support compact 
+ et $\gamma>0$ est un paramètre d'échelle pris suffisamment petit\; $d$ est
+  la\n\n\ndimension de l'espace et $x$ et  $y$ sont les positions de deux p
+ articules en interaction.\n\n\n \n\n\nCet exposé est une introduction aux 
+ idées développées dans ce cadre ainsi qu'aux techniques de preuve\n\n\nde 
+ transition de phase pour les modèles considérés.\n\n\nDates: \n\nFriday\, 
+ January 12\, 2018 - 10:30\n\nLocation: \n\nSalle de séminaire M3 \n\nSpeak
+ er(s): \n\nThierry Gobron
+DTSTART;TZID=Europe/Paris:20180112T103000
+DTEND;TZID=Europe/Paris:20180112T103000
+LAST-MODIFIED:20180112T114805Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Introduction aux transitions de phase dans les systèmes avec intera
+ ctions de Kac
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/280
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.268.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20171217T110049Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\n\n\n\nDans cet exposé\, je commencerai par m
+ otiver l'étude des processus de \nbranchement à espace d'états continu (CS
+ BP) grâce à une construction à \npartir de processus de Galton-Watson. Je 
+ définirai ensuite les CSBP avec \ncompétition et environnement aléatoire c
+ omme solution d'une équation \ndifférentielle stochastique\, comme les ont
+  introduits Palau et Pardo en \n2016. On étudiera alors le temps d'extinct
+ ion du processus en fonction \nde conditions sur les paramètres du modèle.
+  Notamment\, dans le cas d'une \ncompétition logistique et d'un environnem
+ ent aléatoire de type Brownien\, \non détaillera le comportement en temps 
+ long du processus en donnant les \nconditions sous lesquelles le processus
+  est transient\, récursif ou \nrécursif positif.\n\n\nDates: \n\nWednesday
+ \, December 20\, 2017 - 10:30\n\nLocation: \n\nSalle de séminaire M3 \n\nS
+ peaker(s): \n\nHélène Leman
+DTSTART;TZID=Europe/Paris:20171220T103000
+DTEND;TZID=Europe/Paris:20171220T103000
+LAST-MODIFIED:20171217T110049Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Temps d'extinction d'un processus de branchement à espace d'états  
+ continu avec compétition et environnement aléatoire
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/268
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.266.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20171206T143405Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\n\n\n\nLa méthode de Stein est une technique 
+ efficace pour l'étude quantitative de théorèmes de convergence en loi. Ell
+ e a été éprouvée pour différentes lois cibles et pour différentes structur
+ es séquentielles. De plus\, elle s'est substituée aux techniques usuelles 
+ reposant sur la transformée de Fourier. Néanmoins\, certains phénomènes li
+ mites semblent hors de portée de cette méthode.\n\n\nCet exposé présentera
+  une nouvelle approche combinant des outils de type Fourier à des identité
+ s issues de la méthode de Stein. Celle-ci permet de quantifier la vitesse 
+ de convergence pour des théorèmes limites non-standards. En particulier\, 
+ je présenterai des vitesses de convergence pour des théorèmes limites conc
+ ernant la distribution de Dickman en lien avec la théorie des nombres. Ces
+  résultats sont issus d'un travail effectué en collaboration avec G. Mijou
+ le\, G. Poly et Y. Swan.\n\n\nDates: \n\nWednesday\, December 13\, 2017 - 
+ 10:30\n\nLocation: \n\nSalle de séminaire M3 \n\nSpeaker(s): \n\nBenjamin 
+ Arras
+DTSTART;TZID=Europe/Paris:20171213T103000
+DTEND;TZID=Europe/Paris:20171213T103000
+LAST-MODIFIED:20171206T143405Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Une nouvelle approche pour la méthode de Stein-Tikhomirov
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/266
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.265.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20171130T221143Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\n\n\n\nL'effet Hall quantique fractionnaire e
+ st un des phénomènes les plus fascinants de la physique de la matière cond
+ ensée. Les propriétés de transport électronique à faible température et fo
+ rt champ magnétique d'un gaz d'électrons 2D ont révélé dans les années 80 
+ l'émergence de nouvelles phases de matière très spéciales\, fortement corr
+ élées\, dont la fonction d'onde de Laughlin est le prototype le plus simpl
+ e et le mieux connu. La densité de probabilité correspondante est exacteme
+ nt celle de l'état de Gibbs d'un gaz de Coulomb 2D (aussi connu sous le no
+ m de log-gas 2D\, ou beta-ensemble ...)\, et donc connecté à des modèles d
+ e matrices aléatoires (ensemble de Ginibre ...).\n\n\nCet exposé sera une 
+ introduction à la phénoménologie et aux modèles de l'effet Hall fractionna
+ ire\, et à certains problèmes mathématiques d'un genre nouveau posés par l
+ 'interprétaton des expériences. Je présenterais en particulier des 'estima
+ tions d'incompressibilité' obtenues en collaboration avec Elliott Lieb et 
+ Jakob Yngvason. Celles-ci démontrent une grande rigidité de la réponse des
+  fonctions de Laughlin aux champs extérieurs\, en exploitant une connectio
+ n avec un gaz de Coulomb 2D généralisé.\n\n\nDates: \n\nWednesday\, Decemb
+ er 6\, 2017 - 10:30\n\nLocation: \n\nSalle de séminaire M3 \n\nSpeaker(s):
+  \n\nNicolas Rougerie
+DTSTART;TZID=Europe/Paris:20171206T103000
+DTEND;TZID=Europe/Paris:20171206T103000
+LAST-MODIFIED:20171130T221143Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Effet Hall fractionnaire et gaz de Coulomb 2D généralisé
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/265
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.257.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20171030T212120Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\n\n\n\nÉtant donné un processus Markovien sur
+  un espace fini\, on verra comment une famille de forêts couvrantes aléato
+ ires sur le graphe associé permet de sonder le spectre du générateur.\n\n
+ \nOn étudiera en particulier comment\, grâce à la combinatoire de ces forê
+ ts\, on peut\, sur différentes échelles de temps\, réduire un processus ré
+ versible à une chaîne de Markov entre équilibres locaux.\n\n\nDates: \n\nW
+ ednesday\, November 29\, 2017 - 10:30\n\nLocation: \n\nSalle de séminaire 
+ M3 \n\nSpeaker(s): \n\nAlexandre Gaudillière
+DTSTART;TZID=Europe/Paris:20171129T103000
+DTEND;TZID=Europe/Paris:20171129T103000
+LAST-MODIFIED:20171030T212203Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Forêts aléatoires et spectres Markoviens
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/257
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.256.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20171030T211610Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\n\n\n\nSi on part du réseau carré et efface c
+ haque sommet indépendamment avec une certaine probabilité q\, on effectue 
+ ce qui s'appelle la percolation de Bernoulli : cet important modèle de méc
+ anique statistique rend compte des phénomènes d'infiltration en milieu por
+ eux. Si on part du réseau carré mais cette fois-ci efface chaque sommet (x
+ \,y) tel que PGCD(x\,y) ≠ 1\, on obtient maintenant un objet déterministe 
+ de nature arithmétique. Est-il possible de former une percolation (véritab
+ lement aléatoire donc) riche en informations arithmétiques ?\n\n\nOn va vo
+ ir que cela est effectivement possible : on peut définir à quoi ressemble 
+ le sous-graphe arithmétique précédent 'vu depuis un point tiré uniformémen
+ t dans le plan'. Cela résout une conjecture de Vardi. Ce sous-graphe aléat
+ oire est obtenu selon un 'crible d'Ératosthène aléatoire'. Les outils arit
+ hmétiques permettant de lier le sous-graphe arithmétique déterministe et s
+ a contrepartie aléatoire sont le lemme chinois et les entiers profinis\, q
+ ue j'introduirai sans me hâter.\n\n\nDates: \n\nWednesday\, November 22\, 
+ 2017 - 10:30\n\nLocation: \n\nSalle de séminaire M3 \n\nSpeaker(s): \n\nSe
+ bastien Martineau
+DTSTART;TZID=Europe/Paris:20171122T103000
+DTEND;TZID=Europe/Paris:20171122T103000
+LAST-MODIFIED:20171030T211610Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Percolation arithmétique
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/256
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.255.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20171030T211324Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nMachine learning\nPattern recognition\nStatistics\n\n\n\n\n
+ L'apprentissage des paramètres d'un système dynamique pour que ses\ntrajec
+ toires présentent des propriétés voulues est au coeur de\nl'utilisation de
+ s réseaux de neurones pour modéliser des données\ntemporelles (texte\, sér
+ ies numériques\, traduction automatique...).\n\n\nUne approche standard es
+ t une descente de gradient stochastique sur un\nsignal d'erreur. Malheureu
+ sement cet algorithme a l'inconvénient de\n'remonter le temps' le long de 
+ la trajectoire\, ce qui nécessite de\nl'entraîner à partir d'un grand nomb
+ re de trajectoires courtes qui sont\nchacune analysées en partant de la fi
+ n. Cela rend impossible\nl'apprentissage en temps réel.\n\n\nUn problème s
+ imilaire se retrouve dans d'autres modèles\, par exemple\,\nl'ajustement d
+ e modèles markoviens pour prédire des observations.\n\n\nNous présenterons
+  une analyse mathématique de la convergence de nouveaux\nalgorithmes pour 
+ l'ajustement en temps réel d'un système dynamique.\nContrairement aux appr
+ oches précédentes\, nous n'avons pas besoin\nd'hypothèses probabilistes su
+ r l'environnement du système.\n\n\nDates: \n\nWednesday\, November 15\, 20
+ 17 - 10:30\n\nLocation: \n\nSalle de séminaire M3 \n\nSpeaker(s): \n\nYann
+  Ollivier
+DTSTART;TZID=Europe/Paris:20171115T103000
+DTEND;TZID=Europe/Paris:20171115T103000
+LAST-MODIFIED:20171030T211324Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Ajustement de systèmes dynamiques
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/255
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.254.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20171030T211124Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nThis a joint work with Jul
+ ien Hamonien (Université de Lille)\n\n\nMultifractional processes have bee
+ n introduced in the 90’s in order to overcome some limitations of the well
+ -known Fractional Brownian Motion (FBM) due to the constancy in time of it
+ s Hurst parameter H\; in their context\, this parameter becomes a Hölder c
+ ontinuous function H(.). Global and local path roughness of a multifractio
+ nal process are determined by values of H(.)\; therefore\, several authors
+  have been interested in their statistical estimation\, starting from disc
+ rete variations of the process. Because of the complex dependence structur
+ e of variations\, showing consistency of estimators is a tricky problem wh
+ ich often requires hard computations.\n\n\nThe main goal of our talk\, is 
+ to introduce in the setting of the non-anticipative moving average Linear 
+ Multifractional Stable Motion (LMSM) with a stability parameter alpha in t
+ he interval (1\,2]\, a new strategy for dealing with the latter problem. I
+ n contrast with the previous strategies\, this new one\, does not require 
+ to look for sharp estimates of covariances related to variations\; roughly
+  speaking\, it consists in expressing them in such a way that they become 
+ independent up to negligible remainders. Thanks to it\, we obtain:\n\n\n1.
+  for each compact interval I\, a strongly consistent estimator of the mini
+ mal value of H(.) over I\;\n\n\n2. more importantly\, a strongly consisten
+ t estimator of the whole function H(.)\, which converges in the sense of t
+ he uniform norm. \n\n\n \n\n\nDates: \n\nWednesday\, November 8\, 2017 - 1
+ 0:30\n\nLocation: \n\nSalle de séminaire M3 \n\nSpeaker(s): \n\nAntoine Ay
+ ache
+DTSTART;TZID=Europe/Paris:20171108T103000
+DTEND;TZID=Europe/Paris:20171108T103000
+LAST-MODIFIED:20171030T211124Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Uniformly convergent estimators for Multifractional Hurst functions
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/254
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.252.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20171017T153554Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nImage processing\nSignal processing\nStatistics\n\n\n\n\nDa
+ ns cet exposé\, on s'intéresse à construire et comparer des statistiques d
+ e tests exacts sur la moyenne d'un processus gaussien stationnaire. On étu
+ die trois tests : un test basé sur l'observation du processus sur une gril
+ le\, le test obtenu en faisant tendre le pas de la grille vers zéro\, et u
+ n test basé sur toute la trajectoire du processus. L’idée est alors de tes
+ ter la nullité de la moyenne du processus contre des alternatives « parcim
+ onieuses ». Cette problématique est inspirée et illustrée par des applicat
+ ions en traitement d’image en spectroscopie de fluorescence et en cosmolog
+ ie où l’on cherche à identifier des sources lumineuse ponctuelles dans un 
+ fond noir. \n\n\n \n\n\nRéférence : Testing Gaussian Process with Applicat
+ ions to Super-Resolution (avec J.-M. Azaïs & S. Mourareau)\, arXiv 1706.00
+ 679\n\n\nDates: \n\nWednesday\, October 25\, 2017 - 10:30\n\nLocation: \n
+ \nSalle de séminaire M3 \n\nSpeaker(s): \n\nYohann de Castro
+DTSTART;TZID=Europe/Paris:20171025T103000
+DTEND;TZID=Europe/Paris:20171025T103000
+LAST-MODIFIED:20171017T153554Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Tests exacts de la moyenne d’un processus gaussien
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/252
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.251.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20171014T110722Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\n\n\n\nOngoing work with Claudio Landim (IMPA
+ ). The most common tool to derive hydrodynamic limits is the entropy metho
+ d\, which estimates the entropy of the measure of a particle system with r
+ espect to a nice -generally product- reference measure\, which allows to e
+ stimate all relevant quantities thanks to the distance between the true me
+ asure of the process and the reference measure.\n\n\nHowever\, in some cas
+ es\, this method fails\, in particular for boundary driven dynamics. \n\n
+ \nIn this talk\, I will explain how to use duality to prove hydrostatic an
+ d hydrodynamic limits\, and will try to explain the reach and limitations 
+ of the duality method.\n\n\nDates: \n\nWednesday\, October 18\, 2017 - 10:
+ 30\n\nLocation: \n\nSalle de séminaire M3 \n\nSpeaker(s): \n\nClément Erig
+ noux
+DTSTART;TZID=Europe/Paris:20171018T103000
+DTEND;TZID=Europe/Paris:20171018T103000
+LAST-MODIFIED:20171014T110722Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Using duality to derive hydrostatic and hydrodynamic limits for bou
+ ndary driven particle systems
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/251
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.248.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20171001T113839Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nThe case when the summands
+ /integrands are functionals of a long-range dependent Gaussian process is 
+ of great importance in the theory of limit theorems for sums/integrals of 
+ dependent random variables. Comparing with the CLT\, long-range dependent 
+ summands can produce different normalizing coefficients and non-Gaussian l
+ imits. Integral functionals of homogeneous random fields/processes with lo
+ ng-range dependence are investigated.  The main result is the rate of conv
+ ergence to the Hermite-type distributions in non-central limit theorems. S
+ pecifications of the main theorem are discussed for several scenarios. \n
+ \n\nThe presentation is based on the manuscript:\nVo Anh\, N. Leonenko\, A
+ .Olenko\, V.Vaskovych. On rate of convergence in non-central limit theorem
+ s\, submitted.\n\n\nDates: \n\nWednesday\, October 11\, 2017 - 10:30\n\nLo
+ cation: \n\nSalle de séminaire M3 \n\nSpeaker(s): \n\nAndriy Olenko
+DTSTART;TZID=Europe/Paris:20171011T103000
+DTEND;TZID=Europe/Paris:20171011T103000
+LAST-MODIFIED:20171001T113839Z
+LOCATION:Salle de séminaire M3
+SUMMARY:On rate of convergence in non-central limit theorems
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/248
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.243.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20170920T113639Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nStatistics\n\n\n\n\nLes modèles non linéaires mixtes sont u
+ tilisés dans un grand nombre\nd’applications\, afin de prendre en compte l
+ a variabilitée inter- et\nintra-individuelle dans une population. On s'int
+ éresse dans cet exposé à\nl'identification des effets fixes et aléatoires 
+ du modèle\, à l'aide d'un\ntest du rapport de vraisemblance portant sur le
+ s variances d’un sous\nensemble d’effets aléatoires. Les résultats standar
+ ds sur ce type de\ntest ne s’appliquent pas ici\, car sous l’hypothèse nul
+ le\, la vraie\nvaleur du paramètre se trouve sur la frontière de l’espace 
+ des\nparamètres. Nous étudierons la loi limite de la statistique de test e
+ t\nmontrerons quelques exemples sur données simulées et réelles.\n\n\nDate
+ s: \n\nWednesday\, September 27\, 2017 - 10:30\n\nLocation: \n\nSalle de s
+ éminaire M3 \n\nSpeaker(s): \n\nCharlotte Baey
+DTSTART;TZID=Europe/Paris:20170927T103000
+DTEND;TZID=Europe/Paris:20170927T103000
+LAST-MODIFIED:20170920T113639Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Test du rapport de vraisemblance pour des composantes de variance d
+ ans  les modèles non linéaires mixtes
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/243
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.232.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20170910T103019Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nIl existe un certain nombr
+ e de lois définies sur une sphère. Ici\, nous nous intéressons à un ensemb
+ le de lois obtenues par projection stéréographique inverse de lois définie
+ s dans le plan en généralisant des lois classiques telles la loi de Fisher
+ -Von Mises. Nous portons un attention particulière à la propriété d'unimod
+ alité qui est souhaitée en classification. Enfin\, une digression amusante
+  clora le séminaire.\n\n\nCe travail est réalisé en collaboration avec Jea
+ n-Luc Dortet-Bernadet (Strasbourg).\n\n\nDates: \n\nWednesday\, September 
+ 20\, 2017 - 10:30\n\nLocation: \n\nSalle de séminaire M3 \n\nSpeaker(s): 
+ \n\nNicolas Wicker
+DTSTART;TZID=Europe/Paris:20170920T103000
+DTEND;TZID=Europe/Paris:20170920T103000
+LAST-MODIFIED:20170910T103019Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Lois sur la sphère
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/232
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.230.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20170831T083459Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Determinantal point processe
+ s\nLPP Probabilités & Statistique\n\nThematic tag(s): \n\nProbability\n\n
+ \n\n\nLa méthode de Stein est un outil pour estimer la distance entre une 
+ variable aléatoire et\, par exemple\, une mesure Gaussienne. Dans un premi
+ er temps\, on présentera un résultat général d’approximation Gaussienne qu
+ i est valide pour certaines observables d’une mesure de Gibbs. La conditio
+ n importante est que l’observable en question soit proche d’être une fonct
+ ion propre du générateur du processus de Markov associé à la mesure de Gib
+ bs. Ensuite\, on discutera une application aux statistiques linéaires de b
+ eta-ensembles pour des potentiels extérieurs généraux dans le cas où le su
+ pport de la mesure d’équilibre est non-critique et connexe. On prendra com
+ me example principal\, le cas de l’ensemble Gaussian Unitaire (GUE). Ce tr
+ avail est en collaboration avec M. Ledoux et C. Webb.\n\n\nDates: \n\nWedn
+ esday\, September 13\, 2017 - 10:30\n\nLocation: \n\nSalle de séminaire M3
+  \n\nSpeaker(s): \n\nGaultier Lambert
+DTSTART;TZID=Europe/Paris:20170913T103000
+DTEND;TZID=Europe/Paris:20170913T103000
+LAST-MODIFIED:20170831T083459Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Application de la méthode de Stein aux statistiques linéaires des b
+ eta-ensembles.
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/230
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.228.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20170821T103824Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\n\n\n\nLes populations composées de deux type
+ s d'individus (ou phénotypes) peuvent naturellement s'étudier grâce aux ma
+ rches aléatoires planaires. Dans cet exposé je ferai un survol des techniq
+ ues existantes et présenterai également de nouvelles idées pour l'étude de
+  telles populations bidimensionnelles. Nous commencerons par le cas des po
+ pulations homogènes\, qui correspondent à des modèles maintenant classique
+ s de marches aléatoires dans le quart de plan. Nous présenterons ensuite u
+ ne classe de marches aléatoires inhomogènes ayant une interprétation biolo
+ gique naturelle. En passant nous lierons ces marches aléatoires inhomogène
+ s avec d'autres processus\, provenant de la théorie des files d'attente (j
+ oindre la file la plus courte)\, de processus de branchement\, de modèles 
+ d'urnes et de théorie du potentiel. Il s'agit de différents travaux en com
+ mun avec Gerold Alsmeyer (Münster)\, Irina Kurkova (Paris 6)\, Pauline Laf
+ itte (ECP) et Chi Tran (Lille).\n\n\nDates: \n\nWednesday\, September 6\, 
+ 2017 - 10:30\n\nLocation: \n\nSalle de séminaire M3 \n\nSpeaker(s): \n\nKi
+ lian Raschel
+DTSTART;TZID=Europe/Paris:20170906T103000
+DTEND;TZID=Europe/Paris:20170906T103000
+LAST-MODIFIED:20170821T103824Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Extinction de populations faiblement inhomogènes en dimension deux
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/228
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.222.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20170531T130835Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\n\n\n\nWe study the nodal intersections numbe
+ r of random Gaussian toral Laplace eigenfunctions (“arithmetic random wave
+ s”) against a fixed smooth reference curve. The expected intersection numb
+ er is proportional to the the square root of the eigenvalue times the leng
+ th of curve\, independent of its geometry. The asymptotic behavior of the 
+ variance was addressed by Rudnick-Wigman\; they found a precise asymptotic
+  law for “generic” curves with nowhere vanishing curvature\, depending on 
+ both its geometry and the angular distribution of lattice points lying on 
+ circles corresponding to the Laplace eigenvalue. They also discovered that
+  there exist peculiar “static” curves\, with variance of smaller order of 
+ magnitude\, though did not prescribe what the true asymptotic behavior is 
+ in this case.\n\n\nIn this talk we study the finer aspects of the limit di
+ stribution of the nodal intersections number. For “generic” curves we prov
+ e the Central Limit Theorem (at least\, for “most” of the energies). For t
+ he aforementioned static curves we establish a non-Gaussian limit theorem 
+ for the distribution of nodal intersections\, and on the way find the true
+  asymptotic behavior of their fluctuations\, under the well-separateness a
+ ssumption on the corresponding lattice points\, satisfied by most of the e
+ igenvalues.\n\n\nThis talk is based on a joint work with Igor Wigman (King
+ ’s College London).\n\n\nDates: \n\nWednesday\, June 28\, 2017 - 10:30\n\n
+ Location: \n\nSalle de séminaire M3\n\nSpeaker(s): \n\nMaurizia Rossi
+DTSTART;TZID=Europe/Paris:20170628T103000
+DTEND;TZID=Europe/Paris:20170628T103000
+LAST-MODIFIED:20170621T113555Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Nodal intersections for arithmetic random waves
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/222
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.221.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20170531T130751Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nIl existe de nombreux algo
+ rithmes pour analyser des graphes. Souvent\, ces algorithmes peuvent être 
+ utilisés pour étudier des données multivariées : pour cela\, il suffit de 
+ construire un graphe de voisinage à partir des données et d'utiliser un al
+ gorithme d'analyse de graphe. Cependant\, on peut se demander si le graphe
+  de voisinage utilisé capture bien toute l'information qui était présente 
+ dans les données initiales. Supposons que nos données soient des réalisati
+ ons de variables aléatoires i.i.d. tirées selon une certaine mesure $\mu$ 
+ de densité $f$ \; si l'on arrive à montrer que l'on peut retrouver la dens
+ ité $f$ à partir d'un graphe de voisinage construit sur les données\, alor
+ s on peut penser que ce graphe contient bien toute l'information statistiq
+ ue d'intérêt. En fait\, on sait que dans la plupart des cas\, la mesure in
+ variante d'une marche aléatoire sur un graphe de voisinage est une approxi
+ mation de la mesure invariante d'un processus de diffusion dont la densité
+  peut être utilisée pour retrouver $f$. Cependant\, il n'existe pas de rés
+ ultat quantitatif permettant d'évaluer cette approche.\nDans cet exposé\, 
+ on présentera de nouveaux résultats\, basés sur la méthode de Stein\, perm
+ ettant de borner la distance de Wasserstein d'ordre $2$ entre la mesure in
+ variante d'une chaîne de Markov et la mesure invariante d'un processus de 
+ diffusion. Puisqu'une marche aléatoire sur un graphe (de voisinage) est un
+ e chaîne de Markov\, on peut ainsi obtenir des résultats quantitatifs pour
+  l'estimation de densité via les graphes de voisinages. Par ailleurs\, l'a
+ pproche développée peut être utilsée pour étudier d'autres problèmes : on 
+ est ainsi capable de donner des vitesses de convergence pour les distances
+  de Wasserstein d'ordre $\geq 2$ pour le théorème Centrale Limite.\n \n\n
+ \nDates: \n\nWednesday\, June 21\, 2017 - 10:30\n\nLocation: \n\nSalle de 
+ séminaire M3\n\nSpeaker(s): \n\nThomas Bonis
+DTSTART;TZID=Europe/Paris:20170621T103000
+DTEND;TZID=Europe/Paris:20170621T103000
+LAST-MODIFIED:20170531T153819Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Convergence des mesures invariantes des marches aléatoires sur les 
+ graphes de voisinage par la méthode de Stein
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/221
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.219.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20170531T130548Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Determinantal point processe
+ s\nLPP Probabilités & Statistique\n\nThematic tag(s): \n\nProbability\nSta
+ tistics\n\n\n\n\nDeterminantal point processes (DPPs) are distributions ov
+ er configurations of points that encode repulsiveness in a kernel function
+ . Important statistical quantities associated to DPPs have geometric and a
+ lgebraic interpretations\, which makes them a fun object to study. Besides
+ \, since their formalization by Macchi in 1975 as models for fermions in p
+ article physics\, specific instances of DPPs have half-mysteriously appear
+ ed in fields such as probability\, number theory\, or statistical physics.
+  \n\n\nMore recently\, the mathematical tractability of DPPs has led to po
+ werful models and algorithmic tools in statistics and machine learning. Ye
+ t statistical applications of DPPs require being able to sample realizatio
+ ns from a DPP and to infer a DPP from data. These two tasks are intractabl
+ y costly for most DPPs\, akin to other kernel machines. After having intro
+ duced DPPs and highlighted a few applications\, I will discuss how these c
+ omputational challenges have been tackled so far.\n \n\n\nDates: \n\nWedne
+ sday\, June 14\, 2017 - 10:30\n\nLocation: \n\nSalle de séminaire M3\n\nSp
+ eaker(s): \n\nRémi Bardenet
+DTSTART;TZID=Europe/Paris:20170614T103000
+DTEND;TZID=Europe/Paris:20170614T103000
+LAST-MODIFIED:20170612T163146Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Computational statistics with determinantal point processes
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/219
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.218.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20170531T130440Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nNous nous intéresserons au
+ x liens qui existent entre deux échelles de modélisation neurobiologique. 
+ À un niveau microscopique\, l'activité électrique de chaque neurone est re
+ présentée par un processus ponctuel. À une plus grande échelle\, un systèm
+ e d'EDP structuré en âge décrit la dynamique moyenne de ces activités. Nou
+ s montrerons que le modèle macroscopique (système d'EDP) peut se retrouver
+  à partir d'un réseau de $n$ neurones en champ-moyen quand $n$ tend vers $
+ +\infty$ via une ``Loi des grands nombres''. De plus\, les fluctuations du
+  réseau de $n$ neurones autour du comportement limite/macroscopique sont c
+ aractérisées par un ``Théorème central limite''. Cette étude finale permet
+  la dérivation d'un système d'EDP stochastique\, plus proche de la dynamiq
+ ue microscopique que le système d'EDP classique.\n\n\nDates: \n\nWednesday
+ \, June 7\, 2017 - 10:30\n\nLocation: \n\nSalle de séminaire M3\n\nSpeaker
+ (s): \n\nJulien Chevallier
+DTSTART;TZID=Europe/Paris:20170607T103000
+DTEND;TZID=Europe/Paris:20170607T103000
+LAST-MODIFIED:20170531T162908Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Modélisation de grands réseaux de neurones par processus de Hawkes
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/218
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.214.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20170523T074547Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nStatistics\n\n\n\n\nThis is a review of some recent results
+  on parameter estimation by the continuous time observations for two model
+ s of observations. The first\none is the so-called signal in white Gaussia
+ n noise\, and the second is inhomogeneous Poisson process. The main questi
+ on in all statements is: what are the properties of the MLE if there is a 
+ misspecification in the regularity conditions. We consider three types of 
+ regularity: smooth signals\, signals with cusp-type singularity and discon
+ tinuous signals (change-point). We suppose that the statistician assumes o
+ ne type of regularity/singularity\, but the real observations contain sign
+ als with different type of singularity/regularity. For example\, the theor
+ etical (assumed) model has a discontinuous signal\, but the real observed 
+ (close) signal has cusp-type singularity. We describe the asymptotic behav
+ ior of the MLE in such situations.\n\n\nDates: \n\nWednesday\, May 31\, 20
+ 17 - 10:30\n\nLocation: \n\nSalle de séminaire M3\n\nSpeaker(s): \n\n Yury
+  Kutoyants
+DTSTART;TZID=Europe/Paris:20170531T103000
+DTEND;TZID=Europe/Paris:20170531T103000
+LAST-MODIFIED:20170523T074547Z
+LOCATION:Salle de séminaire M3
+SUMMARY:On misspecification in regularity and properties of MLE for some st
+ ochastic processes
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/214
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.213.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20170518T101241Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\n\n\n\nLe but de cet exposé est de présenter 
+ quelques résultats récents sur les propriétés de certaines fonctions aléat
+ oires issues de la géométrie. Un exemple typique est le suivant : si $\lam
+ bda$ est une grande valeur propre du laplacien sur la sphère $S^2$\, l’esp
+ ace propre correspondant est de grande dimension\, et on peut y choisir un
+ e fonction propre aléatoirement suivant la mesure gaussienne standard \; o
+ n s’intéresse alors aux propriétés asymptotiques de cette fonction $\phi_\
+ lambda$ dans la limite $\lambda \to \infty$. En particulier\, on peut se d
+ emander quelle est la structure du domaine $\{z : \phi_\lambda(z) > 0\}$ :
+  est-il formé d’une multitude de petites composantes connexes\, ou bien co
+ mporte-t-il une composante dont la taille reste d’ordre $1$ pour $\lambda$
+  grand ? Cette question précise reste ouverte\, mais j’expliquerai comment
+  on peut appliquer des méthodes issues de la théorie de la percolation pou
+ r l’attaquer\, et obtenir des résultats pour des modèles reliés. \n\n\n \n
+ \n\nTravail effectué avec Damien Gayet (Institut Fourier\, Université Gren
+ oble-Alpes).\n\n\nDates: \n\nWednesday\, May 24\, 2017 - 10:30\n\nLocation
+ : \n\nSalle de séminaire M3\n\nSpeaker(s): \n\nVincent Beffara
+DTSTART;TZID=Europe/Paris:20170524T103000
+DTEND;TZID=Europe/Paris:20170524T103000
+LAST-MODIFIED:20170520T073126Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Sur la géométrie de quelques fonctions aléatoires
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/213
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.209.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20170504T092317Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\n\n\n\nDans cet exposé\, nous étudierons la l
+ ocalisation d’un opérateur de Schrodinger continu en dimension 1\, appelé 
+ opérateur de Hill ou hamiltonien d’Anderson\, où le potentiel est un bruit
+  blanc sur le segment $[0\,L]$ avec conditions aux bord de Dirichlet. Dans
+  la limite où $L$ tend vers l’infini\, nous montrons la convergence des pl
+ us petites valeurs propres vers un processus de Poisson ainsi que la local
+ isation des vecteurs propres associés dans un sens précis (lorsque l’on zo
+ ome autour du maximum\, la forme du vecteur propre est déterministe et ne 
+ dépend pas de la valeur propre). Travail en commun avec Cyril Labbé.\n\n\n
+ Dates: \n\nWednesday\, May 17\, 2017 - 10:30\n\nLocation: \n\nSalle de sém
+ inaire M3\n\nSpeaker(s): \n\nLaure Dumaz
+DTSTART;TZID=Europe/Paris:20170517T103000
+DTEND;TZID=Europe/Paris:20170517T103000
+LAST-MODIFIED:20170504T092317Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Localisation de l’hamiltonien d’Anderson en dimension 1
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/209
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.206.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20170502T130043Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\n\n\n\nPlusieurs résultats quantitatifs sur l
+ a dynamique de Langevin sont connus\, e.g. les inégalités de type Log-Sobo
+ lev ou Poincaré. Ces résultats portent sur la convexité du potentiel assoc
+ ié. Le but de cet exposé est de montrer comment la quantité clef pour obte
+ nir des résultats quantitatifs pour les ponts de la dynamique de Langevin 
+ n'est plus la convexité du potentiel\, mais la convexité de la caractérist
+ ique réciproque associée au potentiel.\n\n\nDates: \n\nWednesday\, May 10\
+ , 2017 - 10:30\n\nLocation: \n\nSalle de séminaire M3\n\nSpeaker(s): \n\nG
+ iovanni Conforti
+DTSTART;TZID=Europe/Paris:20170510T103000
+DTEND;TZID=Europe/Paris:20170510T103000
+LAST-MODIFIED:20170502T130145Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Une étude quantitative des ponts de la dynamique de Langevin
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/206
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.207.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20170502T134819Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nMachine learning\nStatistics\n\n\n\n\nMany useful empirical
+  statistics\, such as the sample variance\nand the Area Under the Curve (A
+ UC)\, are computed by averaging over all\nd-tuples of observations. These 
+ are known as U-statistics\, and are also\nused as risk measures in many ma
+ chine learning problems such as ranking\,\nmetric learning and clustering.
+  I will first describe some contributions\non scaling up the minimization 
+ of such risk functionals to large\ndatasets using sampling and stochastic 
+ optimization. In a second part\, I\nwill briefly introduce the problem of 
+ learning in a decentralized\nnetwork\, where each agent holds a subset of 
+ the dataset\, and present\ngossip algorithms for estimation and learning w
+ ith U-statistics in this\nsetting.\n\n\nDates: \n\nWednesday\, May 3\, 201
+ 7 - 10:30\n\nLocation: \n\nSalle de séminaire M3\n\nSpeaker(s): \n\nAuréli
+ en Bellet
+DTSTART;TZID=Europe/Paris:20170503T103000
+DTEND;TZID=Europe/Paris:20170503T103000
+LAST-MODIFIED:20170502T134819Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Learning with U-Statistics: Large-Scale Risk Minimization and Decen
+ tralized Algorithms
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/207
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.196.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20170327T112750Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\n\n\n\n
+ Nous étudierons dans cet exposé une famille de graphes orientés 'out degre
+ e one' construit sur un processus ponctuel de Poisson éventuellement marqu
+ é. Nous donnerons dans un premier temps plusieurs résultats d'existence po
+ ur une large famille de graphe obtenu via une dynamique germes grains. Nou
+ s verrons ensuite qu'un modèle de graphe aléatoire orienté ne construit\, 
+ avec probabilité un\, aucune composante connexe infinie si il satisfait de
+ ux hypothèses précises que nous détaillerons. Nous donnerons plusieurs exe
+ mples de graphes non percolant\, et nous finirons par discuter de la soupl
+ esse de ces deux hypothèses vis à vis des modèles de graphes orientés plus
+  complexe dont on ne connaît pour le nomment pas l'absence de percolation.
+ \n\n\nDates: \n\nWednesday\, April 5\, 2017 - 10:30\n\nLocation: \n\nSalle
+  de séminaire M3\n\nSpeaker(s): \n\nSimon Le Stum
+DTSTART;TZID=Europe/Paris:20170405T103000
+DTEND;TZID=Europe/Paris:20170405T103000
+LAST-MODIFIED:20170327T112750Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Absence de percolation pour une famille de graphes aléatoire orient
+ és
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/196
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.197.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20170327T112929Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\n\n\n\n
+ Nous considérons des systèmes de processus de Hawkes en interactions const
+ itués de plusieurs classes et étudions leurs limites de champs moyen. Lors
+ que le nombre total de processus tend vers l'infini\, l'évolution à l'inté
+ rieur d'une classe donnée est décrite par une équation différentielle stoc
+ hastique dirigée par une mesure de Poisson. Nous étudions le comportement 
+ en temps long du système limite et montrons que dans certains cas\, des os
+ cillations apparaissent\, qui s'expliquent uniquement par le caractère non
+ -linéaire de l'équation limite (càd le fait que le processus dépend de sa 
+ propre loi comme c'est le cas pour les équations du type McKean-Vlasov). 
+ \n\n\nNous ferons ensuite le lien avec certains PDMP (processus de Markov 
+ déterministe par morceaux) et leur approximation diffusive. Ce travail a é
+ té fait en collaboration avec Susanne Ditlevsen\, Copenhague. \n\n\nDates:
+  \n\nWednesday\, March 29\, 2017 - 10:30\n\nLocation: \n\nSalle séminaire 
+ M3-324\n\nSpeaker(s): \n\n  Eva Löcherbach
+DTSTART;TZID=Europe/Paris:20170329T103000
+DTEND;TZID=Europe/Paris:20170329T103000
+LAST-MODIFIED:20170327T112929Z
+LOCATION:Salle séminaire M3-324
+SUMMARY:Oscillations et limite de champs moyen pour des grands systèmes de 
+ processus de Hawkes in interactions
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/197
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.179.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20170116T164528Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n60G Prob
+ ability theory and stochastic processes > Point processes\n\n\n\n\nLa cour
+ bure de Wasserstein d'un processus décrit la vitesse de convergence d'un p
+ rocessus de Markov vers sa mesure stationnaire. Nous proposons une méthode
+  de minoration de cette courbure pour des systèmes de particules en intera
+ ction (chaque particule évolue selon une mesure de saut qui dépend de la c
+ onfiguration du système). Ce résultat est utilisé pour l'étude de l'existe
+ nce de deux phases dans un systèmes d'agents en interaction de type champ-
+ moyen.\n\n\nDates: \n\nWednesday\, February 15\, 2017 - 10:30\n\nLocation:
+  \n\nSalle séminaire M3-324\n\nSpeaker(s): \n\nDenis Villemonais
+DTSTART;TZID=Europe/Paris:20170215T103000
+DTEND;TZID=Europe/Paris:20170215T103000
+LAST-MODIFIED:20170116T164528Z
+LOCATION:Salle séminaire M3-324
+SUMMARY:Courbure de Wasserstein pour certains systèmes de particules en int
+ eraction
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/179
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.178.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20170116T164305Z
+DESCRIPTION:Institutional tag: \n\n60B Probability theory and stochastic pr
+ ocesses > Probability theory on algebraic and topological structures\nLPP 
+ Probabilités & Statistique\n60G Probability theory and stochastic processe
+ s > Point processes\n\n\n\n\nLe cutoff est une transition de phase remarqu
+ able dans la convergence de certaines chaînes de Markov vers leur loi stat
+ ionnaire : la distance à l’équilibre passe brutalement de 1 à 0 lorsque le
+  nombre d’itérations approche une valeur critique appelée temps de mélange
+ . Découvert dans le contexte du mélange de cartes (Aldous-Diaconis\, 1986)
+ \, ce phénomène est désormais rigoureusement établi pour de nombreuses cha
+ înes réversibles. Dans cet exposé\, nous considèrerons le cadre non-révers
+ ible des marches aléatoires sur des graphes dirigés\, pour lesquelles la l
+ oi stationnaire elle-même est loin d’être comprise. Il s’agit d’un travail
+  en collaboration avec Charles Bordenave et Pietro Caputo.\n\n\nDates: \n
+ \nWednesday\, February 8\, 2017 - 10:30\n\nLocation: \n\nSalle séminaire M
+ 3-324\n\nSpeaker(s): \n\nJustin Salez
+DTSTART;TZID=Europe/Paris:20170208T103000
+DTEND;TZID=Europe/Paris:20170208T103000
+LAST-MODIFIED:20170116T164305Z
+LOCATION:Salle séminaire M3-324
+SUMMARY:Temps de mélange et cutoff pour la marche aléatoire sur des grands 
+ digraphes aléatoires
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/178
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.177.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20170116T163851Z
+DESCRIPTION:Institutional tag: \n\n62P Statistics > Applications\n65C Proba
+ bilistic methods\, simulation and stochastic differential equations\nLPP P
+ robabilités & Statistique\n92F Biology > Other\n\n\n\n\nJe présenterai une
+  approche numérique pour déterminer la possibilité d'invasion de populatio
+ ns bactériennes mutantes dans un bioréacteur. Pour cela\, j'introduirai to
+ ut d'abord un modèle stochastique individu-centré et un modèle déterminist
+ e EDP de croissance-fragmentation. Je présenterai le lien entre les fitnes
+ s d'invasion de ces deux modèles\, définies respectivement par la probabil
+ ité de survie de la population et la valeur propre principale d'un certain
+  opérateur. Je donnerai ensuite des résultats sur les variations de ces fi
+ tness d'invasion en fonction d'un paramètre environnemental du modèle (agi
+ ssant sur la croissance et la division des bactéries). Enfin\, j'appliquer
+ ai ces résultats à un modèle de bioréacteur afin de décrire une méthode nu
+ mérique pour l'étude de la dynamique adaptative de la population bactérien
+ ne.\n\n\nDates: \n\nWednesday\, February 1\, 2017 - 10:30\n\nLocation: \n
+ \nSalle séminaire M3-324\n\nSpeaker(s): \n\nCoralie Fritsch
+DTSTART;TZID=Europe/Paris:20170201T103000
+DTEND;TZID=Europe/Paris:20170201T103000
+LAST-MODIFIED:20170116T163851Z
+LOCATION:Salle séminaire M3-324
+SUMMARY:Dynamique adaptative de populations bactériennes dans un bioréacteu
+ r
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/177
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.176.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20170116T163551Z
+DESCRIPTION:Institutional tag: \n\n62P Statistics > Applications\nLPP Proba
+ bilités & Statistique\n62F Statistics > Parametric inference\n62H Statisti
+ cs > Multivariate analysis\n\n\n\n\nDans cet exposé\, l'agrégation d'estim
+ ateurs affines va être présentée d'un point de vue théorique sous l'angle 
+ des poids exponentiels\, afin d'obtenir des inégalités oracle en probabili
+ té pour l'estimation de fonction de régression. Puis je présenterai une pr
+ oblématique industrielle que je traite avec une méthode d'agrégation d'est
+ imateurs non linéaires\, les forêts aléatoires. Les résultats obtenus en p
+ rédiction de production électrique de parc éolien seront détaillés.\n\n\nD
+ ates: \n\nWednesday\, January 25\, 2017 - 10:30\n\nLocation: \n\nSalle sém
+ inaire M3-324\n\nSpeaker(s): \n\nLucie Montuelle
+DTSTART;TZID=Europe/Paris:20170125T103000
+DTEND;TZID=Europe/Paris:20170125T103000
+LAST-MODIFIED:20170116T163551Z
+LOCATION:Salle séminaire M3-324
+SUMMARY:Agrégation à poids exponentiels : aspects théoriques et pratiques
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/176
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.175.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20170116T162721Z
+DESCRIPTION:Institutional tag: \n\n62P Statistics > Applications\nLPP Proba
+ bilités & Statistique\n62H Statistics > Multivariate analysis\n92F Biology
+  > Other\n\n\n\n\nGene regulatory networks (GRNs) are powerful tools to re
+ present and analyse complex biological systems and enable the modelling of
+  functional relationships between elements of these systems. In this talk\
+ , I will focus on theoretical analysis and the use of statistical and opti
+ mization methods in the context of GRN inference. The first part will be d
+ edicated to the study of\nstatistical learning methods to infer networks f
+ rom sparse linear regressions in a high-dimensional setting. Then\, I will
+  present an optimization algorithm to directly estimate relationships in s
+ uch\nnetworks. I will finally propose an application to cancer data.\n\n\n
+ Dates: \n\nWednesday\, January 18\, 2017 - 10:30\n\nLocation: \n\n Salle s
+ éminaire M3 (324)\n\nSpeaker(s): \n\nMagali Champion
+DTSTART;TZID=Europe/Paris:20170118T103000
+DTEND;TZID=Europe/Paris:20170118T103000
+LAST-MODIFIED:20170116T163148Z
+LOCATION:Salle séminaire M3 (324)
+SUMMARY:Sparse regression and optimization in high-dimensional framework fo
+ r Gene Regulatory Network inference.
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/175
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.145.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20160923T090737Z
+DESCRIPTION:Institutional tag: \n\n62P Statistics > Applications\nLPP Proba
+ bilités & Statistique\n62G Statistics > Nonparametric inference\n62H Stati
+ stics > Multivariate analysis\n\n\n\n\nLes modèles graphiques gaussiens pe
+ rmettent d’inférer et de visualiser les dépendances entre des variables.\n
+ Ces modèles étant difficiles à estimer en très grande dimension\, nous pro
+ posons une procédure non-asymptotique pour réduire la dimension du problèm
+ e d’inférence.\nDans un premier temps\, nous approchons la matrice de cova
+ riance par une matrice diagonale par blocs. Pour détecter la structure de 
+ cette matrice\, nous seuillons la matrice de covariance empirique\, le seu
+ il étant choisi à l’aide de l’heuristique de pente. Le problème d’estimati
+ on est ainsi décomposé en plusieurs sous-problèmes indépendants : par la s
+ uite\, nous estimons les dépendances entre les variables d’un même bloc à 
+ l’aide de l’algorithme du graphical lasso.\nNous justifions cette procédur
+ e par une inégalité oracle et une borne minimax\, qui prouvent que la méth
+ ode est adaptative minimax.\nNous illustrons aussi cette méthode sur des d
+ onnées simulées et sur un jeu de données d’expression de gènes RNA-seq\, m
+ ontrant que la méthode permet de se focaliser sur les interactions entre d
+ es quelques gènes\, ce qui facilite l'interprétation.\nCe travail est en c
+ ollaboration avec Mélina Gallopin.\n\n\nDates: \n\nWednesday\, September 2
+ 8\, 2016 - 10:15\n\nLocation: \n\nM3-324\n\nSpeaker(s): \n\nEmilie Devijve
+ r
+DTSTART;TZID=Europe/Paris:20160928T101500
+DTEND;TZID=Europe/Paris:20160928T101500
+LAST-MODIFIED:20160923T090737Z
+LOCATION:M3-324
+SUMMARY:Matrices de covariance diagonale par blocs dans les modèles graphiq
+ ues gaussiens.
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/145
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.136.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20160920T131924Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\nLPP/CRIS
+ tAL Determinantal point processes\n60G Probability theory and stochastic p
+ rocesses > Point processes\n\n\n\n\nEn physique statistique\, on modélise 
+ communément un système de N particules en interaction électrostatique par 
+ ce que l'on appelle un 'gaz de Coulomb'.\n\n\nDu point de vue probabiliste
+ \, il s'agit d'une mesure de Boltzmann-Gibbs associée à un hamiltonien dér
+ ivé du potentiel coulombien auquel on ajoute un potentiel extérieur confin
+ ant.\n\n\nOn sait que\, quand N tend vers l'infini\,  la mesure empirique 
+ du gaz de Coulomb converge vers une mesure d'équilibre bien connue.\n\n\nD
+ ans ce travail\, avec Djalil Chafaï (Dauphine) et Adrien Hardy (Lille)\, n
+ ous nous intéressons aux propriétés de concentration du gaz de Coulomb aut
+ our de cette mesure d'équilibre en dimension supérieure ou égale à deux. L
+ a preuve repose en particulier sur de nouvelles inégalités (dont certaines
+  de type transport) comparant différentes distances entre mesures de proba
+ bilités.\n\n\nDates: \n\nWednesday\, September 21\, 2016 - 10:15\n\nLocati
+ on: \n\nM3-324\n\nSpeaker(s): \n\nMylène Maïda
+DTSTART;TZID=Europe/Paris:20160921T101500
+DTEND;TZID=Europe/Paris:20160921T101500
+LAST-MODIFIED:20160920T131924Z
+LOCATION:M3-324
+SUMMARY:Concentration pour les gaz de Coulomb
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/136
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.130.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T114906Z
+CREATED:20160908T093156Z
+DESCRIPTION:Institutional tag: \n\n62P Statistics > Applications\nLPP Proba
+ bilités & Statistique\n62G Statistics > Nonparametric inference\n\n\n\n\nV
+ isualization of high-dimensional and possibly complex (non continuous for 
+ instance) data onto a low-dimensional space  may be difficult. Several pro
+ jection methods have been already proposed for displaying such high-dimens
+ ional structures on a lower-dimensional space\, but the information lost i
+ s not always easy to use. Here\, a new projection paradigm is presented to
+  describe a non-linear projection method that takes into account the proje
+ ction quality of each projected  point in the reduced space\, this quality
+  being directly available in the same scale as this reduced space. More sp
+ ecifically\, this novel method allows a straightforward visualization data
+  in ℝ2 with a simple reading of the approximation quality\, and provides t
+ hen a novel variant of dimensionality reduction.\n\n\nDates: \n\nWednesday
+ \, September 14\, 2016 - 10:15\n\nLocation: \n\nSalle de séminaire M3-324
+ \n\nSpeaker(s): \n\nHiba Alawieh
+DTSTART;TZID=Europe/Paris:20160914T101500
+DTEND;TZID=Europe/Paris:20160914T101500
+LAST-MODIFIED:20160908T093156Z
+LOCATION:Salle de séminaire M3-324
+SUMMARY:Projection under pairwise distance controls
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/130
+END:VEVENT
+END:VCALENDAR
