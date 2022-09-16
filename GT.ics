@@ -1,12 +1,1451 @@
---2022-09-16 11:35:47--  http://seminaire.univ-lille1.fr/taxonomy/term/41/export.ics
-Résolution de seminaire.univ-lille1.fr (seminaire.univ-lille1.fr)… 195.83.34.6
-Connexion à seminaire.univ-lille1.fr (seminaire.univ-lille1.fr)|195.83.34.6|:80… connecté.
-requête HTTP transmise, en attente de la réponse… 200 OK
-Taille : non indiqué [text/calendar]
-Enregistre : ‘export.ics’
-
-     0K .......... .......... .......... .......... .......... 5,17M
-    50K .......... .......... .......                          1,39M=0,03s
-
-2022-09-16 11:35:54 (2,62 MB/s) - ‘export.ics’ enregistré [79694]
-
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Date iCal//NONSGML kigkonsult.se iCalcreator 2.20.2//
+METHOD:PUBLISH
+X-WR-CALNAME;VALUE=TEXT:Seminar calendar
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20191027T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+RDATE:20201025T030000,20211031T030000,20221030T030000
+TZNAME:CET
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20190331T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RDATE:20200329T020000,20210328T020000,20220327T020000
+TZNAME:CEST
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:calendar.602.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20220506T123600Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nStatistics\n\n\n\n\nDeterminantal point proce
+ sses (DPPs) have attracted substantial attention as an elegant probabilist
+ ic model that captures the balance between quality and diversity within se
+ ts.  A DPP assigns a probability to every subset of a collection of items\
+ , and are conventionally parameterized by a positive semi-definite kernel 
+ matrix\; this symmetric kernel encodes only repulsive interactions between
+  items.  These so-called symmetric DPPs have been successfully applied to 
+ a variety of machine learning tasks\, including recommendation systems\, i
+ nformation retrieval\, and automatic summarization\, among many others. Ef
+ ficient algorithms for learning symmetric DPPs and sampling from these mod
+ els have been reasonably well studied.  However\, until recently\, relativ
+ ely little attention has been given to nonsymmetric DPPs\, which relax the
+  symmetric constraint on the kernel. Nonsymmetric DPPs allow for both repu
+ lsive and attractive item interactions\, which can significantly improve m
+ odeling power\, resulting in a model that may be a better fit for some app
+ lications.  In this talk we introduce both symmetric and nonsymmetric DPPs
+ \, and present our recent work on scalable methods for nonsymmetric DPPs\,
+  including learning\, maximum a posteriori inference (finding the most pro
+ bable subset)\, and sampling.\n\n\nDates: \n\nFriday\, June 17\, 2022 - 14
+ :00\n\nLocation: \n\nsalle de réunion 1er étage du bâtiment M2\n\nSpeaker(
+ s): \n\nMike Gartrell
+DTSTART;TZID=Europe/Paris:20220617T140000
+DTEND;TZID=Europe/Paris:20220617T140000
+LAST-MODIFIED:20220506T123600Z
+LOCATION:salle de réunion 1er étage du bâtiment M2
+SUMMARY:An Introduction to Scalable Nonsymmetric Determinantal Point Proces
+ ses
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/602
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.601.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20220506T123358Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nMachine learning\nProbability\nStatistics\n\n
+ \n\n\nIn the case of measures\, optimal quantization is often meant as a d
+ iscrete approximation for a metric given by optimal transport. In this tal
+ k\, I will be focusing on optimal quantization with respect to the 2-Wasse
+ rstein distance and on the most commonly used algorithm to solve it numeri
+ cally\, Lloyd's algorithm. Although this variant of the k-mean algorithm h
+ as experimentally proven to be quite efficient in finding discrete measure
+ s which are close to the quantized measure\, theoretical guarantees howeve
+ r\, regarding its convergence or the precision of the resulting approximat
+ ion\, are hard to obtain\, due to the highly non-convex nature of the corr
+ esponding minimization problem. I will develop the existing results for ge
+ neral quantization as well as discuss some recent results on a uniform var
+ iant of the problem\, developed with Q. Mérigot and F. Santambrogio.\n\n\n
+ Dates: \n\nFriday\, May 13\, 2022 - 13:30\n\nLocation: \n\nsalle de réunio
+ n 1er étage du bâtiment M2\n\nSpeaker(s): \n\nClément Sarrazin
+DTSTART;TZID=Europe/Paris:20220513T133000
+DTEND;TZID=Europe/Paris:20220513T133000
+LAST-MODIFIED:20220506T123358Z
+LOCATION:salle de réunion 1er étage du bâtiment M2
+SUMMARY:Optimal quantization of measures and Lloyd's algorithm.
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/601
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.593.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20220127T184306Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\nStatistics\n\n\n\n\nL'un des pri
+ ncipes de l'analyse topologique des données est d'étudier un ensemble de d
+ onnées\, représenté sous la forme d'un nuage de points\, à partir d'outils
+  topologiques. Un concept de base est celui de l'homologie persistante. Ce
+ tte dernière mesure les naissances et les morts de diverses caractéristiqu
+ es topologiques\, telles que les boucles et les cavités\, lorsque l'on fai
+ t grossir des boules en chaque point d'un processus de Poisson. Dans cet e
+ xposé\, nous nous intéressons aux durées de vie extrémales pour de telles 
+ caractéristiques. Nous étudions d'abord le cas particulier des cavités et 
+ donnons l'ordre de grandeur du maximum (resp. du minimum) de leurs durées 
+ de vie. Une approximation poissonienne du nombre d'excédents est également
+  établie. Nous étendons ensuite l'étude à des caractéristiques quelconques
+  pour les complexes simpliciaux de Cech et de Vietoris-Rips. Travail joint
+  avec C. Hirsch.\n\n\nDates: \n\nFriday\, March 25\, 2022 - 14:00\n\nLocat
+ ion: \n\nsalle de réunion 1er étage du bâtiment M2\n\nSpeaker(s): \n\nNico
+ las Chenavier
+DTSTART;TZID=Europe/Paris:20220325T140000
+DTEND;TZID=Europe/Paris:20220325T140000
+LAST-MODIFIED:20220224T190242Z
+LOCATION:salle de réunion 1er étage du bâtiment M2
+SUMMARY:Durées de vie extrémales en analyse topologique des données
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/593
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.598.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20220224T190653Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nA natural way to constru
+ ct a Determinantal Point Process is to use one of traditional kernel funct
+ ions like the Gaussian or one in the Matèrn family. Unfortunately these ke
+ rnel functions have a spatial length-scale parameter which needs to be set
+  somehow. In recent work we have examined what happens when the length-sca
+ le parameter goes to infinity\, a line of questioning initiated by Fornber
+ g & Driscoll they dubbed the 'flat limit'. Surprisingly\, L-ensembles stay
+  well-defined and repulsive in the flat limit. The resulting DPPs are eith
+ er orthogonal polynomial ensembles or extended L-ensembles with close ties
+  to polyharmonic splines. We argue that these two classes should be though
+ t of as good defaults when defining DPPs for vector data.\n\n\n \n\n\nJoin
+ t work with Nicolas Tremblay\, Pierre-Olivier Amblard\, Konstantin Usevich
+ \n\n\nDates: \n\nFriday\, March 18\, 2022 - 14:00\n\nLocation: \n\nsalle d
+ e réunion du bâtiment M2\n\nSpeaker(s): \n\nSimon Barthelmé
+DTSTART;TZID=Europe/Paris:20220318T140000
+DTEND;TZID=Europe/Paris:20220318T140000
+LAST-MODIFIED:20220312T101700Z
+LOCATION:salle de réunion du bâtiment M2
+SUMMARY:DPPs in the Flat Limit
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/598
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.597.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20220224T190524Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\nSignal processing\nStatistics\n
+ \n\n\n\nRecent works in time-frequency analysis proposed to switch the foc
+ us from the maxima of the spectrogram toward its zeros\, which form a rand
+ om point pattern with a very stable structure. Several signal processing t
+ asks\, such as component disentanglement and signal detection procedures\,
+  have already been renewed by using modern spatial statistics on the patte
+ rn of zeros. Tough\, they require cautious choice of both the discretizati
+ on strategy and the observation window in the time-frequency plane. To ove
+ rcome these limitations\, we propose a generalized time-frequency represen
+ tation: the Kravchuk transform\, specially designed for discrete signals a
+ nalysis\, whose phase space is the unit sphere\, particularly amenable to 
+ spatial statistics. We show that it has all desired properties for signal 
+ processing\, among which covariance\, invertibility and symmetry\, and tha
+ t the point process of the zeros of the Kravchuk transform of complex whit
+ e Gaussian noise coincides with the zeros of the spherical Gaussian Analyt
+ ic Function. Elaborating on this theorem\, we finally develop a Monte Carl
+ o envelope test procedure for signal detection based on the spatial statis
+ tics of the zeros of the Kravchuk spectrogram.  \n\n\nOutline: After\, rev
+ iewing the unorthodox path focusing on the zeros of the standard spectrogr
+ am and the associated theoretical results on the distribution of zeros in 
+ the case of white noise\, I will introduce the Kravchuk transform and stud
+ y the random point process of its zeros from a spatial statistics perspect
+ ive. Then I will present the designed Monte Carlo envelop test\, and illus
+ trate its numerical performance in adversarial settings\, with both low si
+ gnal-to-noise ratio and small number of samples\, and compare it to state-
+ of-the-art zeros-based detection procedures.\n\n\nDates: \n\nFriday\, Marc
+ h 11\, 2022 - 14:00\n\nLocation: \n\nsalle de réunion du bâtiment M2\n\nSp
+ eaker(s): \n\nBarbara Pascal
+DTSTART;TZID=Europe/Paris:20220311T140000
+DTEND;TZID=Europe/Paris:20220311T140000
+LAST-MODIFIED:20220224T190524Z
+LOCATION:salle de réunion du bâtiment M2
+SUMMARY:The Kravchuk transform: a novel covariant representation for discre
+ te signals amenable to zero-based detection tests.
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/597
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.596.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20220224T190402Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nDans cet exposé je prése
+ nterai un panorama des résultats récents sur la concentration des mesures 
+ empiriques de matrices aléatoires autour de leur limite. J'y présenterai l
+ es résultats de plusieurs articles dont (https://arxiv.org/abs/1610.00980 
+ et https://arxiv.org/abs/2111.03595) et parlerai des liens entre hyperunif
+ ormité du processus ponctuel et concentration à vitesse optimale pour les 
+ mesures empiriques. \n\n\nDates: \n\nFriday\, March 4\, 2022 - 14:00\n\nLo
+ cation: \n\nsalle de réunion du bâtiment M2\n\nSpeaker(s): \n\nRaphaël But
+ ez
+DTSTART;TZID=Europe/Paris:20220304T140000
+DTEND;TZID=Europe/Paris:20220304T140000
+LAST-MODIFIED:20220224T190402Z
+LOCATION:salle de réunion du bâtiment M2
+SUMMARY:Distance de Wasserstein entre la mesure empirique de matrices aléat
+ oires et la mesure limite: le cas des matrices de Ginibre
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/596
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.592.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20211214T222346Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nJe vais présenter des ré
+ sultats sur les fluctuations d’un système de particules en interaction sur
+  le cercle\, se repoussant selon le potentiel de Riesz. Ce modèle est une 
+ extension du système appelé log-gas ou beta-ensemble\, bien connu en théor
+ ie des matrices aléatoires. On établit des estimées optimales de rigidité 
+ pour les espacements des particules ainsi qu’un théorème central limite po
+ ur le nombre de points et plus généralement pour les statistiques linéaire
+ s associées à des fonctions-test possiblement singulières. On introduira l
+ 'équation de Helffer-Sjöstrand qui joue un rôle clé dans les preuves.\n\n
+ \nDates: \n\nFriday\, January 28\, 2022 - 23:15\n\nLocation: \n\nsalle de 
+ réunion 1er étage du bâtiment M2\n\nSpeaker(s): \n\nJeanne Boursier
+DTSTART;TZID=Europe/Paris:20220128T231500
+DTEND;TZID=Europe/Paris:20220128T231500
+LAST-MODIFIED:20220127T184554Z
+LOCATION:salle de réunion 1er étage du bâtiment M2
+SUMMARY:Sur les fluctuations du gaz de Riesz circulaire
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/592
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.589.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20211207T151004Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\nDates: \n\nFriday\, January 7\
+ , 2022 - 14:00\n\nLocation: \n\nsalle de réunion 1er étage du bâtiment M2
+ \n\nSpeaker(s): \n\nThierry Lévy
+DTSTART;TZID=Europe/Paris:20220107T140000
+DTEND;TZID=Europe/Paris:20220107T140000
+LAST-MODIFIED:20211207T151004Z
+LOCATION:salle de réunion 1er étage du bâtiment M2
+SUMMARY:TBA
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/589
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.591.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20211214T222113Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nDans le modèle de percol
+ ation de premier passage sur $\mathbb{Z}^d$\, on associe aux arêtes du gra
+ phe une famille de variables i.i.d. positives\, représentant le temps aléa
+ toire nécessaire pour traverser chaque arête. Il s’agit d’un modèle jouet 
+ pour étudier des phénomènes de propagation sur un réseau. La vitesse asymp
+ totique moyenne de propagation dans une direction $v$ donnée est par l’inv
+ erse d'une constante $\mu(v)$ (qui dépend de la direction $v$\, de la dime
+ nsion $d$ et de la loi des temps de traversée d’arête) qu’on appelle const
+ ante de temps. Les théorèmes ergodiques sous-additifs nous assurent l’exis
+ tence d’une telle vitesse asymptotique moyenne\, mais ne nous permettent p
+ as de calculer sa valeur. Pour des lois de temps de traversées d’arêtes gé
+ nérales\, on ne sait en fait que très peu de choses sur la valeur de $\mu(
+ v)$.\n\n\nDans cet exposé\, nous nous intéressons à une famille de lois tr
+ ès simples pour les temps de traversée d’arête : une loi de Bernoulli de p
+ aramètre $1-\epsilon$. Pour $\epsilon=0$\, $\mu_\epsilon (v) = \|v\|_1$. N
+ ous étudions le comportement au premier ordre de de $\epsilon \mapsto \mu_
+ \epsilon (v)$ quand $\epsilon$ tend vers $0$.\n\n\nIl s’agit d’un travail 
+ en collaboration avec Anne-Laure Basdevant et Jean-Baptiste Gouéré.\n\n\n
+ \n\n\nDates: \n\nFriday\, December 17\, 2021 - 13:45\n\nLocation: \n\nsall
+ e de réunion 1er étage du bâtiment M2\n\nSpeaker(s): \n\nMarie Théret
+DTSTART;TZID=Europe/Paris:20211217T134500
+DTEND;TZID=Europe/Paris:20211217T134500
+LAST-MODIFIED:20211214T222113Z
+LOCATION:salle de réunion 1er étage du bâtiment M2
+SUMMARY:Comportement au 1er ordre de la constante de temps dans un modèle d
+ e percolation de premier passage de Bernoulli
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/591
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.586.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20211203T193346Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nPlaçons sur les arêtes d
+ e Z^d des poids a) i.i.d. et b) p.s. 2 à 2 différents. Construisons alors 
+ le graphe (dirigé) au plus proche voisin \; de chaque sommet z\, jaillit u
+ ne arête sortante empruntant l'arête (issue de z) de poids minimal. Sous l
+ es hypothèses a) et b)\, il est facile de prouver (Th 0) que toutes les co
+ mposantes connexes du graphe (dirigé) au plus proche voisin sont finies p.
+ s. [Exercice \;-)...].\nDans un preprint récent\, B. Bock\, M. Damron et J
+ . Hanson étudient le cas où l'hypothèse a) est remplacée par a') la loi de
+ s poids est invariante par translation. Sous les hypothèses a') et b)\, qu
+ e devient le TH 0 ? Il prend cher...\n \n\n\nDates: \n\nFriday\, December 
+ 10\, 2021 - 14:00\n\nLocation: \n\nsalle de réunion du bâtiment M2\n\nSpea
+ ker(s): \n\nDavid Coupier
+DTSTART;TZID=Europe/Paris:20211210T140000
+DTEND;TZID=Europe/Paris:20211210T140000
+LAST-MODIFIED:20211203T193346Z
+LOCATION:salle de réunion du bâtiment M2
+SUMMARY:Graphe aléatoire 'au plus proche voisin' sur Z^d : le cas translati
+ on invariant.
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/586
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.582.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20211019T201134Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nMachine learning\nProbability\nSignal process
+ ing\n\n\n\n\nRepulsive gases in general\, and Coulomb and log-gases in par
+ ticular\, appears in mathematical physics in many places and sampling from
+  them can become necessary. To do so\, except on a few special cases\,  on
+ e must resort to Markov Chain Monte Carlo (MCMC) which consists in constru
+ cting a Markov chain that converges to desired limiting distribution. In t
+ his talk\, we will first briefly introduce repulsive gases and the princip
+ le of MCMC before presenting two specific MCMC methods  adapted to singula
+ r gases sampling\, the second one being our contribution.\n\n\nDates: \n\n
+ Friday\, October 22\, 2021 - 14:00\n\nLocation: \n\nAtrium\, bâtiment ESPR
+ IT\n\nSpeaker(s): \n\nYoann Jayer
+DTSTART;TZID=Europe/Paris:20211022T140000
+DTEND;TZID=Europe/Paris:20211022T140000
+LAST-MODIFIED:20211019T201134Z
+LOCATION:Atrium\, bâtiment ESPRIT
+SUMMARY:Sampling singular gases (Coulomb\, log-gases ...) with Markov Chain
+  Monte Carlo (MCMC)
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/582
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.578.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20210930T195916Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\nSignal processing\nStatistics\n
+ \n\n\n\nHyperuniformity (HU) is the study of stationary point processes wi
+ th sub-Poisson variance of the number of points in a large window.\nIndeed
+  for the homogeneous Poisson point process the variance of the number of p
+ oints that fall in a large window is of order of the window volume. In con
+ trast\, for hyperuniform point processes the corresponding variance is muc
+ h lower than the volume of that window\, with a ratio going to zero. \n Th
+ ere are many candidate HU processes in the physics literature\, but rigoro
+ usly proving that a point process is HU is usually difficult. It is thus d
+ esirable to have numerical tests of hyperunifomity. Common practice in sta
+ tistical physics is to estimate a spectral measure called the structure fa
+ ctor\, the behavior of which around zero is a sign of hyperuniformity.\nWe
+  survey existing estimators of the structure factor and gather them all in
+  a Python toolbox\, along with numerical diagnostics of hyperuniformity.\n
+ \n\nDates: \n\nFriday\, October 15\, 2021 - 14:00\n\nLocation: \n\nsalle d
+ e réunion 1er étage du bâtiment M2\n\nSpeaker(s): \n\nDiala Hawat
+DTSTART;TZID=Europe/Paris:20211015T140000
+DTEND;TZID=Europe/Paris:20211015T140000
+LAST-MODIFIED:20210930T195916Z
+LOCATION:salle de réunion 1er étage du bâtiment M2
+SUMMARY:A new Python package to approximate the structure factor and test t
+ he hyperuniformity of a given point process.
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/578
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.577.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20210921T133429Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nDates: \n\nFriday\, October 8\, 2021 - 14:00\n\nLocation: \n\nsall
+ e de réunion du bâtiment M2\n\nSpeaker(s): \n\nThierry Gobron
+DTSTART;TZID=Europe/Paris:20211008T140000
+DTEND;TZID=Europe/Paris:20211008T140000
+LAST-MODIFIED:20211005T140341Z
+LOCATION:salle de réunion du bâtiment M2
+SUMMARY:Hyperuniformité du point de vue des physiciens
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/577
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.576.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20210921T050920Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nLors de cet exposé\, je 
+ discuterai les définitions et propriétés de base des processus ponctuels h
+ yper-uniformes. J'introduirai la fonction de structure qui permet de carac
+ tériser l’hyper-uniformité via son comportement autour de zéro. Je donnera
+ i quelques démonstrations des résultats. L'exposé s'appuiera sur les deux 
+ premiers chapitres du survey de Simon coste 'Order\, fluctuations\, rigidi
+ ties'. Je réorganiserai les résultats à ma façon mais je garderai ses nota
+ tions. L'exposé se veut introductif\, aucun pré-requis sur l'hyper-uniform
+ ité ne sera nécessaire.\n\n\nDates: \n\nFriday\, September 24\, 2021 - 14:
+ 00\n\nLocation: \n\nsalle de réunion 1er étage du bâtiment M2\n\nSpeaker(s
+ ): \n\nDavid Dereudre
+DTSTART;TZID=Europe/Paris:20210924T140000
+DTEND;TZID=Europe/Paris:20210924T140000
+LAST-MODIFIED:20210921T050920Z
+LOCATION:salle de réunion 1er étage du bâtiment M2
+SUMMARY:introduction à l'hyper-uniformité des processus ponctuels.
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/576
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.574.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20210517T203355Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\n\n\n\nDans cet exposé\, seront présentés des résultats de percolat
+ ion orientée sur triangulations causales aléatoires\, un modèle de cartes 
+ aléatoires dont l’étude mathématique est encore récente. Pour résumer simp
+ lement\, les triangulations causales sont des graphes planaires construits
+  en ajoutant des arêtes « horizontales » entre les sommets situés à même h
+ auteur dans un arbre de taille infinie\, de façon à constituer des cycles.
+ \nQuand l’arbre sous-jacent est un arbre de Galton-Watson surcritique\, co
+ nditionné à survivre\, avec une loi de reproduction géométrique de moyenne
+  $m>1$\, il sera montré que le processus de percolation orientée connaît u
+ ne transition de phase en un seuil $p_c(m)$\, non trivial\, dont une expre
+ ssion est connue. Au-dessus de ce seuil\, il y a dans la carte\, presque s
+ ûrement\, un nombre infini de clusters infinis. Un résultat typique pour d
+ es graphes dont la géométrie est hyperbolique. Différents exposants critiq
+ ues du modèle seront aussi calculés. Enfin\, il sera prouvé qu’au seuil de
+  criticalité\, les grands clusters remis à l’échelle convergent pour la di
+ stance de Gromov-Hausdorff vers l’arbre brownien.\nLes démonstrations sero
+ nt basées sur un processus d’épluchage markovien de la carte\, une techniq
+ ue éprouvée dans l’étude de cartes aléatoires planaires.\n\n\nDates: \n\nF
+ riday\, June 18\, 2021 - 14:00\n\nLocation: \n\nsalle de réunion 1er étage
+  du bâtiment M2 ou visioconférence\n\nSpeaker(s): \n\nDavid  Corlin Marcha
+ nd
+DTSTART;TZID=Europe/Paris:20210618T140000
+DTEND;TZID=Europe/Paris:20210618T140000
+LAST-MODIFIED:20210608T092907Z
+LOCATION:salle de réunion 1er étage du bâtiment M2 ou visioconférence
+SUMMARY:Percolation orientée sur triangulations causales surcritiques
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/574
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.570.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20210422T201018Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\n\n\n\nIn spatial statistics\, rejection sampling can be used as a 
+ simulation technique for the hard-core point process: generate samples fro
+ m the corresponding Poisson process until all points are at distance large
+ r than twice the prescribed radius.\nWhile simple and effective in some re
+ gimes\, rejection sampling may not seem satisfactory enough from a methodo
+ logical standpoint: a single pair of points too close to each other makes 
+ all sampled points be discarded.\nIn contrast\, *partial* rejection sampli
+ ng (PRS) involves resampling points only in a region constructed around th
+ e points breaking the distance constraint\, until all pairs of points sati
+ sfy the distance constraint.\nA crucial feature is that the PRS mechanism 
+ does not bias the sample: the output configuration of points is indeed an 
+ exact realization of the hard-core point process.\nThis talk will serve as
+  an illustrated introduction to *partial* rejection sampling\, with some a
+ pplications to spatial\, graph and other discrete point processes.\n\n\nCo
+ de: https://github.com/guilgautier/PartialRejectionSampling.jl\nDocumentat
+ ion: https://guilgautier.github.io/PartialRejectionSampling.jl/dev/\n\n\nD
+ ates: \n\nFriday\, June 11\, 2021 - 14:00\n\nLocation: \n\nsalle de réunio
+ n 1er étage du bâtiment M2 ou visioconférence\n\nSpeaker(s): \n\nGuillaume
+  Gautier
+DTSTART;TZID=Europe/Paris:20210611T140000
+DTEND;TZID=Europe/Paris:20210611T140000
+LAST-MODIFIED:20210608T092657Z
+LOCATION:salle de réunion 1er étage du bâtiment M2 ou visioconférence
+SUMMARY:A gentle introduction to Partial Rejection Sampling
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/570
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.569.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20210422T200927Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nMachine learning\n\n\n\n\nIn modern machine l
+ earning\, we often encounter data sets with comparably large numbers of sa
+ mples and features. It is argued that classical statistical learning theor
+ y is insufficient for explaining the generalization performance on such la
+ rge data sets\, especially in the so-called overparametrized regime with s
+ ample size smaller than feature dimension.  The approach of high dimension
+ al asymptotic analyses is motivated by the need of modeling and understand
+ ing modern machine learning. To apply this increasingly popular approach\,
+  we develop a series of tools for handling implicit optimization and itera
+ tive procedure involved in many learning algorithms. Our analyses allow fo
+ r original understandings on fundamental questions such the impact of loss
+  function and the effectiveness of learning with less labels. Practical im
+ provements are proposed based on the insights gained from these analyses.
+ \n\n\nDates: \n\nFriday\, June 4\, 2021 - 22:15\n\nLocation: \n\nvisioconf
+ érence\n\nSpeaker(s): \n\nXiaoyi Mai
+DTSTART;TZID=Europe/Paris:20210604T221500
+DTEND;TZID=Europe/Paris:20210604T221500
+LAST-MODIFIED:20210422T200927Z
+LOCATION:visioconférence
+SUMMARY:A high dimensional asymptotic view on learning from large data sets
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/569
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.566.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20210413T222329Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\n\n\n\n  \n\n\n \n\n\nIl est très répandu en physique quantique de 
+ représenter les états purs d'un système de spin 1/2 sur une sphère appelée
+  la sphère de Bloch. Chaque état est caractérisé par deux variables angula
+ ires\, qui correspondent aux coordonnées sphérique du point de la sphère u
+ nité associé à cet état. Pour l'étude des systèmes de spin J quelconque\, 
+ plus de paramètres sont requis. L'approche standard est de travailler dans
+  un espace de Hilbert de dimension plus grande.  Une alternative\, élégant
+ e\, née d'une intuition géniale du physicien E. Majorana\,  consiste à déc
+ rire les états purs de spin J par une configuration de 2J points sur la sp
+ hère de Bloch\, appelés étoiles de Majorana. Récemment P. Bruno a renouvel
+ é la représentation stellaire de Majorana\, en construisant un parallèle e
+ ntre les étoiles de Majorana et des particules d'un gaz de Coulomb sur la 
+ sphère. Le calcul de la fonction de partition de ce système de particules 
+ de gaz permet de tirer parti des outils de physique statistique pour obten
+ ir des expressions des quantités physiques quantiques du système de spin J
+ . Sur la base de l'article de P. Bruno 'Quantum Geometric Phase in Majoran
+ a’s Stellar Representation: Mapping onto a Many-Body Aharonov-Bohm Phase' 
+ je propose d'illustrer l'utilisation des \n\n\nDates: \n\nFriday\, May 28\
+ , 2021 - 14:00\n\nLocation: \n\nvisioconférence\n\nSpeaker(s): \n\nBarbara
+  Pascal
+DTSTART;TZID=Europe/Paris:20210528T140000
+DTEND;TZID=Europe/Paris:20210528T140000
+LAST-MODIFIED:20210519T142204Z
+LOCATION:visioconférence
+SUMMARY:Parallèle entre la representation stellaire de Majorana des états p
+ urs de spin et gaz coulombien sur la sphère.
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/566
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.573.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20210517T203232Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\n \n\n\n \n\n\nNous discu
+ terons plusieurs modèles de graphes aléatoires aux plus proches voisins ba
+ sés sur un processus ponctuels homogène de Poisson dans Rd. On dit que le 
+ graphe percole si le graphe possède une composante connexe infinie. Nous p
+ résenterons des résultats récents et anciens de percolation (ou absence de
+  percolation) en s'appuyant sur un papier récent de benedikt Jahnel & Andr
+ as Tobias (2020). De nombreuses conjectures résistent encore aujourd'hui e
+ t seront présentées pour les plus curieux ou passionnés d'entre vous...\n
+ \n\nDates: \n\nFriday\, May 21\, 2021 - 14:00\n\nLocation: \n\nvisioconfér
+ ence\n\nSpeaker(s): \n\nDavid Dereudre
+DTSTART;TZID=Europe/Paris:20210521T140000
+DTEND;TZID=Europe/Paris:20210521T140000
+LAST-MODIFIED:20210517T203232Z
+LOCATION:visioconférence
+SUMMARY:Percolation entre voisins (piste rouge)
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/573
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.571.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20210422T201434Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nDates: \n\nFriday\, May 7\, 2021 - 14:00\n\nLocation: \n\nvisiocon
+ férence\n\nSpeaker(s): \n\nAlexandre Feller
+DTSTART;TZID=Europe/Paris:20210507T140000
+DTEND;TZID=Europe/Paris:20210507T140000
+LAST-MODIFIED:20210506T070540Z
+LOCATION:visioconférence
+SUMMARY:Electrons\, counting processes and Dpps: some applications of quant
+ um field theories
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/571
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.565.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20210413T222243Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nOn considère le comporte
+ ment asymptotique d'une particule \n\n\nqui se déplace dans  R^d  de la fa
+ çon suivante. Elle\n\n\npart de l'origine et va dans la direction \n\n\nde
+    d_1/|d_1|   pendant le temps  T_1  à une vitesse de  |d1|\, \n\n\npuis 
+ elle change de direction vers  d_2  et se déplace pendant \n\n\nle temps  
+ T2-T1\,  et ainsi de suite. Les suites  (d_k)  et  (T_k)\n\n\nsont supposé
+ es indépendantes.\n\n\n   Soit  S_n  la position de la particule après   n
+    cycles de marche.\n\n\nIl s'avère que selon la croissance de la suite  
+ (T_k)\n\n\nil existe trois types différents du comportement limite du\n\n
+ \nprocessus  S_n. \n\n\n   Les résultats que je présente généralisent cert
+ ains des résultats \n\n\nde l'article:\n\n\n \n\n\nYu. Davydov and  V. Kon
+ akov\, Random walks in non homogeneous \n\n\nPoissonian environment.\n\n\n
+ in: Modern problems of stochastic analysis and statistics\,\n\n\n  Vol. 20
+ 8\, Heidelberg: Springer\, 2017\, pp. 3--24.\n\n\nDates: \n\nFriday\, Apri
+ l 30\, 2021 - 14:00\n\nLocation: \n\nvisioconférence\n\nSpeaker(s): \n\nYo
+ uri Davydov
+DTSTART;TZID=Europe/Paris:20210430T140000
+DTEND;TZID=Europe/Paris:20210430T140000
+LAST-MODIFIED:20210413T222243Z
+LOCATION:visioconférence
+SUMMARY:Théorèmes limites pour 'random flights'
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/565
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.554.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20210323T212349Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\nSignal processing\nStatistics\n
+ \nDates: \n\nFriday\, April 2\, 2021 - 14:00\n\nLocation: \n\nvisioconfére
+ nce\n\nSpeaker(s): \n\nMichaël Fanuel
+DTSTART;TZID=Europe/Paris:20210402T140000
+DTEND;TZID=Europe/Paris:20210402T140000
+LAST-MODIFIED:20210323T212349Z
+LOCATION:visioconférence
+SUMMARY:TBA
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/554
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.560.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20210331T160140Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nMachine learning\nProbability\nSignal process
+ ing\nStatistics\n\n\n\n\nKernel methods have achieved very good performanc
+ e on large scale regression and classification problems\, by using the Nys
+ tröm method and preconditioning techniques. The Nyström approximation\, ba
+ sed on a subset of landmarks\, gives a low rank approximation of the kerne
+ l matrix\, and is known to provide a form of implicit regularization. We f
+ urther elaborate on the impact of sampling diverse landmarks for construct
+ ing the Nyström approximation in supervised kernel methods. By using Deter
+ minantal Point Processes for landmark sampling\, we obtain additional theo
+ retical results concerning the interplay between diversity and regularizat
+ ion.\n\n\n \n\n\nDates: \n\nFriday\, April 2\, 2021 - 14:00\n\nLocation: 
+ \n\nvisioconférence\n\nSpeaker(s): \n\nMichaël Fanuel
+DTSTART;TZID=Europe/Paris:20210402T140000
+DTEND;TZID=Europe/Paris:20210402T140000
+LAST-MODIFIED:20210331T160140Z
+LOCATION:visioconférence
+SUMMARY:Determinantal Point Processes for Approximations of Non-Parametric 
+ Regression Problems.
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/560
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.553.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20210323T211721Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\n \n\n\nJe présenterai qu
+ elques résultats asymptotiques autour de paramètres géométriques associés 
+ à la boule unité des classes de Schatten\, et je discuterai de leurs relat
+ ions avec diverses conjectures géométriques. Travail en cours avec M. Frad
+ elizi\, O. Guédon et P.-A. Zitt.\n\n\nDates: \n\nFriday\, March 26\, 2021 
+ - 14:00\n\nLocation: \n\nvisioconférence\n\nSpeaker(s): \n\nBenjamin Dadou
+ n
+DTSTART;TZID=Europe/Paris:20210326T140000
+DTEND;TZID=Europe/Paris:20210326T140000
+LAST-MODIFIED:20210323T211721Z
+LOCATION:visioconférence
+SUMMARY:Sur la géométrie asymptotique de la boule unité des classes de Scha
+ tten
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/553
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.552.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20210316T203527Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\n\n\n\nSpatial data are sets of observations made of elements havin
+ g two components. The first component gives the coordinates where the obse
+ rvation took place. The second component\, represented usually by a multi-
+ dimensional real vector\, represents the measures associated at the corres
+ ponding location. Digital images\, environmental data in epidemiology or c
+ atalogues of celestial bodies in astronomy are some typical examples of sp
+ atial data.\nThe spatial character of the data induces a strong morphologi
+ cal component to the possible answers that may be given to questions arisi
+ ng from the data analysis. This explains why the question almost always ar
+ ising is what is the pattern hidden in the data ?\nThe main assumption of 
+ our work is that the pattern we are looking for is made of random objects 
+ that interact.\nMarked point processes are a probabilistic tool able to mo
+ del random configurations of interacting objects. The main difficulty with
+  these models is that they do not always exhibit a precise analytical form
+  for their normalising constants. Hence sampling from such a probability d
+ ensity requires adapted MCMC simulation. Within this framework\, statistic
+ al inference can be done\,using methods such as the simulated annealing al
+ gorithm\, the Monte Carlo maximum likelihood\, ABC inference\, permutation
+  tests and bootstrap methods.\nThe aim of this talk is to introduce marked
+  point processes and to illustrate their applications with examples and da
+ ta sets coming from : cosmology\, image analysis and environmental science
+ s.\n\n\nDates: \n\nFriday\, March 19\, 2021 - 13:30\n\nLocation: \n\nvisio
+ conférence\n\nSpeaker(s): \n\nRadu Stoica
+DTSTART;TZID=Europe/Paris:20210319T133000
+DTEND;TZID=Europe/Paris:20210319T133000
+LAST-MODIFIED:20210316T203527Z
+LOCATION:visioconférence
+SUMMARY:Structures and patterns in spatial data through probabilistic model
+ ling and statistical inference.
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/552
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.551.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20210301T204840Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nWhen analysing a stochas
+ tic process\, such as interacting particles on a lattice\, the first quest
+ ion is often to determine its stationary measures. This is in general a di
+ fficult problem\, unless the system is reversible (i.e. detail-balanced)\,
+  in which case it becomes much simpler. Moreover\, in that case\, locality
+  of the dynamics implies locality of the measures and allows for a well-co
+ ntrolled hydrodynamic limit\, where the transport coefficients obey Einste
+ in's relation. It is then natural to wonder: is reversibility necessary fo
+ r these properties to hold?\n\n\n\nI will present a class of one-dimension
+ al nonequilibrium interacting particle models characterised by a so-called
+  'gradient condition'\, which generalises detailed balance and guarantees 
+ the existence of Gibbs-type local homogeneous stationary measures without 
+ reversibility. I will show how\, defining appropriate boundary conditions\
+ , this leads to a special symmetry of the models under joint time and spac
+ e reversal which\, rephrased in terms of the large deviations function of 
+ stationary currents of conserved quantities\, yields a novel fluctuation r
+ elation under reservoir exchange\, unrelated to the standard Gallavotti-Co
+ hen symmetry. I will then show that this relation can be interpreted as a 
+ nonequilibrium and nonlinear generalisation Einstein's relation\, which po
+ ints to the existence of a Langevin-type hydrodynamic equation for the mac
+ roscopic behaviour of those models.\n\n\n \n\n\nDates: \n\nFriday\, March 
+ 12\, 2021 - 14:00\n\nLocation: \n\nvisioconférence\n\nSpeaker(s): \n\nAlex
+ andre Lazarescu
+DTSTART;TZID=Europe/Paris:20210312T140000
+DTEND;TZID=Europe/Paris:20210312T140000
+LAST-MODIFIED:20210301T204840Z
+LOCATION:visioconférence
+SUMMARY:Gibbs states far from equilibrium and Einstein's fluctuation relati
+ on
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/551
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.544.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20210211T091922Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nSoient $\mathcal{B} =\{b
+ _1\,\ldots\,b_n\}$ ( les ``bleues'' ) et $\mathcal{R}=\{r_1\,\ldots\,r_n\}
+ $ ( les ``rouges'' ) deux n-échantillons des v.a. i.i.d. definies sur un e
+ nsemble $\Omega$ de dimension $d$. Pour une permutation $\pi : \mathcal{B}
+  \rightarrow \mathcal{R}$\, considérons l’hamiltonienne $\mathcal{H}(\pi)=
+ \sum_i D(b_i\,r_{\pi(i)})^p$ où $D$ est la distance euclidienne. Considéro
+ ns la v.a. $\mathcal{H}_{\rm opt} \coloneqq \min_\pi \mathcal{H}(\pi)$ ( `
+ `energie de l’état fondamental'' ). Le problème d'assignation aléatoire eu
+ clidienne ( ou ERAP de l'acronyme de sa traduction anglaise\, ``Euclidean 
+ Random Assignment Problem'' ) revient à la question suivante : quel est le
+  comportement pour grand $n$ de l’esperance de $E_{p\,d}(n)\coloneqq\mathb
+ b{E}_{n\,p\,d\,\Omega}[\mathcal{H}_{\rm opt}]$ selon le choix de $\Omega\,
+ p\,d$ ?\n\n\n \n\n\nEn première approximation\, on peut s'interesser au ``
+ diagramme de phase'' du ERAP\, qui revient à l'étude de l’ordre leading de
+  $E_{p\,d}(n)$ selon le choix de $\Omega\,p\,d$.\n\n\nMalgré sa formulatio
+ n élémentaire\, et ses liens avec d'autres problèmes d'intérêt courant en 
+ mathématiques et en physique théorique ( notamment le problème de Monge-Ka
+ ntorovitch en transport optimal et l'étude des verres de spin en basse dim
+ ension en physique statistique )\, la compréhension de ce diagramme de pha
+ se s'est avérée exceptionnellement difficile et seuls des résultats partie
+ ls sont disponibles à ce jour.\n\n\n \n\n\nDans ce séminaire\, je présente
+ rai des nouveaux résultats en $(p\,d)=(2\,2)$ pour $\Omega=$une variété ri
+ emannienne lisse\, où il est bien connu que $E_{2\,2}(n) ~ \log{n}$. En ex
+ ploitant l'universalité du problème\, je montrerai comment déduire une exp
+ ression exacte pour $E^{\Omega}_{2\,2}(n)-E^{\Omega'}_{2\,2}(n)$ dans la l
+ imite $n\to \infty$\, pour $\Omega$ et $\Omega'$ deux variétés différentes
+ . Ces prédictions analytiques sont en accord remarquable avec les résultat
+ s d'expériences numériques simples.\n\n\n \n\n\nExposé basé sur un travail
+  ( https://arxiv.org/abs/2008.01462 ) réalisé en collaboration avec Dario 
+ Benedetto et Emanuele Caglioti ( Sapienza Université de Rome )\, Sergio Ca
+ racciolo ( Université de Milan et INFN )\, Gabriele Sicuro ( King’s Colleg
+ e Londres ) et Andrea Sportiello ( CNRS et Université Paris Nord ).\n\n\nD
+ ates: \n\nFriday\, February 19\, 2021 - 14:00\n\nLocation: \n\nvisioconfér
+ ence\n\nSpeaker(s): \n\nMatteo d'Achille
+DTSTART;TZID=Europe/Paris:20210219T140000
+DTEND;TZID=Europe/Paris:20210219T140000
+LAST-MODIFIED:20210211T091922Z
+LOCATION:visioconférence
+SUMMARY:Différences d'énergie asymptotique dans l'``Euclidean Random Assign
+ ment Problem'' (ERAP) sur des variétés bidimensionnelles
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/544
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.532.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20210105T083501Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\n \n\n\nUn résultat de Gh
+ osh et Lebowitz (2018) dit qu'en dimension d=1\, 2\, un processus ponctuel
+  hyperuniforme satisfaisant une condition de décroissance des corrélations
+  est cardinal-rigide. Le même théorème est faux en dimension supérieure : 
+ en dimension d > 2\, le réseau Z^d avec des perturbations gaussiennes n'es
+ t pas toujours rigide\, mais il est bien hyperuniforme. Dans cet exposé\, 
+ je ferai la démonstration de ce résultat étonnant dû à Peres et Sly\, et n
+ ous verrons aussi un autre résultat de rigidité du réseau perturbé dû à Ya
+ kir ainsi que des questions sur la reconstruction des processus perturbés.
+ \n\n\n \n\n\nDates: \n\nFriday\, February 12\, 2021 - 14:00\n\nLocation: 
+ \n\nsalle de réunion 1er étage du bâtiment M2 ou visioconférence\n\nSpeake
+ r(s): \n\nSimon Coste
+DTSTART;TZID=Europe/Paris:20210212T140000
+DTEND;TZID=Europe/Paris:20210212T140000
+LAST-MODIFIED:20210211T091705Z
+LOCATION:salle de réunion 1er étage du bâtiment M2 ou visioconférence
+SUMMARY:Deux résultats sur la rigidité des réseaux perturbés
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/532
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.531.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20210105T083342Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nDans cet exposé\, on s'i
+ ntéressera aux zéros d'un champ gaussien stationnaire sur R. Je présentera
+ i un résultat calculant l'asymptotique des moments centrés pour le nombre 
+ de zéros d'un tel champ dans [0\,T]\, lorsque T tend vers l'infini. Ce rés
+ ultat est valable pour le moment d'ordre p\, sous des hypothèses de régula
+ rité du champ et de décroissance à l'infini de sa fonction de corrélation 
+ qui dépendent de p. La preuve repose sur l'étude des fonctions à k-points 
+ du processus ponctuel défini par les zéros de notre champ gaussien. On mon
+ tre notamment une propriété de 'clustering' pour ces fonctions à k-points\
+ , dont on déduit l'asymptotique des moments par un argument purement combi
+ natoire. Si le temps le permet\, j'expliquerai aussi comment étudier les s
+ ingularités de la fonction à k-points le long de la diagonale dans R^k. Il
+  s'agit d'un travail en collaboration avec Michele Ancona.\n\n\nDates: \n
+ \nFriday\, February 5\, 2021 - 14:00\n\nLocation: \n\nsalle de réunion 1er
+  étage du bâtiment M2 ou visioconférence\n\nSpeaker(s): \n\nThomas Letendr
+ e
+DTSTART;TZID=Europe/Paris:20210205T140000
+DTEND;TZID=Europe/Paris:20210205T140000
+LAST-MODIFIED:20210117T224028Z
+LOCATION:salle de réunion 1er étage du bâtiment M2 ou visioconférence
+SUMMARY:Zéros de champs gaussiens stationnaires
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/531
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.530.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20210105T083245Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nWe survey a couple of di
+ screte probabilistic (and integrable) models with extreme statistics inter
+ polating\, asymptotically\, between the Gumbel distribution and the Tracy-
+ -Widom distribution. The latter two appear in opposite probabilistic corne
+ rs: maxima of iid random variables (Gumbel) and maxima of correlated syste
+ ms like eigenvalues of hermitian matrices (Tracy--Widom). Both models are 
+ discrete models of last passage percolation (on a cylinder and in an inhom
+ ogeneous infinite quadrant respectively)\, and shadow in some sense previo
+ us continuous models studied by Johansson (the Moshe--Neuberger--Shapiro r
+ andom matrix model and continuous last passage percolation). Both models h
+ ave asymptotics that resemble those of random matrices: in one case we obt
+ ain the finite temperature Tracy--Widom distribution of Johansson\, and in
+  another case the hard-edge random matrix Bessel kernel in exponential coo
+ rdinates (again of Johansson). The results are based on joint work with Jé
+ rémie Bouttier (Math. Phys. Anal. Geom. 2019 arXiv:1807.09022) and Alessan
+ dra Occelli (arXiv:2012.01995 and arXiv:2011.07890). If time permits\, we 
+ may mention work in progress on multi-critical versions of the first model
+  (joint work in progress with Jérémie Bouttier and Harriet Walsh). \n\n\nD
+ ates: \n\nFriday\, January 29\, 2021 - 14:00\n\nLocation: \n\nsalle de réu
+ nion 1er étage du bâtiment M2 ou visioconférence\n\nSpeaker(s): \n\nDan Be
+ tea
+DTSTART;TZID=Europe/Paris:20210129T140000
+DTEND;TZID=Europe/Paris:20210129T140000
+LAST-MODIFIED:20210124T221811Z
+LOCATION:salle de réunion 1er étage du bâtiment M2 ou visioconférence
+SUMMARY:On two models whose asymptotic extreme statistics interpolate betwe
+ en Gumbel and Tracy--Widom
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/530
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.529.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20210105T083116Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\n\n \n\n\n\n(travail en c
+ ollaboration avec Antti Knowles et Johannes Alt)\n\n\nNous analysons le sp
+ ectre de la matrice d'adjacence A du graphe aléatoire d'Erdős-Renyi G(N\, 
+ d/N) dans le régime critique d = b log N. On établit une correspondance un
+  à un entre les sommets de degré au moins 2d et les valeurs propres en deh
+ ors du bulk [-2\, 2]. Cette correspondance implique une transition à un b*
+  explicite. Pour d>b* log N\, le spectre est contenue dans [-2\, 2] et les
+  vecteurs propres sont complètement délocalisés. Pour d< b* log N\, une au
+ tre phase apparaît. Le spectre à l'extérieur de [-2\, 2] non vide et les v
+ ecteurs propres correspondantes se concentrent autour des sommets de grand
+  degré.\n\n\n\n \n \n\n\n		\n\n \n\n\n\n\n\nDates: \n\nFriday\, January 22\,
+  2021 - 14:00\n\nLocation: \n\nsalle de réunion 1er étage du bâtiment M2 o
+ u visioconférence\n\nSpeaker(s): \n\nRaphaël Ducatez
+DTSTART;TZID=Europe/Paris:20210122T140000
+DTEND;TZID=Europe/Paris:20210122T140000
+LAST-MODIFIED:20210117T222758Z
+LOCATION:salle de réunion 1er étage du bâtiment M2 ou visioconférence
+SUMMARY:Spectre des graphes critiques d'Erdos Renyi
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/529
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.517.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20201123T154041Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nMachine learning\n\nDates: \n\nFriday\, Janua
+ ry 15\, 2021 - 14:00\n\nLocation: \n\nvisioconférence\n\nSpeaker(s): \n\nN
+ icolas Tremblay
+DTSTART;TZID=Europe/Paris:20210115T140000
+DTEND;TZID=Europe/Paris:20210115T140000
+LAST-MODIFIED:20201123T154041Z
+LOCATION:visioconférence
+SUMMARY:Determinantal Point Processes for Coresets
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/517
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.499.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200917T123408Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nFriday\
+ , December 18\, 2020 - 14:00\n\nLocation: \n\nsalle de réunion 1er étage d
+ u bâtiment M2\n\nSpeaker(s): \n\nChi Tran
+DTSTART;TZID=Europe/Paris:20201218T140000
+DTEND;TZID=Europe/Paris:20201218T140000
+LAST-MODIFIED:20200917T123408Z
+LOCATION:salle de réunion 1er étage du bâtiment M2
+SUMMARY:Estimation pour le Stochastic Block Model
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/499
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.498.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200917T123224Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\nDates: \n\nFriday\, December 1
+ 1\, 2020 - 14:00\n\nLocation: \n\nsalle de réunion 1er étage du bâtiment M
+ 2\n\nSpeaker(s): \n\nThibaut Vasseur
+DTSTART;TZID=Europe/Paris:20201211T140000
+DTEND;TZID=Europe/Paris:20201211T140000
+LAST-MODIFIED:20201209T215810Z
+LOCATION:salle de réunion 1er étage du bâtiment M2
+SUMMARY:Processus ponctuels de Gibbs avec interaction de Riesz et Rigidité
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/498
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.495.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200917T122858Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nStatistics\n\nDates: \n\nFriday\, December 4\
+ , 2020 - 14:00\n\nLocation: \n\nsalle de réunion 1er étage du bâtiment M2 
+ et/ou visioconférence\n\nSpeaker(s): \n\nEmeline Schmisser
+DTSTART;TZID=Europe/Paris:20201204T140000
+DTEND;TZID=Europe/Paris:20201204T140000
+LAST-MODIFIED:20201108T214247Z
+LOCATION:salle de réunion 1er étage du bâtiment M2 et/ou visioconférence
+SUMMARY:Estimation non-paramétrique pour des processus de Gibbs
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/495
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.496.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200917T123034Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\nDates: \n\nFriday\, November 2
+ 7\, 2020 - 14:00\n\nLocation: \n\nvisioconférence\n\nSpeaker(s): \n\nNicol
+ as Chenavier
+DTSTART;TZID=Europe/Paris:20201127T140000
+DTEND;TZID=Europe/Paris:20201127T140000
+LAST-MODIFIED:20201108T214404Z
+LOCATION:visioconférence
+SUMMARY:La forêt dirigée du modèle IDLA (Infinite Diffusive Limited Aggrega
+ tion) (partie 2)
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/496
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.497.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200917T123135Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\nDates: \n\nFriday\, November 2
+ 0\, 2020 - 14:00\n\nLocation: \n\nvisioconférence\n\nSpeaker(s): \n\nDavid
+  Coupier
+DTSTART;TZID=Europe/Paris:20201120T140000
+DTEND;TZID=Europe/Paris:20201120T140000
+LAST-MODIFIED:20201108T214456Z
+LOCATION:visioconférence
+SUMMARY:La forêt dirigée du modèle IDLA (Infinite Diffusive Limited Aggrega
+ tion) (partie 1)
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/497
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.494.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200917T122808Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\nSignal processing\nStatistics\n
+ \nDates: \n\nFriday\, November 13\, 2020 - 15:00\n\nLocation: \n\nvisiocon
+ férence\n\nSpeaker(s): \n\nAdrien Hardy
+DTSTART;TZID=Europe/Paris:20201113T150000
+DTEND;TZID=Europe/Paris:20201113T150000
+LAST-MODIFIED:20201108T214653Z
+LOCATION:visioconférence
+SUMMARY:Attractive repulsion - soutenance d'HDR
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/494
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.493.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200917T122705Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nFriday\
+ , November 6\, 2020 - 14:00\n\nLocation: \n\nsalle de réunion 1er étage du
+  bâtiment M2\n\nSpeaker(s): \n\nDavid Dereudre
+DTSTART;TZID=Europe/Paris:20201106T140000
+DTEND;TZID=Europe/Paris:20201106T140000
+LAST-MODIFIED:20200917T122705Z
+LOCATION:salle de réunion 1er étage du bâtiment M2
+SUMMARY:Estimation de paramètres pour des processus de Gibbs
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/493
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.492.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200917T122614Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nDans cet exposé\, nous p
+ résenterons le modèle du Jellium déterminantal. Il s'agit d'un gaz de Coul
+ omb\, à température inverse 2 (donc déterminantal)\, dont le potentiel est
+  généré par une distribution continue de charges positives. Nous étudieron
+ s l'existence de particules en dehors du support des charges positives\, e
+ t je présenterai le résultat suivant :\n\n\n'La loi limite du processus po
+ nctuel des outliers est universelle\, dans le sens où elle ne dépend que d
+ u support des charges positives\, et pas de leur distribution. De plus\, l
+ e comportement des particules en dehors du support des charges est invaria
+ nte par transformation conforme'.\n\n\nL'exposé sera divisté en deux parti
+ es: une piste bleue et une piste rouge.\n\n\nDans la piste bleue\, je prés
+ enterai le modèle de gaz de Coulomb en dimension 2\, expliquerai pourquoi 
+ il forme un processus déterminantal\, et à quoi cette structure sert de ma
+ nière classique dans la littérature. Je présenterai aussi les propriétés g
+ énérales des DPP qui seront utiles ici\, mais sans démonstration.\n\n\nDan
+ s la piste rouge\, nous appliquerons les résultats présentés dans la premi
+ ère partie au cas du Jellium. Je ferai le lien entre la compréhension des 
+ outliers et celle des polynômes orthogonaux\, et nous étudierons le cas à 
+ symétrie radiale (calculs faciles et explicites)\, et nous mentionnerons l
+ e cas général (invariance conforme et polynôme orthogonaux généraux)\n\n\n
+ Dates: \n\nFriday\, October 9\, 2020 - 14:00\n\nLocation: \n\nSalle de sém
+ inaire online et salle de réunion 1er étage du bâtiment M2\n\nSpeaker(s): 
+ \n\nRaphaël Butez
+DTSTART;TZID=Europe/Paris:20201009T140000
+DTEND;TZID=Europe/Paris:20201009T140000
+LAST-MODIFIED:20200927T205620Z
+LOCATION:Salle de séminaire online et salle de réunion 1er étage du bâtimen
+ t M2
+SUMMARY:Outliers pour un modèle de jellium déterminantal
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/492
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.491.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200917T122441Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\nDates: \n\nFriday\, October 2\
+ , 2020 - 14:00\n\nLocation: \n\nsalle de réunion 1er étage du bâtiment M2
+ \n\nSpeaker(s): \n\nBenoit Henry
+DTSTART;TZID=Europe/Paris:20201002T140000
+DTEND;TZID=Europe/Paris:20201002T140000
+LAST-MODIFIED:20200917T122441Z
+LOCATION:salle de réunion 1er étage du bâtiment M2
+SUMMARY:Permutations aléatoires continues (suite)
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/491
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.490.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200917T122220Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nFriday\
+ , September 25\, 2020 - 14:00\n\nLocation: \n\nsalle de réunion 1er étage 
+ du bâtiment M2\n\nSpeaker(s): \n\nArnaud Poinas
+DTSTART;TZID=Europe/Paris:20200925T140000
+DTEND;TZID=Europe/Paris:20200925T140000
+LAST-MODIFIED:20200917T122220Z
+LOCATION:salle de réunion 1er étage du bâtiment M2
+SUMMARY:Estimation paramétrique des processus déterminantaux
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/490
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.489.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200917T122019Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\nDates: \n\nFriday\, September 
+ 18\, 2020 - 14:00\n\nLocation: \n\nsalle de réunion 1er étage du bâtiment 
+ M2\n\nSpeaker(s): \n\nLucas Flammant
+DTSTART;TZID=Europe/Paris:20200918T140000
+DTEND;TZID=Europe/Paris:20200918T140000
+LAST-MODIFIED:20200917T122019Z
+LOCATION:salle de réunion 1er étage du bâtiment M2
+SUMMARY:Percolation en espace hyperbolique
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/489
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.469.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200214T145704Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nDates: \n\nFriday\, June 26\, 2020 - 15:15\n\nLocation: \n\nSalle 
+ de séminaire M3\n\nSpeaker(s): \n\nDavid Coupier
+DTSTART;TZID=Europe/Paris:20200626T151500
+DTEND;TZID=Europe/Paris:20200626T151500
+LAST-MODIFIED:20200214T145704Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Absence de percolation pour un modèle de croissance aléatoire
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/469
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.468.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200214T145504Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nDates: \n\nFriday\, June 5\, 2020 - 15:15\n\nLocation: \n\nSalle d
+ e séminaire M3\n\nSpeaker(s): \n\nNicolas Chenavier
+DTSTART;TZID=Europe/Paris:20200605T151500
+DTEND;TZID=Europe/Paris:20200605T151500
+LAST-MODIFIED:20200214T145504Z
+LOCATION:Salle de séminaire M3
+SUMMARY:La forêt dirigée du modèle IDLA (Infinite Diffusive Limited Aggrega
+ tion)
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/468
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.465.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200214T134257Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nFriday\
+ , May 29\, 2020 - 15:15\n\nLocation: \n\nSalle de séminaire M3\n\nSpeaker(
+ s): \n\nÉmeline Schmisser
+DTSTART;TZID=Europe/Paris:20200529T151500
+DTEND;TZID=Europe/Paris:20200529T151500
+LAST-MODIFIED:20200214T134257Z
+LOCATION:Salle de séminaire M3
+SUMMARY:TBA
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/465
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.464.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200214T134058Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nFriday\
+ , May 22\, 2020 - 15:15\n\nLocation: \n\nSalle de séminaire M3\n\nSpeaker(
+ s): \n\nDavid Dereudre
+DTSTART;TZID=Europe/Paris:20200522T151500
+DTEND;TZID=Europe/Paris:20200522T151500
+LAST-MODIFIED:20200214T134058Z
+LOCATION:Salle de séminaire M3
+SUMMARY:TBA
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/464
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.478.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200303T090611Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\nDates: \n\nFriday\, May 15\, 2
+ 020 - 15:15\n\nLocation: \n\nSalle de séminaires M3\n\nSpeaker(s): \n\nMic
+ hel Petitot
+DTSTART;TZID=Europe/Paris:20200515T151500
+DTEND;TZID=Europe/Paris:20200515T151500
+LAST-MODIFIED:20200303T090611Z
+LOCATION:Salle de séminaires M3
+SUMMARY:TBA
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/478
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.467.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200214T145243Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nDates: \n\nFriday\, April 10\, 2020 - 15:15\n\nLocation: \n\nSalle
+  de séminaire M3\n\nSpeaker(s): \n\nBenoit Henry
+DTSTART;TZID=Europe/Paris:20200410T151500
+DTEND;TZID=Europe/Paris:20200410T151500
+LAST-MODIFIED:20200214T145243Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Permutations aléatoires continues (suite)
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/467
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.455.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200201T224938Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nFriday\
+ , March 27\, 2020 - 15:15\n\nLocation: \n\nSalle de séminaire M3\n\nSpeake
+ r(s): \n\nArnaud Poinas
+DTSTART;TZID=Europe/Paris:20200327T151500
+DTEND;TZID=Europe/Paris:20200327T151500
+LAST-MODIFIED:20200201T225048Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Estimation paramétrique des processus déterminantaux
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/455
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.472.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200218T220959Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nStatistics\n\n\n\n\nThis is Guillaume Gautier
+ 's PhD viva.\n\n\nDates: \n\nFriday\, March 20\, 2020 - 13:45\n\nLocation:
+  \n\nSalle Atrium\, Bâtiment Esprit\, rez-de-chaussée.\n\nSpeaker(s): \n\n
+ Guillaume Gautier
+DTSTART;TZID=Europe/Paris:20200320T134500
+DTEND;TZID=Europe/Paris:20200320T134500
+LAST-MODIFIED:20200218T220959Z
+LOCATION:Salle Atrium\, Bâtiment Esprit\, rez-de-chaussée.
+SUMMARY:On determinantal point process sampling
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/472
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.471.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200218T220637Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\nStatistics\n\n\n\n\nTBC\n\n\nDat
+ es: \n\nThursday\, March 19\, 2020 - 10:45 to 12:00\n\nLocation: \n\nTBA\n
+ \nSpeaker(s): \n\nSheehan Olver
+DTSTART;TZID=Europe/Paris:20200319T104500
+DTEND;TZID=Europe/Paris:20200319T120000
+LAST-MODIFIED:20200218T220637Z
+LOCATION:TBA
+SUMMARY:Numerics for Riemann–Hilbert problems and statistics of invariant e
+ nsembles 2/2
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/471
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.470.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200218T220531Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\nStatistics\n\n\n\n\nTBC\n\n\nDat
+ es: \n\nThursday\, March 19\, 2020 - 09:15 to 10:30\n\nLocation: \n\nTBA\n
+ \nSpeaker(s): \n\nSheehan Olver
+DTSTART;TZID=Europe/Paris:20200319T091500
+DTEND;TZID=Europe/Paris:20200319T103000
+LAST-MODIFIED:20200218T220531Z
+LOCATION:TBA
+SUMMARY:Numerics for Riemann–Hilbert problems and statistics of invariant e
+ nsembles 1/2
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/470
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.466.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200214T145021Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nDates: \n\nFriday\, March 13\, 2020 - 15:15\n\nLocation: \n\nSalle
+  de séminaire M3\n\nSpeaker(s): \n\nLucas Flammant
+DTSTART;TZID=Europe/Paris:20200313T151500
+DTEND;TZID=Europe/Paris:20200313T151500
+LAST-MODIFIED:20200214T145021Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Percolation en espace hyperbolique
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/466
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.453.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200117T204110Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\nDates: \n\nFriday\, March 6\, 
+ 2020 - 21:45\n\nLocation: \n\nM3 salle de séminaire\n\nSpeaker(s): \n\nAda
+ m Rançon
+DTSTART;TZID=Europe/Paris:20200306T214500
+DTEND;TZID=Europe/Paris:20200306T214500
+LAST-MODIFIED:20200117T204110Z
+LOCATION:M3 salle de séminaire
+SUMMARY:TBA
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/453
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.476.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200228T111123Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nLa plus grande révolutio
+ n en physique statistique est le groupe de renormalisation de Wilson\, qui
+  consiste à construire des modèles effectifs pour décrire un système physi
+ que à différentes échelles. Ce type d'approche est indispensable quand la 
+ longueur de corrélation (distance typique à laquelle les degrés de liberté
+  sont corrélés) est grande\, en particulier près de transition de phase du
+  second ordre.\nDans cet exposé\, après une brève introduction à la phénom
+ énologie des transitions du second ordre (universalité\, invariance d'éche
+ lle\,...)\, je présenterai les idées dernières le groupe de renormalisatio
+ n. Si le temps le permet\, je présenterai également une version plus moder
+ ne du groupe de renormalisation (dit fonctionnel)\, ainsi qu'un calcul en 
+ dimension (infinitésimalement) proche de 4.\n\n\nDates: \n\nFriday\, March
+  6\, 2020 - 15:15\n\nLocation: \n\nSalle de séminaire\, Troisième étage\, 
+ Bâtiment M3\n\nSpeaker(s): \n\nAdam Rançon
+DTSTART;TZID=Europe/Paris:20200306T151500
+DTEND;TZID=Europe/Paris:20200306T151500
+LAST-MODIFIED:20200228T111123Z
+LOCATION:Salle de séminaire\, Troisième étage\, Bâtiment M3
+SUMMARY:Introduction au groupe de renormalisation en physique statistique
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/476
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.456.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20200201T225827Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\nSignal processing\nStatistics\n
+ \nDates: \n\nFriday\, February 14\, 2020 - 15:15\n\nLocation: \n\nSalle de
+  séminaire M3\n\nSpeaker(s): \n\nSergueï Dachian
+DTSTART;TZID=Europe/Paris:20200214T151500
+DTEND;TZID=Europe/Paris:20200214T151500
+LAST-MODIFIED:20200201T225827Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Estimation des paramètres des signaux poissoniens
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/456
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.430.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20191021T091359Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nTBA\n\n\nDates: \n\nFrid
+ ay\, January 31\, 2020 - 15:15\n\nLocation: \n\nSalle de séminaire M3\n\nS
+ peaker(s): \n\nThibaut Vasseur
+DTSTART;TZID=Europe/Paris:20200131T151500
+DTEND;TZID=Europe/Paris:20200131T151500
+LAST-MODIFIED:20200214T144709Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Mariages stables uniformes et hyper-uniformes
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/430
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.428.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20191021T091004Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nTBA\n\n\nDates: \n\nFrid
+ ay\, December 20\, 2019 - 15:15\n\nLocation: \n\nSalle de séminaire M3\n\n
+ Speaker(s): \n\nBenoit Henry ou David Dereudre
+DTSTART;TZID=Europe/Paris:20191220T151500
+DTEND;TZID=Europe/Paris:20191220T151500
+LAST-MODIFIED:20191106T085028Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Permutations aléatoires continues
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/428
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.427.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20191021T090802Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nDans le cadre classique 
+ de la théorie des valeurs extrêmes\, on s'intéresse au comportement du max
+ imum de $n$ variables aléatoires iid lorsque $n$ tend vers l'infini. Cette
+  théorie a été développée par Gnedenko dans les années 40. Leadbetter a ét
+ endu l'étude à des variables aléatoires non iid et satisfaisant des condit
+ ions peu restrictives\, appelées $D(u_n)$ et $D'(u_n)$.\n\n\nRécemment\, F
+ ranke et Saigo ont étudié des extrêmes pour des suites de variables aléato
+ ires qui ne satisfont pas les conditions $D(u_n)$ et $D'(u_n)$. Plus préci
+ sément\, étant donné une suite de variable aléatoire iid $\{\xi(k): k\in \
+ mathbb{Z}\}$ et une marche aléatoire $\{S_n: n \in \mathbb{N}\}$\, sur $\m
+ athbb{Z}$\, ils étudient le comportement limite du maximum $\max\{\xi(S_j)
+ : j\leq n\}$ quand $n$ tend vers l'infini. On parle alors d'extrêmes en mi
+ lieu aléatoire. La loi limite de ce maximum est discutée selon que la marc
+ he aléatoire est récurrente ou transiente.\n\n\nAprès avoir présenté le tr
+ avail de Franke et Saigo\, nous nous intéresserons\, dans cet exposé\, à c
+ e qui advient du comportement limite du maximum $\max\{\xi(S_j): j\leq n\}
+ $ lorsque la suite $\{\xi(k): k\in \mathbb{Z}\}$ satisfait seulement les c
+ onditions $D(u_n)$ et $D'(u_n)$.\n\n\nDates: \n\nFriday\, December 13\, 20
+ 19 - 15:15\n\nLocation: \n\nSalle de séminaire M3\n\nSpeaker(s): \n\nAhmad
+  Darwiche
+DTSTART;TZID=Europe/Paris:20191213T151500
+DTEND;TZID=Europe/Paris:20191213T151500
+LAST-MODIFIED:20191206T160917Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Valeurs extrêmes pour des marches aléatoires transientes en environ
+ nement aléatoire.
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/427
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.426.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20191021T090457Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nTBA\n\n\nDates: \n\nFrid
+ ay\, November 29\, 2019 - 15:15\n\nLocation: \n\nSalle de séminaire M3\n\n
+ Speaker(s): \n\nChi Tran
+DTSTART;TZID=Europe/Paris:20191129T151500
+DTEND;TZID=Europe/Paris:20191129T151500
+LAST-MODIFIED:20191106T084926Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Marches aléatoires sur des graphes aléatoires
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/426
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.411.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20190927T141617Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nTBC: processus ponctuels
+  en géométrie stochastique\n\n\nDates: \n\nFriday\, November 8\, 2019 - 15
+ :15 to 17:15\n\nLocation: \n\nSalle de séminaire\, 3ème étage\, Bâtiment M
+ 3\n\nSpeaker(s): \n\nTBC
+DTSTART;TZID=Europe/Paris:20191108T151500
+DTEND;TZID=Europe/Paris:20191108T171500
+LAST-MODIFIED:20191015T210318Z
+LOCATION:Salle de séminaire\, 3ème étage\, Bâtiment M3
+SUMMARY:TBC: géométrie stochastique
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/411
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.425.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20191021T090206Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\n \n\n\nDans cet exposé\,
+  nous présenterons plusieurs modèles classiques de la Géométrie aléatoire 
+ (Percolation continue\, marche au plus proche voisin\, triangulation de De
+ launay) tout en mettant en valeur quelques (jolis) outils et/ou arguments.
+ \n\n\nDates: \n\nFriday\, November 8\, 2019 - 15:15\n\nLocation: \n\nSalle
+  de séminaire M3\n\nSpeaker(s): \n\nDavid Coupier
+DTSTART;TZID=Europe/Paris:20191108T151500
+DTEND;TZID=Europe/Paris:20191108T151500
+LAST-MODIFIED:20191106T084834Z
+LOCATION:Salle de séminaire M3
+SUMMARY:Quelques grands classiques de la Géométrie aléatoire (Piste verte).
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/425
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.410.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20190927T141435Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nMachine learning\nProbability\nSignal process
+ ing\n\n\n\n\nJe ferai un survol des applications récentes des processus po
+ nctuels déterminantaux (DPP)\, ces nuages de points aléatoires popularisés
+  par la communauté des matrices aléatoires. Après une rapide introduction 
+ aux DPPs\, on parlera en particulier de leur apparition en intégration num
+ érique\, en traitement du signal et en machine learning\, et on évoquera a
+ ussi quelques questions ouvertes.\n\n\n \n\n\nDates: \n\nFriday\, October 
+ 18\, 2019 - 15:15 to 17:15\n\nLocation: \n\nSalle de séminaire\, 3ème étag
+ e\, Bâtiment M3\n\nSpeaker(s): \n\nAdrien Hardy
+DTSTART;TZID=Europe/Paris:20191018T151500
+DTEND;TZID=Europe/Paris:20191018T171500
+LAST-MODIFIED:20191015T210256Z
+LOCATION:Salle de séminaire\, 3ème étage\, Bâtiment M3
+SUMMARY:Processus ponctuels déterminantaux en application
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/410
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.409.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20220916T095645Z
+CREATED:20190927T140926Z
+DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
+ ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\n(exposé piste verte : l'
+ exposé se veut accessible largement)\n\n\nDans cet exposé\, je présenterai
+  le processus ponctuel de Gibbs avec interaction par paire. Il s'agit de p
+ erturber le processus ponctuel de Poisson via une attraction ou une répuls
+ ion entre les points. C'est le modèle de base de la physique statistique c
+ lassique (non quantique) pour modéliser un gaz\, un liquide\, un solide\, 
+ un plasma\, etc. Lors de l'exposé\, je présenterai le modèle\, les résulta
+ ts de base et ceux obtenus récemment par nos collègues lillois. Des conjec
+ tures vieilles de plus de 50 ans résistent toujours aujourd'hui et sont au
+  coeur de la compréhension théorique des phénomènes de transition de phase
+  (liquide-gaz\, liquide-solide).  Je vous présenterai quelques unes de ces
+  magnifiques conjectures... Des projets plus abordables dans le domaine se
+ ront également évoqués.\n\n\nDates: \n\nFriday\, October 11\, 2019 - 15:15
+  to 17:15\n\nLocation: \n\nSalle de séminaire\, 2ème étage\, Bâtiment M3\n
+ \nSpeaker(s): \n\nDavid Dereudre
+DTSTART;TZID=Europe/Paris:20191011T151500
+DTEND;TZID=Europe/Paris:20191011T171500
+LAST-MODIFIED:20190927T192437Z
+LOCATION:Salle de séminaire\, 2ème étage\, Bâtiment M3
+SUMMARY:Processus ponctuel de Gibbs. Le système continu de particules en in
+ teraction.
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/409
+END:VEVENT
+END:VCALENDAR
