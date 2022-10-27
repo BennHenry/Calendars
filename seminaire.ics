@@ -24,7 +24,7 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:calendar.575.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20210520T141235Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nStatistics\n\n\n\n\nIn this review talk we give a quick int
@@ -44,7 +44,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/575
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.558.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20210329T210708Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nThe most common model sele
@@ -72,7 +72,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/558
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.568.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20210416T092630Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDe nombreux résultats perm
@@ -100,7 +100,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/568
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.567.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20210415T093339Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nLe recuit simulé est un al
@@ -129,7 +129,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/567
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.564.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20210401T095407Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nFiltering hidden Markov mo
@@ -170,7 +170,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/564
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.556.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20210327T124626Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nLa chimiotaxie est un phén
@@ -200,7 +200,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/556
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.538.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20210208T113612Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nEn collaboration avec Abir
@@ -238,7 +238,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/538
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.549.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20210219T174822Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans ce travail\, nous con
@@ -265,7 +265,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/549
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.541.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20210209T145959Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nUn des problèmes les plus 
@@ -299,7 +299,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/541
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.545.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20210211T113014Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nWe study three geometrical
@@ -326,7 +326,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/545
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.542.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20210209T150602Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nMany mathematical models i
@@ -355,7 +355,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/542
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.540.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20210209T114827Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nLa méthode de Malliavin-St
@@ -395,7 +395,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/540
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.539.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20210208T174931Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nOscillatory systems of int
@@ -422,7 +422,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/539
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.533.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20210105T094559Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nOn se donne un processus g
@@ -444,7 +444,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/533
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.528.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20210103T204022Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nMany physical phenomena ar
@@ -469,7 +469,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/528
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.537.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20210121T174006Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nIn large deviation theory\
@@ -492,7 +492,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/537
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.536.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20210113T202649Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nJe vais introduire des sub
@@ -515,7 +515,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/536
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.526.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20201230T105952Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nLes modèles de spin avec c
@@ -546,7 +546,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/526
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.527.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20210103T174344Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nLa solution d'une EDS réfl
@@ -578,7 +578,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/527
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.525.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20201230T105507Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nUn processus d'Ornstein-Uh
@@ -602,7 +602,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/525
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.512.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20201102T160634Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans cet exposé\, je prése
@@ -626,7 +626,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/512
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.516.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20201120T011316Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nWe provide a general frame
@@ -651,7 +651,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/516
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.509.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20201015T063254Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nWe discuss and give two sh
@@ -670,7 +670,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/509
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.511.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20201102T094420Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nLes modèles de neuroscienc
@@ -701,7 +701,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/511
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.507.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20201010T062049Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nSoit α > 0 . Soient μ et ν
@@ -719,7 +719,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/507
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.508.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20201015T062745Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nOn étudie les excursions e
@@ -753,7 +753,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/508
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.501.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20200921T170707Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nNous étudions les propriét
@@ -779,7 +779,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/501
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.488.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20200916T175803Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\n(Joint work with Thomas Ve
@@ -811,7 +811,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/488
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.487.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20200916T175341Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nLe critère d'indépendance 
@@ -835,7 +835,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/487
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.486.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20200907T185408Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nComment une colonie de fou
@@ -866,7 +866,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/486
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.485.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20200904T093126Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nThis work investigates the
@@ -895,7 +895,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/485
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.481.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20200430T164856Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans cet exposé\, je prése
@@ -917,7 +917,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/481
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.483.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20200509T161631Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nIn modern applications of 
@@ -946,7 +946,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/483
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.482.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20200430T171458Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nÉtant donnée une mesure de
@@ -970,7 +970,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/482
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.460.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20200211T161551Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans un premier temps\, je
@@ -992,7 +992,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/460
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.424.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20191016T113616Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nOn se donne un processus g
@@ -1013,7 +1013,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/424
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.474.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20200222T062839Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nLe théorème de contraction
@@ -1035,7 +1035,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/474
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.462.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20200211T181646Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans cet exposé\, on s'int
@@ -1057,7 +1057,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/462
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.459.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20200204T152306Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nThis talks studies the rec
@@ -1088,7 +1088,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/459
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.458.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20200203T205109Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans cet exposé\, je prése
@@ -1112,7 +1112,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/458
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.457.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20200203T204908Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nJoint work with Boualem Dj
@@ -1138,7 +1138,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/457
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.449.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20191218T101752Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans une première partie o
@@ -1166,7 +1166,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/449
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.448.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20191218T101631Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans ce travail\, réalisé 
@@ -1192,7 +1192,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/448
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.447.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20191218T101512Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nWe consider building predi
@@ -1221,7 +1221,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/447
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.443.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20191130T140823Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nConsidérons la marche aléa
@@ -1247,7 +1247,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/443
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.423.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20191016T113544Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans un premier temps je f
@@ -1269,7 +1269,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/423
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.422.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20191016T113508Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nNous considérons un modèle
@@ -1295,7 +1295,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/422
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.421.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20191016T113427Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nWednesday\, November 
@@ -1310,7 +1310,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/421
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.420.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20191016T113348Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nWednesday\, November 
@@ -1325,7 +1325,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/420
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.419.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20191016T113318Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nMulticlass classification 
@@ -1357,7 +1357,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/419
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.418.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20191016T113215Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nWednesday\, November 
@@ -1373,7 +1373,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/418
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.402.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20190906T124346Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans un cadre non-Lipschit
@@ -1406,7 +1406,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/402
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.401.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20190906T123729Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nLes techniques expérimenta
@@ -1441,7 +1441,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/401
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.400.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20190906T123638Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nWednesday\, October 2
@@ -1456,7 +1456,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/400
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.399.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20190906T123545Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nNous étudions un système d
@@ -1490,7 +1490,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/399
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.398.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20190906T123449Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nWe introduce a principled 
@@ -1520,7 +1520,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/398
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.397.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20190906T123345Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\n(travail en commun avec Vi
@@ -1543,7 +1543,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/397
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.383.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20190503T092900Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nWednesday\, June 19\,
@@ -1558,7 +1558,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/383
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.382.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20190503T092827Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nSignal processing\nStatistics\n\nDates: \n\nWe
@@ -1573,7 +1573,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/382
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.381.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20190503T092750Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nStatistics\n\nDates: \n\nWednesday\, May 29\, 2019 - 10:30
@@ -1588,7 +1588,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/381
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.380.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20190503T092713Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\nDates: \n\nWednesday\, May 22\, 2019 - 10:30
@@ -1602,7 +1602,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/380
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.379.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20190503T092643Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\nDates: \n\nWednesday\, May 15\, 2019 - 10:30
@@ -1616,7 +1616,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/379
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.376.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20190318T130432Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nL’algorithme SMC^2 de N. C
@@ -1645,7 +1645,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/376
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.373.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20190305T141224Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nNous considérons un arbre 
@@ -1673,7 +1673,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/373
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.372.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20190301T092447Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nThis talk will revolve aro
@@ -1707,7 +1707,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/372
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.367.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20190131T132911Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nStatistics\n\n\n\n\nDans cet exposé\, je présenterai un est
@@ -1734,7 +1734,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/367
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.366.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20190125T125152Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\n\n\n\nLe temps local d’un processus stochast
@@ -1756,7 +1756,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/366
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.365.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20190125T085121Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nUn système de $n$ particul
@@ -1784,7 +1784,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/365
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.360.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20190111T090423Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans ce travail\, nous pro
@@ -1813,7 +1813,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/360
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.359.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20190111T090241Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nWednesday\, January 2
@@ -1829,7 +1829,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/359
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.358.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20190111T090137Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nWednesday\, January 1
@@ -1844,7 +1844,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/358
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.355.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20181204T214828Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nDans cet exposé nous étudi
@@ -1865,7 +1865,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/355
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.354.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20181204T214730Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nPour trouver les variables
@@ -1889,7 +1889,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/354
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.353.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20181204T214608Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nWe consider the problem of
@@ -1917,7 +1917,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/353
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.343.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20181102T115534Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nRecent years have seen a g
@@ -1948,7 +1948,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/343
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.342.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20181102T115405Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nIn neurosciences\, two kin
@@ -1997,7 +1997,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/342
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.341.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20181102T115300Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nOn considère une populatio
@@ -2042,7 +2042,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/341
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.340.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20181019T080140Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nStatistics\n\n\n\n\nLa matrice d'information de Fisher (FIM
@@ -2083,7 +2083,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/340
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.329.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20180925T145801Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nPopular machine learning e
@@ -2110,7 +2110,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/329
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.326.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20180914T135735Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\n\n\n\nDans cet exposé\, je m’intéresserai au
@@ -2137,7 +2137,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/326
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.325.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20180914T135607Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\n\n\n\nLa déconvolution classique est un impo
@@ -2162,7 +2162,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/325
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.324.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20180914T135424Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\n\n\n\nDans cet exposé\, on présentera des ré
@@ -2187,7 +2187,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/324
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.307.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20180502T123934Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nMachine learning\nStatistics\n\n\n\n\nEn apprentissage auto
@@ -2218,7 +2218,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/307
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.288.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20180131T221522Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\n\n\n\nNous allons nous intéresser à une limi
@@ -2246,7 +2246,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/288
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.290.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20180202T140836Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\n\n\n\nJean-François Le Gall et Grégory Mierm
@@ -2272,7 +2272,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/290
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.273.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20171217T112453Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nStatistics\n\nDates: \n\nWednesday\, February 21\, 2018 - 1
@@ -2287,7 +2287,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/273
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.272.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20171217T112333Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nStatistics\n\n\n\n\nIn this talk\, I propose to present a g
@@ -2322,7 +2322,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/272
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.271.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20171217T112058Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\nDates: \n\nWednesday\, February 7\, 2018 - 1
@@ -2336,7 +2336,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/271
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.286.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20180127T120745Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nStatistics\n\n\n\n\nModéliser les relations entre entités (
@@ -2365,7 +2365,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/286
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.287.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20180127T121412Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\n\n\n\nUsing excursion theory\, we construct 
@@ -2385,23 +2385,8 @@ SUMMARY:Approximation and duality problems of refracted processes
 URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/287
 END:VEVENT
 BEGIN:VEVENT
-UID:calendar.270.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
-CREATED:20171217T111741Z
-DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
- ic tag(s): \n\nProbability\n\nDates: \n\nWednesday\, January 24\, 2018 - 1
- 0:30\n\nLocation: \n\nSalle de séminaire M3 \n\nSpeaker(s): \n\nRaphael Fo
- rien
-DTSTART;TZID=Europe/Paris:20180124T103000
-DTEND;TZID=Europe/Paris:20180124T103000
-LAST-MODIFIED:20171217T111741Z
-LOCATION:Salle de séminaire M3
-SUMMARY:TBA
-URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/270
-END:VEVENT
-BEGIN:VEVENT
 UID:calendar.281.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20180115T133501Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\n\n\n\nJe présenterai un modèle décrivant l'é
@@ -2427,8 +2412,23 @@ SUMMARY:Évolution de la diversité génétique en présence de dispersion hét�
 URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/281
 END:VEVENT
 BEGIN:VEVENT
+UID:calendar.270.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20221027T090900Z
+CREATED:20171217T111741Z
+DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
+ ic tag(s): \n\nProbability\n\nDates: \n\nWednesday\, January 24\, 2018 - 1
+ 0:30\n\nLocation: \n\nSalle de séminaire M3 \n\nSpeaker(s): \n\nRaphael Fo
+ rien
+DTSTART;TZID=Europe/Paris:20180124T103000
+DTEND;TZID=Europe/Paris:20180124T103000
+LAST-MODIFIED:20171217T111741Z
+LOCATION:Salle de séminaire M3
+SUMMARY:TBA
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/270
+END:VEVENT
+BEGIN:VEVENT
 UID:calendar.269.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20171217T110626Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\nDates: \n\nWednesday\, January 17\, 2018 - 1
@@ -2443,7 +2443,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/269
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.280.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20180112T114805Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\n\n\n\nLa théorie de van der Waals (1873) a é
@@ -2474,7 +2474,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/280
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.268.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20171217T110049Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\n\n\n\nDans cet exposé\, je commencerai par m
@@ -2500,7 +2500,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/268
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.266.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20171206T143405Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\n\n\n\nLa méthode de Stein est une technique 
@@ -2527,7 +2527,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/266
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.265.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20171130T221143Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\n\n\n\nL'effet Hall quantique fractionnaire e
@@ -2558,7 +2558,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/265
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.257.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20171030T212120Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\n\n\n\nÉtant donné un processus Markovien sur
@@ -2578,7 +2578,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/257
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.256.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20171030T211610Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\n\n\n\nSi on part du réseau carré et efface c
@@ -2607,7 +2607,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/256
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.255.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20171030T211324Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nMachine learning\nPattern recognition\nStatistics\n\n\n\n\n
@@ -2637,7 +2637,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/255
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.254.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20171030T211124Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nThis a joint work with Jul
@@ -2673,7 +2673,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/254
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.252.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20171017T153554Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nImage processing\nSignal processing\nStatistics\n\n\n\n\nDa
@@ -2699,7 +2699,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/252
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.251.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20171014T110722Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\n\n\n\nOngoing work with Claudio Landim (IMPA
@@ -2724,7 +2724,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/251
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.248.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20171001T113839Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nThe case when the summands
@@ -2749,7 +2749,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/248
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.243.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20170920T113639Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nStatistics\n\n\n\n\nLes modèles non linéaires mixtes sont u
@@ -2774,7 +2774,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/243
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.232.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20170910T103019Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nIl existe un certain nombr
@@ -2796,7 +2796,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/232
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.230.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20170831T083459Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Determinantal point processe
  s\nLPP Probabilités & Statistique\n\nThematic tag(s): \n\nProbability\n\n
@@ -2823,7 +2823,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/230
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.228.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20170821T103824Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\n\n\n\nLes populations composées de deux type
@@ -2851,7 +2851,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/228
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.222.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20170531T130835Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\n\n\n\nWe study the nodal intersections numbe
@@ -2884,7 +2884,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/222
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.221.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20170531T130751Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nIl existe de nombreux algo
@@ -2924,7 +2924,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/221
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.219.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20170531T130548Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Determinantal point processe
  s\nLPP Probabilités & Statistique\n\nThematic tag(s): \n\nProbability\nSta
@@ -2953,7 +2953,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/219
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.218.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20170531T130440Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\nStatistics\n\n\n\n\nNous nous intéresserons au
@@ -2979,7 +2979,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/218
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.214.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20170523T074547Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nStatistics\n\n\n\n\nThis is a review of some recent results
@@ -3007,7 +3007,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/214
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.213.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20170518T101241Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\n\n\n\nLe but de cet exposé est de présenter 
@@ -3036,7 +3036,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/213
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.209.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20170504T092317Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\n\n\n\nDans cet exposé\, nous étudierons la l
@@ -3059,7 +3059,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/209
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.206.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20170502T130043Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nProbability\n\n\n\n\nPlusieurs résultats quantitatifs sur l
@@ -3080,7 +3080,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/206
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.207.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20170502T134819Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\nThemat
  ic tag(s): \n\nMachine learning\nStatistics\n\n\n\n\nMany useful empirical
@@ -3106,7 +3106,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/207
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.196.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20170327T112750Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\n\n\n\n
  Nous étudierons dans cet exposé une famille de graphes orientés 'out degre
@@ -3131,7 +3131,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/196
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.197.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20170327T112929Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n\n\n\n\n
  Nous considérons des systèmes de processus de Hawkes en interactions const
@@ -3158,7 +3158,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/197
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.179.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20170116T164528Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\n60G Prob
  ability theory and stochastic processes > Point processes\n\n\n\n\nLa cour
@@ -3180,7 +3180,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/179
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.178.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20170116T164305Z
 DESCRIPTION:Institutional tag: \n\n60B Probability theory and stochastic pr
  ocesses > Probability theory on algebraic and topological structures\nLPP 
@@ -3207,7 +3207,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/178
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.177.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20170116T163851Z
 DESCRIPTION:Institutional tag: \n\n62P Statistics > Applications\n65C Proba
  bilistic methods\, simulation and stochastic differential equations\nLPP P
@@ -3235,7 +3235,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/177
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.176.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20170116T163551Z
 DESCRIPTION:Institutional tag: \n\n62P Statistics > Applications\nLPP Proba
  bilités & Statistique\n62F Statistics > Parametric inference\n62H Statisti
@@ -3257,7 +3257,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/176
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.175.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20170116T162721Z
 DESCRIPTION:Institutional tag: \n\n62P Statistics > Applications\nLPP Proba
  bilités & Statistique\n62H Statistics > Multivariate analysis\n92F Biology
@@ -3282,7 +3282,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/175
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.145.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20160923T090737Z
 DESCRIPTION:Institutional tag: \n\n62P Statistics > Applications\nLPP Proba
  bilités & Statistique\n62G Statistics > Nonparametric inference\n62H Stati
@@ -3315,7 +3315,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/145
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.136.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20160920T131924Z
 DESCRIPTION:Institutional tag: \n\nLPP Probabilités & Statistique\nLPP/CRIS
  tAL Determinantal point processes\n60G Probability theory and stochastic p
@@ -3342,7 +3342,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/136
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.130.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20221011T084140Z
+DTSTAMP:20221027T090900Z
 CREATED:20160908T093156Z
 DESCRIPTION:Institutional tag: \n\n62P Statistics > Applications\nLPP Proba
  bilités & Statistique\n62G Statistics > Nonparametric inference\n\n\n\n\nV
