@@ -100,7 +100,7 @@
 
 <!-- Identity Provider Selection: Start -->
 <h1>S&eacute;lectionnez votre &eacute;tablissement</h1> 
-<form id="IdPList" name="IdPList" method="post" onSubmit="return checkForm()" action="/WAYF.php?shire=https%3A%2F%2Fseminaire.intranet.univ-lille1.fr%2FShibboleth.sso%2FSAML%2FPOST&amp;time=1673260617&amp;target=cookie%3A1673260617_b551&amp;providerId=https%3A%2F%2Fseminaire.intranet.univ-lille1.fr%2Fshibboleth">
+<form id="IdPList" name="IdPList" method="post" onSubmit="return checkForm()" action="/WAYF.php?shire=https%3A%2F%2Fseminaire.intranet.univ-lille1.fr%2FShibboleth.sso%2FSAML%2FPOST&amp;time=1673260859&amp;target=cookie%3A1673260859_b2cd&amp;providerId=https%3A%2F%2Fseminaire.intranet.univ-lille1.fr%2Fshibboleth">
 	<div id="userInputArea">
 		<p class="promptMessage">Pour acc&eacute;der au service <span class="serviceName">Application Séminaire</span> s&eacute;lectionnez ou cherchez l'&eacute;tablissement auquel vous appartenez.</p>
 		<div style="text-align: center">
