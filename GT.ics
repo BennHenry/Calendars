@@ -21,31 +21,22 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:calendar.615.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
-CREATED:20230109T102508Z
+UID:calendar.616.field_event_date.0@seminaire.univ-lille1.fr
+DTSTAMP:20230110T110934Z
+CREATED:20230110T110910Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
- ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nA stationary point proce
- ss is called hyperuniform if the number of points that fall into a given b
- ounded set fluctuates in lower order than the volume of the set. Usually\,
-  proving hyperuniformity rigorously is a rather difficult task and therefo
- re\, a lot of attention is given to estimating the so called structure fac
- tor instead. We demonstrate a set of simple assumptions implying that Gibb
- sian models having short range of interaction are not hyperuniform. This c
- lass includes for instance pair potentials with finite range but also many
-  non-pairwise interaction depending on the geometrical structure such as V
- oronoi interactions\n\n\nDates: \n\nFriday\, January 27\, 2023 - 14:00 to 
- 16:15\n\nLocation: \n\nSalle Duhem\n\nSpeaker(s): \n\nDaniela Flimmel
+ ions\n\nDates: \n\nFriday\, January 27\, 2023 - 14:00 to 16:15\n\nLocation
+ : \n\nSalle Duhem\n\nSpeaker(s): \n\nMoritz Otto
 DTSTART;TZID=Europe/Paris:20230127T140000
 DTEND;TZID=Europe/Paris:20230127T161500
-LAST-MODIFIED:20230109T102508Z
+LAST-MODIFIED:20230110T110910Z
 LOCATION:Salle Duhem
-SUMMARY:On the hyperuniformity of short range Gibbs point processes
-URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/615
+SUMMARY:TBA
+URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/616
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.614.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20230109T102324Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\nDates: \n\nFriday\, January 13
@@ -60,7 +51,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/614
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.613.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20221206T103626Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\nCRIStAL Sigma\n\nThematic tag(s): \n\nProbability\nSignal processing
@@ -87,22 +78,8 @@ SUMMARY:How much can a function be concentrated?
 URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/613
 END:VEVENT
 BEGIN:VEVENT
-UID:calendar.607.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
-CREATED:20220922T091234Z
-DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
- ions\n\nDates: \n\nFriday\, December 9\, 2022 - 14:00\n\nLocation: \n\nSal
- le de réunion du bâtiment M2\n\nSpeaker(s): \n\nDavid Corlin _Marchand
-DTSTART;TZID=Europe/Paris:20221209T140000
-DTEND;TZID=Europe/Paris:20221209T140000
-LAST-MODIFIED:20220922T091234Z
-LOCATION:Salle de réunion du bâtiment M2
-SUMMARY:TBA
-URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/607
-END:VEVENT
-BEGIN:VEVENT
 UID:calendar.606.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20220922T091150Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nDates: \n\nFriday\, November 18\, 2022 - 14:00\n\nLocation: \n\nSa
@@ -117,7 +94,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/606
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.608.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20220922T100025Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\n\n\n\nIn this talk\, I will discuss some determinantal point proce
@@ -145,7 +122,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/608
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.605.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20220922T091053Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nDates: \n\nFriday\, October 14\, 2022 - 14:00\n\nLocation: \n\nSal
@@ -160,7 +137,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/605
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.604.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20220922T090914Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\n\n\n\nL'effet Hall quantique est un phénomène se produisant lorsqu
@@ -185,7 +162,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/604
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.603.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20220922T090600Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\n\n\n\nDeterminantal point processes (DPPs) have attracted substant
@@ -218,7 +195,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/603
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.602.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20220506T123600Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nStatistics\n\n\n\n\nDeterminantal point proce
@@ -252,7 +229,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/602
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.601.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20220506T123358Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nMachine learning\nProbability\nStatistics\n\n
@@ -279,7 +256,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/601
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.593.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20220127T184306Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\nStatistics\n\n\n\n\nL'un des pri
@@ -307,7 +284,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/593
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.598.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20220224T190653Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nA natural way to constru
@@ -333,7 +310,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/598
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.597.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20220224T190524Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\nSignal processing\nStatistics\n
@@ -374,7 +351,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/597
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.596.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20220224T190402Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nDans cet exposé je prése
@@ -396,7 +373,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/596
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.592.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20211214T222346Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nJe vais présenter des ré
@@ -419,7 +396,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/592
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.589.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20211207T151004Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\nDates: \n\nFriday\, January 7\
@@ -434,7 +411,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/589
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.591.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20211214T222113Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nDans le modèle de percol
@@ -467,7 +444,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/591
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.586.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20211203T193346Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nPlaçons sur les arêtes d
@@ -492,7 +469,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/586
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.582.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20211019T201134Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nMachine learning\nProbability\nSignal process
@@ -516,7 +493,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/582
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.578.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20210930T195916Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\nSignal processing\nStatistics\n
@@ -545,7 +522,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/578
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.577.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20210921T133429Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nDates: \n\nFriday\, October 8\, 2021 - 14:00\n\nLocation: \n\nsall
@@ -559,7 +536,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/577
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.576.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20210921T050920Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nLors de cet exposé\, je 
@@ -582,7 +559,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/576
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.574.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20210517T203355Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\n\n\n\nDans cet exposé\, seront présentés des résultats de percolat
@@ -615,7 +592,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/574
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.570.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20210422T201018Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\n\n\n\nIn spatial statistics\, rejection sampling can be used as a 
@@ -646,7 +623,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/570
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.569.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20210422T200927Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nMachine learning\n\n\n\n\nIn modern machine l
@@ -673,7 +650,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/569
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.566.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20210413T222329Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\n\n\n\n  \n\n\n \n\n\nIl est très répandu en physique quantique de 
@@ -706,7 +683,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/566
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.573.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20210517T203232Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\n \n\n\n \n\n\nNous discu
@@ -728,7 +705,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/573
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.571.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20210422T201434Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nDates: \n\nFriday\, May 7\, 2021 - 14:00\n\nLocation: \n\nvisiocon
@@ -743,7 +720,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/571
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.565.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20210413T222243Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nOn considère le comporte
@@ -771,7 +748,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/565
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.554.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20210323T212349Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\nSignal processing\nStatistics\n
@@ -786,7 +763,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/554
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.560.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20210331T160140Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nMachine learning\nProbability\nSignal process
@@ -811,7 +788,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/560
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.553.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20210323T211721Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\n \n\n\nJe présenterai qu
@@ -831,7 +808,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/553
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.552.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20210316T203527Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\n\n\n\nSpatial data are sets of observations made of elements havin
@@ -867,7 +844,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/552
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.551.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20210301T204840Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nWhen analysing a stochas
@@ -903,7 +880,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/551
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.544.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20210211T091922Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nSoient $\mathcal{B} =\{b
@@ -950,7 +927,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/544
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.532.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20210105T083501Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\n \n\n\nUn résultat de Gh
@@ -974,7 +951,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/532
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.531.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20210105T083342Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nDans cet exposé\, on s'i
@@ -1002,7 +979,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/531
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.530.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20210105T083245Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nWe survey a couple of di
@@ -1036,7 +1013,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/530
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.529.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20210105T083116Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\n\n \n\n\n\n(travail en c
@@ -1061,7 +1038,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/529
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.517.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20201123T154041Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nMachine learning\n\nDates: \n\nFriday\, Janua
@@ -1076,7 +1053,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/517
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.499.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200917T123408Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nFriday\
@@ -1091,7 +1068,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/499
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.498.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200917T123224Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\nDates: \n\nFriday\, December 1
@@ -1106,7 +1083,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/498
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.495.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200917T122858Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nStatistics\n\nDates: \n\nFriday\, December 4\
@@ -1121,7 +1098,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/495
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.496.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200917T123034Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\nDates: \n\nFriday\, November 2
@@ -1137,7 +1114,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/496
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.497.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200917T123135Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\nDates: \n\nFriday\, November 2
@@ -1153,7 +1130,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/497
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.494.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200917T122808Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\nSignal processing\nStatistics\n
@@ -1168,7 +1145,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/494
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.493.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200917T122705Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nFriday\
@@ -1183,7 +1160,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/493
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.492.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200917T122614Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nDans cet exposé\, nous p
@@ -1219,7 +1196,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/492
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.491.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200917T122441Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\nDates: \n\nFriday\, October 2\
@@ -1234,7 +1211,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/491
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.490.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200917T122220Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nFriday\
@@ -1249,7 +1226,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/490
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.489.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200917T122019Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\nDates: \n\nFriday\, September 
@@ -1264,7 +1241,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/489
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.469.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200214T145704Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nDates: \n\nFriday\, June 26\, 2020 - 15:15\n\nLocation: \n\nSalle 
@@ -1278,7 +1255,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/469
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.468.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200214T145504Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nDates: \n\nFriday\, June 5\, 2020 - 15:15\n\nLocation: \n\nSalle d
@@ -1293,7 +1270,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/468
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.465.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200214T134257Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nFriday\
@@ -1308,7 +1285,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/465
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.464.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200214T134058Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nFriday\
@@ -1323,7 +1300,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/464
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.478.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200303T090611Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\nDates: \n\nFriday\, May 15\, 2
@@ -1338,7 +1315,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/478
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.467.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200214T145243Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nDates: \n\nFriday\, April 10\, 2020 - 15:15\n\nLocation: \n\nSalle
@@ -1352,7 +1329,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/467
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.455.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200201T224938Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\nStatistics\n\nDates: \n\nFriday\
@@ -1367,7 +1344,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/455
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.472.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200218T220959Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nStatistics\n\n\n\n\nThis is Guillaume Gautier
@@ -1383,7 +1360,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/472
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.471.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200218T220637Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\nStatistics\n\n\n\n\nTBC\n\n\nDat
@@ -1399,7 +1376,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/471
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.470.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200218T220531Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\nStatistics\n\n\n\n\nTBC\n\n\nDat
@@ -1415,7 +1392,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/470
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.466.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200214T145021Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nDates: \n\nFriday\, March 13\, 2020 - 15:15\n\nLocation: \n\nSalle
@@ -1429,7 +1406,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/466
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.453.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200117T204110Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\nDates: \n\nFriday\, March 6\, 
@@ -1444,7 +1421,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/453
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.476.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200228T111123Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nLa plus grande révolutio
@@ -1470,7 +1447,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/476
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.456.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20200201T225827Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\nSignal processing\nStatistics\n
@@ -1485,7 +1462,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/456
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.430.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20191021T091359Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nTBA\n\n\nDates: \n\nFrid
@@ -1500,7 +1477,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/430
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.428.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20191021T091004Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nTBA\n\n\nDates: \n\nFrid
@@ -1515,7 +1492,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/428
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.427.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20191021T090802Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nDans le cadre classique 
@@ -1548,7 +1525,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/427
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.426.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20191021T090457Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nTBA\n\n\nDates: \n\nFrid
@@ -1563,7 +1540,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/426
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.411.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20190927T141617Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\nTBC: processus ponctuels
@@ -1579,7 +1556,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/411
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.425.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20191021T090206Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\n \n\n\nDans cet exposé\,
@@ -1597,7 +1574,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/425
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.410.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20190927T141435Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nMachine learning\nProbability\nSignal process
@@ -1618,7 +1595,7 @@ URL;TYPE=URI:http://seminaire.univ-lille1.fr/node/410
 END:VEVENT
 BEGIN:VEVENT
 UID:calendar.409.field_event_date.0@seminaire.univ-lille1.fr
-DTSTAMP:20230109T105048Z
+DTSTAMP:20230110T110934Z
 CREATED:20190927T140926Z
 DESCRIPTION:Institutional tag: \n\nLPP/CRIStAL Point processes and applicat
  ions\n\nThematic tag(s): \n\nProbability\n\n\n\n\n(exposé piste verte : l'
